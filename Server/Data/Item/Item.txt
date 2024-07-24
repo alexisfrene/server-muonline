@@ -163,57 +163,71 @@ end
 //Index	Slot	Skill	Width	Height	Serial	Option	Drop	Name						Level	Defense	MagiDef	Durab	ReqLvl	ReqStr	ReqAgi	ReqEne	ReqVit	Atrib	DW	DK	ELF	MG
 0		2		0		2		2		1		1		1		"Bronze Helmet"				16		9		0		34		0		80		20		0		0		4		0	1	0	0
 1		2		0		2		2		1		1		1		"Dragon Helmet"				57		24		0		68		0		120		30		0		0		4		0	1	0	0
-2		2		0		2		2		1		1		1		"Pad Helmet"					5		4		0		28		0		20		0		0		0		4		1	0	0	0
+2		2		0		2		2		1		1		1		"Pad Helmet"				5		4		0		28		0		20		0		0		0		4		1	0	0	0
 3		2		0		2		2		1		1		1		"Legendary Helmet"			50		18		0		42		0		30		0		0		0		4		1	0	0	0
-4		2		0		2		2		1		1		1		"Bone Helmet"					18		9		0		30		0		30		0		0		0		4		1	0	0	0
-5		2		0		2		2		1		1		1		"Leather Helmet"				6		5		0		30		0		80		0		0		0		4		0	1	0	0
+4		2		0		2		2		1		1		1		"Bone Helmet"				18		9		0		30		0		30		0		0		0		4		1	0	0	0
+5		2		0		2		2		1		1		1		"Leather Helmet"			6		5		0		30		0		80		0		0		0		4		0	1	0	0
 6		2		0		2		2		1		1		1		"Scale Helmet"				26		12		0		40		0		110		0		0		0		4		0	1	0	0
 7		2		0		2		2		1		1		1		"Sphinx Helmet"				32		13		0		36		0		30		0		0		0		4		1	0	0	0
 8		2		0		2		2		1		1		1		"Brass Helmet"				36		17		0		44		0		100		30		0		0		4		0	1	0	0
 9		2		0		2		2		1		1		1		"Plate Helmet"				46		20		0		50		0		130		0		0		0		4		0	1	0	0
-10		2		0		2		2		1		1		1		"Vine Helmet"					6		4		0		22		0		30		60		0		0		4		0	0	1	0
-11		2		0		2		2		1		1		1		"Silk Helmet"					16		8		0		26		0		30		70		0		0		4		0	0	1	0
-12		2		0		2		2		1		1		1		"Wind Helmet"					28		12		0		32		0		30		80		0		0		4		0	0	1	0
+10		2		0		2		2		1		1		1		"Vine Helmet"				6		4		0		22		0		30		60		0		0		4		0	0	1	0
+11		2		0		2		2		1		1		1		"Silk Helmet"				16		8		0		26		0		30		70		0		0		4		0	0	1	0
+12		2		0		2		2		1		1		1		"Wind Helmet"				28		12		0		32		0		30		80		0		0		4		0	0	1	0
 13		2		0		2		2		1		1		1		"Spirit Helmet"				40		16		0		38		0		40		80		0		0		4		0	0	1	0
-14		2		0		2		2		1		1		1		"Guardian Helmet"				53		23		0		45		0		40		80		0		0		4		0	0	1	0
-16		2		0		2		2		1		1		1		"Black Dragon Helmet"			82		30		0		74		0		170		60		0		0		4		0	1	0	0
-17		2		0		2		2		1		1		1		"Dark Phoenix Helmet"			92		43		0		80		0		205		62		0		0		4		0	2	0	0
+14		2		0		2		2		1		1		1		"Guardian Helmet"			53		23		0		45		0		40		80		0		0		4		0	0	1	0
+16		2		0		2		2		1		1		1		"Black Dragon Helmet"		82		30		0		74		0		170		60		0		0		4		0	1	0	0
+17		2		0		2		2		1		1		1		"Dark Phoenix Helmet"		92		43		0		80		0		205		62		0		0		4		0	2	0	0
 18		2		0		2		2		1		1		1		"Grand Soul Helmet"			81		27		0		67		0		59		20		0		0		4		2	0	0	0
 19		2		0		2		2		1		1		1		"Divine Helmet"				85		37		0		74		0		50		110		0		0		4		0	0	2	0
-21		2		0		2		2		1		1		0		"Flaming Phoenix Helmet"		104		53		0		86		0		200		58		0		0		4		0	2	0	0
-22		2		0		2		2		1		1		0		"Hero Knight Helmet"			104		53		0		86		0		200		58		0		0		4		0	2	0	0
-23		2		0		2		2		1		1		0		"Ashcrow Helmet"				104		53		0		86		0		200		58		0		0		4		0	2	0	0
+21		2		0		2		2		1		1		0		"Flaming Phoenix Helmet"	104		53		0		86		0		200		58		0		0		4		0	2	0	0
+22		2		0		2		2		1		1		0		"Hero Knight Helmet"		104		53		0		86		0		200		58		0		0		4		0	2	0	0
+23		2		0		2		2		1		1		0		"Ashcrow Helmet"			104		53		0		86		0		200		58		0		0		4		0	2	0	0
+24		2		0		2		2		1		1		1		"Dark Side Helmet"			81		27		0		67		0		59		20		0		0		4		2	0	0	0
+25		2		0		2		2		1		1		1		"Great Sorcerer Helmet"		81		27		0		67		0		59		20		0		0		4		2	0	0	0
+26		2		0		2		2		1		1		1		"Eclipse Helmet"			81		27		0		67		0		59		20		0		0		4		2	0	0	0
+27		2		0		2		2		1		1		1		"Nature Helmet"				85		37		0		74		0		50		110		0		0		4		0	0	2	0
+28		2		0		2		2		1		1		1		"Aphrodite Helmet"			85		37		0		74		0		50		110		0		0		4		0	0	2	0
+29		2		0		2		2		1		1		1		"Diamond Helmet"			85		37		0		74		0		50		110		0		0		4		0	0	2	0
 end
 
 //=====================================
 //	ARMORS
 //=====================================
 8
-//Index	Slot	Skill	Width	Height	Serial	Option	Drop	Name					Level	Defense	MagiDef	Durab	ReqLvl	ReqStr	ReqAgi	ReqEne	ReqVit	Atrib	DW	DK	ELF	MG
-0	3	0	2	2	1	1	1	"Bronze Armor"				18	14	0	34	0	80	20	0	0	4	0	1	0	1
-1	3	0	2	3	1	1	1	"Dragon Armor"				59	37	0	68	0	120	30	0	0	4	0	1	0	1
-2	3	0	2	2	1	1	1	"Pad Armor"					10	7	0	28	0	30	0	0	0	4	1	0	0	1
-3	3	0	2	2	1	1	1	"Legendary Armor"			56	22	0	42	0	40	0	0	0	4	1	0	0	1
-4	3	0	2	2	1	1	1	"Bone Armor"				22	13	0	30	0	40	0	0	0	4	1	0	0	1
-5	3	0	2	3	1	1	1	"Leather Armor"				10	10	0	30	0	80	0	0	0	4	0	1	0	1
-6	3	0	2	2	1	1	1	"Scale Armor"				28	18	0	40	0	110	0	0	0	4	0	1	0	1
-7	3	0	2	3	1	1	1	"Sphinx Armor"				38	17	0	36	0	40	0	0	0	4	1	0	0	1
-8	3	0	2	2	1	1	1	"Brass Armor"				38	22	0	44	0	100	30	0	0	4	0	1	0	1
-9	3	0	2	2	1	1	1	"Plate Armor"				48	30	0	50	0	130	0	0	0	4	0	1	0	1
-10	3	0	2	2	1	1	1	"Vine Armor"				10	8	0	22	0	30	60	0	0	4	0	0	1	0
-11	3	0	2	2	1	1	1	"Silk Armor"				20	12	0	26	0	30	70	0	0	4	0	0	1	0
-12	3	0	2	2	1	1	1	"Wind Armor"				32	16	0	32	0	30	80	0	0	4	0	0	1	0
-13	3	0	2	2	1	1	1	"Spirit Armor"				44	21	0	38	0	40	80	0	0	4	0	0	1	0
-14	3	0	2	2	1	1	1	"Guardian Armor"			57	29	0	45	0	40	80	0	0	4	0	0	1	0
-15	3	0	2	3	1	1	1	"Unicorn Armor"				80	44	0	80	0	150	70	0	0	4	0	0	0	1
-16	3	0	2	3	1	1	1	"Black Dragon Armor"		90	48	0	74	0	170	60	0	0	4	0	1	0	0
-17	3	0	2	3	1	1	1	"Dark Phoenix Armor"		100	63	0	80	0	214	65	0	0	4	0	2	0	0
-18	3	0	2	3	1	1	1	"Grand Soul Armor"			91	33	0	67	0	59	20	0	0	4	2	0	0	0
-19	3	0	2	2	1	1	1	"Divine Armor"				92	44	0	74	0	50	110	0	0	4	0	0	2	0
-20	3	0	2	3	1	1	1	"Thunder Hawk Armor"		107	60	0	82	0	170	70	0	0	4	0	0	0	1
-21	3	0	2	3	1	1	0	"Flaming Phoenix Armor"		126	75	0	86	0	200	58	0	0	4	0	2	0	0
-22	3	0	2	3	1	1	0	"Hero Knight Armor"			126	75	0	86	0	200	58	0	0	4	0	2	0	0
-23	3	0	2	3	1	1	0	"Ashcrow Armor"				126	75	0	86	0	200	58	0	0	4	0	2	0	0
+//Index	Slot	Skill	Width	Height	Serial	Option	Drop	Name						Level	Defense	MagiDef	Durab	ReqLvl	ReqStr	ReqAgi	ReqEne	ReqVit	Atrib	DW	DK	ELF	MG
+0		3		0		2		2		1		1		1		"Bronze Armor"				18		14		0		34		0		80		20		0		0		4		0	1	0	1
+1		3		0		2		3		1		1		1		"Dragon Armor"				59		37		0		68		0		120		30		0		0		4		0	1	0	1
+2		3		0		2		2		1		1		1		"Pad Armor"					10		7		0		28		0		30		0		0		0		4		1	0	0	1
+3		3		0		2		2		1		1		1		"Legendary Armor"			56		22		0		42		0		40		0		0		0		4		1	0	0	1
+4		3		0		2		2		1		1		1		"Bone Armor"				22		13		0		30		0		40		0		0		0		4		1	0	0	1
+5		3		0		2		3		1		1		1		"Leather Armor"				10		10		0		30		0		80		0		0		0		4		0	1	0	1
+6		3		0		2		2		1		1		1		"Scale Armor"				28		18		0		40		0		110		0		0		0		4		0	1	0	1
+7		3		0		2		3		1		1		1		"Sphinx Armor"				38		17		0		36		0		40		0		0		0		4		1	0	0	1
+8		3		0		2		2		1		1		1		"Brass Armor"				38		22		0		44		0		100		30		0		0		4		0	1	0	1
+9		3		0		2		2		1		1		1		"Plate Armor"				48		30		0		50		0		130		0		0		0		4		0	1	0	1
+10		3		0		2		2		1		1		1		"Vine Armor"				10		8		0		22		0		30		60		0		0		4		0	0	1	0
+11		3		0		2		2		1		1		1		"Silk Armor"				20		12		0		26		0		30		70		0		0		4		0	0	1	0
+12		3		0		2		2		1		1		1		"Wind Armor"				32		16		0		32		0		30		80		0		0		4		0	0	1	0
+13		3		0		2		2		1		1		1		"Spirit Armor"				44		21		0		38		0		40		80		0		0		4		0	0	1	0
+14		3		0		2		2		1		1		1		"Guardian Armor"			57		29		0		45		0		40		80		0		0		4		0	0	1	0
+15		3		0		2		3		1		1		1		"Unicorn Armor"				80		44		0		80		0		150		70		0		0		4		0	0	0	1
+16		3		0		2		3		1		1		1		"Black Dragon Armor"		90		48		0		74		0		170		60		0		0		4		0	1	0	0
+17		3		0		2		3		1		1		1		"Dark Phoenix Armor"		100		63		0		80		0		214		65		0		0		4		0	2	0	0
+18		3		0		2		3		1		1		1		"Grand Soul Armor"			91		33		0		67		0		59		20		0		0		4		2	0	0	0
+19		3		0		2		2		1		1		1		"Divine Armor"				92		44		0		74		0		50		110		0		0		4		0	0	2	0
+20		3		0		2		3		1		1		1		"Thunder Hawk Armor"		107		60		0		82		0		170		70		0		0		4		0	0	0	1
+21		3		0		2		3		1		1		0		"Flaming Phoenix Armor"		126		75		0		86		0		200		58		0		0		4		0	2	0	0
+22		3		0		2		3		1		1		0		"Hero Knight Armor"			126		75		0		86		0		200		58		0		0		4		0	2	0	0
+23		3		0		2		3		1		1		0		"Ashcrow Armor"				126		75		0		86		0		200		58		0		0		4		0	2	0	0
+24		3		0		2		3		1		1		1		"Dark Side Armor"			91		33		0		67		0		59		20		0		0		4		2	0	0	0
+25		3		0		2		3		1		1		1		"Great Sorcerer Armor"		91		33		0		67		0		59		20		0		0		4		2	0	0	0
+26		3		0		2		3		1		1		1		"Eclipse Armor"				91		33		0		67		0		59		20		0		0		4		2	0	0	0
+27		3		0		2		2		1		1		1		"Nature Armor"				92		44		0		74		0		50		110		0		0		4		0	0	2	0
+28		3		0		2		2		1		1		1		"Aphrodite Armor"			92		44		0		74		0		50		110		0		0		4		0	0	2	0
+29		3		0		2		2		1		1		1		"Diamond Armor"				92		44		0		74		0		50		110		0		0		4		0	0	2	0
+30		3		0		2		3		1		1		1		"Volcano Armor"				107		60		0		82		0		170		70		0		0		4		0	0	0	1
+31		3		0		2		3		1		1		1		"Titanium Armor"			107		60		0		82		0		170		70		0		0		4		0	0	0	1
 end
 
 //=====================================
@@ -223,7 +237,7 @@ end
 //Index	Slot	Skill	Width	Height	Serial	Option	Drop	Name					Level	Defense	MagiDef	Durab	ReqLvl	ReqStr	ReqAgi	ReqEne	ReqVit	Atrib	DW	DK	ELF	MG
 0	4	0	2	2	1	1	1	"Bronze Pants"				15	10	0	34	0	80	20	0	0	4	0	1	0	1
 1	4	0	2	2	1	1	1	"Dragon Pants"				55	26	0	68	0	120	30	0	0	4	0	1	0	1
-2	4	0	2	2	1	1	1	"Pad Pants"				8	5	0	28	0	30	0	0	0	4	1	0	0	1
+2	4	0	2	2	1	1	1	"Pad Pants"					8	5	0	28	0	30	0	0	0	4	1	0	0	1
 3	4	0	2	2	1	1	1	"Legendary Pants"			53	20	0	42	0	40	0	0	0	4	1	0	0	1
 4	4	0	2	2	1	1	1	"Bone Pants"				20	10	0	30	0	40	0	0	0	4	1	0	0	1
 5	4	0	2	2	1	1	1	"Leather Pants"				8	7	0	30	0	80	0	0	0	4	0	1	0	1
@@ -237,14 +251,22 @@ end
 13	4	0	2	2	1	1	1	"Spirit Pants"				42	18	0	38	0	40	80	0	0	4	0	0	1	0
 14	4	0	2	2	1	1	1	"Guardian Pants"			54	25	0	45	0	40	80	0	0	4	0	0	1	0
 15	4	0	2	2	1	1	1	"Unicorn Pants"				74	34	0	80	0	150	70	0	0	4	0	0	0	1
-16	4	0	2	2	1	1	1	"Black Dragon Pants"			84	40	0	74	0	170	60	0	0	4	0	1	0	0
-17	4	0	2	2	1	1	1	"Dark Phoenix Pants"			96	54	0	80	0	207	63	0	0	4	0	2	0	0
+16	4	0	2	2	1	1	1	"Black Dragon Pants"		84	40	0	74	0	170	60	0	0	4	0	1	0	0
+17	4	0	2	2	1	1	1	"Dark Phoenix Pants"		96	54	0	80	0	207	63	0	0	4	0	2	0	0
 18	4	0	2	2	1	1	1	"Grand Soul Pants"			86	30	0	67	0	59	20	0	0	4	2	0	0	0
 19	4	0	2	2	1	1	1	"Divine Pants"				88	39	0	74	0	50	110	0	0	4	0	0	2	0
-20	4	0	2	2	1	1	1	"Thunder Hawk Pants"			99	49	0	82	0	150	70	0	0	4	0	0	0	1
-21	4	0	2	2	1	1	0	"Flaming Phoenix Pants"			113	65	0	86	0	200	58	0	0	4	0	2	0	0
+20	4	0	2	2	1	1	1	"Thunder Hawk Pants"		99	49	0	82	0	150	70	0	0	4	0	0	0	1
+21	4	0	2	2	1	1	0	"Flaming Phoenix Pants"		113	65	0	86	0	200	58	0	0	4	0	2	0	0
 22	4	0	2	2	1	1	0	"Hero Knight Pants"			113	65	0	86	0	200	58	0	0	4	0	2	0	0
-23	4	0	2	2	1	1	0	"Ashcrow Pants"			113	65	0	86	0	200	58	0	0	4	0	2	0	0
+23	4	0	2	2	1	1	0	"Ashcrow Pants"				113	65	0	86	0	200	58	0	0	4	0	2	0	0
+24	4	0	2	2	1	1	1	"Dark Side Pants"			86	30	0	67	0	59	20	0	0	4	2	0	0	0
+25	4	0	2	2	1	1	1	"Great Sorcerer Pants"		86	30	0	67	0	59	20	0	0	4	2	0	0	0
+26	4	0	2	2	1	1	1	"Eclipse Pants"				86	30	0	67	0	59	20	0	0	4	2	0	0	0
+27	4	0	2	2	1	1	1	"Nature Pants"				88	39	0	74	0	50	110	0	0	4	0	0	2	0
+28	4	0	2	2	1	1	1	"Aphrodite Pants"			88	39	0	74	0	50	110	0	0	4	0	0	2	0
+29	4	0	2	2	1	1	1	"Diamond Pants"				88	39	0	74	0	50	110	0	0	4	0	0	2	0
+30	4	0	2	2	1	1	1	"Volcano Pants"				99	49	0	82	0	150	70	0	0	4	0	0	0	1
+31	4	0	2	2	1	1	1	"Titanium Pants"			99	49	0	82	0	150	70	0	0	4	0	0	0	1
 end
 
 //=====================================
@@ -276,37 +298,53 @@ end
 21	5	0	2	2	1	1	0	"Flaming Phoenix Gloves"			94	48	0	86	0	200	58	0	0	4	0	2	0	0
 22	5	0	2	2	1	1	0	"Hero Knight Gloves"			94	48	0	86	0	200	58	0	0	4	0	2	0	0
 23	5	0	2	2	1	1	0	"Ashcrow Gloves"			94	48	0	86	0	200	58	0	0	4	0	2	0	0
+24	5	0	2	2	1	1	1	"Dark Side Gloves"			70	20	0	67	0	49	10	0	0	4	2	0	0	0
+25	5	0	2	2	1	1	1	"Great Sorcerer Gloves"			70	20	0	67	0	49	10	0	0	4	2	0	0	0
+26	5	0	2	2	1	1	1	"Eclipse Gloves"			70	20	0	67	0	49	10	0	0	4	2	0	0	0
+27	5	0	2	2	1	1	1	"Nature Gloves"				72	29	0	74	0	50	110	0	0	4	0	0	2	0
+28	5	0	2	2	1	1	1	"Aphrodite Gloves"				72	29	0	74	0	50	110	0	0	4	0	0	2	0
+29	5	0	2	2	1	1	1	"Diamond Gloves"				72	29	0	74	0	50	110	0	0	4	0	0	2	0
+30	5	0	2	2	1	1	1	"Volcano Gloves"			88	34	0	82	0	150	70	0	0	4	0	0	0	1
+31	5	0	2	2	1	1	1	"Titanium Gloves"			88	34	0	82	0	150	70	0	0	4	0	0	0	1
 end
 
 //=====================================
 //	BOOTS
 //=====================================
 11
-//Index	Slot	Skill	Width	Height	Serial	Option	Drop	Name					Level	Defense	WalkSpd	Durab	ReqLvl	ReqStr	ReqAgi	ReqEne	ReqVit	Atrib	DW	DK	ELF	MG
-0	6	0	2	2	1	1	1	"Bronze Boots"				12	4	0	34	0	80	20	0	0	4	0	1	0	1
-1	6	0	2	2	1	1	1	"Dragon Boots"				54	15	0	68	0	120	30	0	0	4	0	1	0	1
-2	6	0	2	2	1	1	1	"Pad Boots"					4	3	0	28	0	20	0	0	0	4	1	0	0	1
-3	6	0	2	2	1	1	1	"Legendary Boots"			46	12	0	42	0	30	0	0	0	4	1	0	0	1
-4	6	0	2	2	1	1	1	"Bone Boots"				16	6	0	30	0	30	0	0	0	4	1	0	0	1
-5	6	0	2	2	1	1	1	"Leather Boots"				5	2	0	30	0	80	0	0	0	4	0	1	0	1
-6	6	0	2	2	1	1	1	"Scale Boots"				22	8	0	40	0	110	0	0	0	4	0	1	0	1
-7	6	0	2	2	1	1	1	"Sphinx Boots"				30	9	0	36	0	30	0	0	0	4	1	0	0	1
-8	6	0	2	2	1	1	1	"Brass Boots"				32	10	0	44	0	100	30	0	0	4	0	1	0	1
-9	6	0	2	2	1	1	1	"Plate Boots"				42	12	0	50	0	130	0	0	0	4	0	1	0	1
-10	6	0	2	2	1	1	1	"Vine Boots"				5	2	0	22	0	30	60	0	0	4	0	0	1	0
-11	6	0	2	2	1	1	1	"Silk Boots"				15	4	0	26	0	30	70	0	0	4	0	0	1	0
-12	6	0	2	2	1	1	1	"Wind Boots"				27	7	0	32	0	30	80	0	0	4	0	0	1	0
-13	6	0	2	2	1	1	1	"Spirit Boots"				40	10	0	38	0	40	80	0	0	4	0	0	1	0
-14	6	0	2	2	1	1	1	"Guardian Boots"			52	16	0	45	0	40	80	0	0	4	0	0	1	0
-15	6	0	2	2	1	1	1	"Unicorn Boots"				72	22	0	80	0	150	70	0	0	4	0	0	0	1
-16	6	0	2	2	1	1	1	"Black Dragon Boots"			78	24	0	74	0	170	60	0	0	4	0	1	0	0
-17	6	0	2	2	1	1	1	"Dark Phoenix Boots"			93	40	0	80	0	198	60	0	0	4	0	2	0	0
-18	6	0	2	2	1	1	1	"Grand Soul Boots"			76	22	0	67	0	59	10	0	0	4	2	0	0	0
-19	6	0	2	2	1	1	1	"Divine Boots"				81	30	0	74	0	50	110	0	0	4	0	0	2	0
-20	6	0	2	2	1	1	1	"Thunder Hawk Boots"			92	37	0	82	0	150	70	0	0	4	0	0	0	1
-21	6	0	2	2	1	1	0	"Flaming Phoenix Boots"			98	50	0	86	0	200	58	0	0	4	0	2	0	0
-22	6	0	2	2	1	1	0	"Hero Knight Boots"			98	50	0	86	0	200	58	0	0	4	0	2	0	0
-23	6	0	2	2	1	1	0	"Ashcrow Boots"				98	50	0	86	0	200	58	0	0	4	0	2	0	0
+//Index	Slot	Skill	Width	Height	Serial	Option	Drop	Name						Level	Defense	WalkSpd	Durab	ReqLvl	ReqStr	ReqAgi	ReqEne	ReqVit	Atrib	DW	DK	ELF	MG
+0		6		0		2		2		1		1		1		"Bronze Boots"				12		4		0		34		0		80		20		0		0		4		0	1	0	1
+1		6		0		2		2		1		1		1		"Dragon Boots"				54		15		0		68		0		120		30		0		0		4		0	1	0	1
+2		6		0		2		2		1		1		1		"Pad Boots"					4		3		0		28		0		20		0		0		0		4		1	0	0	1
+3		6		0		2		2		1		1		1		"Legendary Boots"			46		12		0		42		0		30		0		0		0		4		1	0	0	1
+4		6		0		2		2		1		1		1		"Bone Boots"				16		6		0		30		0		30		0		0		0		4		1	0	0	1
+5		6		0		2		2		1		1		1		"Leather Boots"				5		2		0		30		0		80		0		0		0		4		0	1	0	1
+6		6		0		2		2		1		1		1		"Scale Boots"				22		8		0		40		0		110		0		0		0		4		0	1	0	1
+7		6		0		2		2		1		1		1		"Sphinx Boots"				30		9		0		36		0		30		0		0		0		4		1	0	0	1
+8		6		0		2		2		1		1		1		"Brass Boots"				32		10		0		44		0		100		30		0		0		4		0	1	0	1
+9		6		0		2		2		1		1		1		"Plate Boots"				42		12		0		50		0		130		0		0		0		4		0	1	0	1
+10		6		0		2		2		1		1		1		"Vine Boots"				5		2		0		22		0		30		60		0		0		4		0	0	1	0
+11		6		0		2		2		1		1		1		"Silk Boots"				15		4		0		26		0		30		70		0		0		4		0	0	1	0
+12		6		0		2		2		1		1		1		"Wind Boots"				27		7		0		32		0		30		80		0		0		4		0	0	1	0
+13		6		0		2		2		1		1		1		"Spirit Boots"				40		10		0		38		0		40		80		0		0		4		0	0	1	0
+14		6		0		2		2		1		1		1		"Guardian Boots"			52		16		0		45		0		40		80		0		0		4		0	0	1	0
+15		6		0		2		2		1		1		1		"Unicorn Boots"				72		22		0		80		0		150		70		0		0		4		0	0	0	1
+16		6		0		2		2		1		1		1		"Black Dragon Boots"		78		24		0		74		0		170		60		0		0		4		0	1	0	0
+17		6		0		2		2		1		1		1		"Dark Phoenix Boots"		93		40		0		80		0		198		60		0		0		4		0	2	0	0
+18		6		0		2		2		1		1		1		"Grand Soul Boots"			76		22		0		67		0		59		10		0		0		4		2	0	0	0
+19		6		0		2		2		1		1		1		"Divine Boots"				81		30		0		74		0		50		110		0		0		4		0	0	2	0
+20		6		0		2		2		1		1		1		"Thunder Hawk Boots"		92		37		0		82		0		150		70		0		0		4		0	0	0	1
+21		6		0		2		2		1		1		0		"Flaming Phoenix Boots"		98		50		0		86		0		200		58		0		0		4		0	2	0	0
+22		6		0		2		2		1		1		0		"Hero Knight Boots"			98		50		0		86		0		200		58		0		0		4		0	2	0	0
+23		6		0		2		2		1		1		0		"Ashcrow Boots"				98		50		0		86		0		200		58		0		0		4		0	2	0	0
+24		6		0		2		2		1		1		1		"Dark Side Boots"			76		22		0		67		0		59		10		0		0		4		2	0	0	0
+25		6		0		2		2		1		1		1		"Great Sorcerer Boots"		76		22		0		67		0		59		10		0		0		4		2	0	0	0
+26		6		0		2		2		1		1		1		"Eclipse Boots"				76		22		0		67		0		59		10		0		0		4		2	0	0	0
+27		6		0		2		2		1		1		1		"Nature Boots"				81		30		0		74		0		50		110		0		0		4		0	0	2	0
+28		6		0		2		2		1		1		1		"Aphrodite Boots"			81		30		0		74		0		50		110		0		0		4		0	0	2	0
+29		6		0		2		2		1		1		1		"Diamond Boots"				81		30		0		74		0		50		110		0		0		4		0	0	2	0
+30		6		0		2		2		1		1		1		"Volcano Boots"				92		37		0		82		0		150		70		0		0		4		0	0	0	1
+31		6		0		2		2		1		1		1		"Titanium Boots"			92		37		0		82		0		150		70		0		0		4		0	0	0	1
 end
 
 //=====================================
