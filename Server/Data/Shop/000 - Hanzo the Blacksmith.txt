@@ -1,0 +1,45 @@
+//==============================================================
+// SHOP
+//==============================================================
+//SLOTS X = 0~7 , Y = 0~14 , * = Orden original
+//Index	Level	Dur	Skill	Luck	Option	ExcOp	SlotX	SlotY	Comment
+
+7,005	11		*	0		1		1		0		*		*	// Helms Leather
+7,000	11		*	0		1		1		0		*		*	// Helms Bronce
+7,006	11		*	0		1		1		0		*		*	// Helms Scale
+7,009	11		*	0		1		1		0		*		*	// Helms Plate
+
+8,005	11		*	0		1		1		0		*		*	// Armor Leather
+8,000	11		*	0		1		1		0		*		*	// Armor Bronce
+8,006	11		*	0		1		1		0		*		*	// Armor Scale
+8,009	11		*	0		1		1		0		*		*	// Armor Plate
+
+10,005	11		*	0		1		1		0		0		5	// Gloves Leather
+10,000	11		*	0		1		1		0		*		*	// Gloves Bronce
+10,006	11		*	0		1		1		0		*		*	// Gloves Scale
+10,009	11		*	0		1		1		0		*		*	// Gloves Plate
+
+9,005	11		*	0		1		1		0		0		7	// Pants Leather
+9,000	11		*	0		1		1		0		*		*	// Pants Bronce
+9,006	11		*	0		1		1		0		*		*	// Pants Scale
+9,009	11		*	0		1		1		0		*		*	// Pants Plate
+
+11,005	11		*	0		1		1		0		0		9	// Bots Leather
+11,000	11		*	0		1		1		0		*		*	// Bots Bronce
+11,006	11		*	0		1		1		0		*		*	// Bots Scale
+11,009	11		*	0		1		1		0		*		*	// Bots Plate
+
+6,005	11		*	1		1		1		0		2		10	// Dragon Slayer Shield
+6,007	11		*	1		1		1		0		4		10	// Spiked Shield
+
+3,009	11		*	1		1		1		0		0		11	// Bill of Balrog
+3,008	11		*	1		1		1		0		1		11	// Great Scythe
+0,003	11		*	1		1		1		0		2		12	// Katana
+2,003	11		*	1		1		1		0		3		12	// Great Hammer
+1,003	11		*	1		1		1		0		4		12	// Tomahawk
+0,006	11		*	1		1		1		0		5		12	// Gladius
+0,002	11		*	1		1		1		0		6		12	// Rapier
+2,000	11		*	1		1		1		0		7		12	// Mace
+
+13,013	1		*	0		0		2		0		*		*	// Fire
+end

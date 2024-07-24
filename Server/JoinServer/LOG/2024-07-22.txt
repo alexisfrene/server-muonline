@@ -1,0 +1,34 @@
+00:57:30 [ServerManager][0] DelServer (127.0.0.1)
+00:58:55 [ServerManager][0] AddServer (127.0.0.1)
+00:58:55 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+01:28:58 [SocketManager] Server started at port [55990]
+01:29:00 [ServerManager][0] AddServer (127.0.0.1)
+01:29:00 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+03:15:08 [SocketManager] Server started at port [55990]
+03:15:10 [ServerManager][0] AddServer (127.0.0.1)
+03:15:10 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:02:25 [ServerManager][0] DelServer (127.0.0.1)
+16:02:33 [ServerManager][1] AddServer (127.0.0.1)
+16:02:33 [ServerManager][1] ServerInfo (SV1) (55901) (0)
+16:04:54 [SocketManager] Server started at port [55990]
+16:04:54 [SocketManager] WSAAccept() failed with error: 10061
+16:05:05 [ServerManager][0] AddServer (127.0.0.1)
+16:05:05 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:17:01 [SocketManager] Server started at port [55990]
+16:17:04 [ServerManager][0] AddServer (127.0.0.1)
+16:17:04 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:19:51 [SocketManager] Server started at port [55990]
+16:19:53 [ServerManager][0] AddServer (127.0.0.1)
+16:19:53 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:21:39 [SocketManager] Server started at port [55990]
+16:21:41 [ServerManager][0] AddServer (127.0.0.1)
+16:21:41 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:22:52 [ServerManager][0] DelServer (127.0.0.1)
+16:22:58 [ServerManager][1] AddServer (127.0.0.1)
+16:22:58 [ServerManager][1] ServerInfo (SV1) (55901) (0)
+16:25:23 [SocketManager] Server started at port [55990]
+16:25:40 [ServerManager][0] AddServer (127.0.0.1)
+16:25:40 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:54:33 [SocketManager] Server started at port [55990]
+16:54:35 [ServerManager][0] AddServer (127.0.0.1)
+16:54:35 [ServerManager][0] ServerInfo (SV1) (55901) (0)

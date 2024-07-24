@@ -1,0 +1,31 @@
+0
+//EventName			DropZen	ItemDropRate	ItemDropCount	ItemDropType	Fireworks	
+"Gold Medal"		1000	100				1				1				0
+end
+
+1
+//Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment
+//00,000	0			0			0			0			0		0	
+7,21		7			11			0			1			7		0		//Set Great Dragon
+8,21		7			11			0			1			7		0		//Set Great Dragon
+9,21		7			11			0			1			7		0		//Set Great Dragon
+10,21		7			11			0			1			7		0		//Set Great Dragon
+11,21		7			11			0			1			7		0		//Set Great Dragon
+		
+7,18		7			11			0			1			7		0		//Set Grand Soul
+8,18		7			11			0			1			7		0		//Set Grand Soul
+9,18		7			11			0			1			7		0		//Set Grand Soul
+10,18		7			11			0			1			7		0		//Set Grand Soul
+11,18		7			11			0			1			7		0		//Set Grand Soul
+			
+7,19		7			11			0			1			7		0		//Set Divine
+8,19		7			11			0			1			7		0		//Set Divine
+9,19		7			11			0			1			7		0		//Set Divine
+10,19		7			11			0			1			7		0		//Set Divine
+11,19		7			11			0			1			7		0		//Set Divine
+			
+8,20		7			11			0			1			7		0		//Set Thunder Hawk
+9,20		7			11			0			1			7		0		//Set Thunder Hawk
+10,20		7			11			0			1			7		0		//Set Thunder Hawk
+11,20		7			11			0			1			7		0		//Set Thunder Hawk
+end

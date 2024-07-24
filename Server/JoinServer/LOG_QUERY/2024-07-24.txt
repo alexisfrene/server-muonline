@@ -1,0 +1,1063 @@
+01:06:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:06:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:07:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:07:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:08:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:08:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:09:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:09:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:10:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:10:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:11:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:11:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:12:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:12:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:13:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:13:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:14:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:14:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:15:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:15:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:16:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:16:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:17:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:17:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:18:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:18:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:19:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:19:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:20:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:20:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:21:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:21:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:22:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:22:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:23:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:23:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:24:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:24:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:25:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:25:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:26:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:26:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:27:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:27:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:28:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:28:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:29:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:29:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:30:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:30:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:30:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:31:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:31:14 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:31:14 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:31:14 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:31:14 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:31:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:31:14 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:32:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:32:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:33:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:33:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:33:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:34:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:35:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:35:27 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:35:27 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:35:27 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:35:27 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:35:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:35:27 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:35:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:36:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:37:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:38:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:39:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:40:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:41:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:42:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:42:23 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:42:23 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:42:23 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:42:23 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:42:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:42:23 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:43:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:43:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:43:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:44:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:45:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:46:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:47:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:47:12 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:47:12 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:47:12 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:47:12 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:47:12 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:47:12 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:47:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:48:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:48:29 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:48:35 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:48:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:48:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:48:35 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:48:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:48:35 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:48:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:49:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:49:08 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:49:08 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:49:08 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:49:08 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:49:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:49:08 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:49:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:49:38 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:49:38 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:49:38 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:49:38 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:49:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:49:38 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:49:46 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:50:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:51:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:51:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:51:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:51:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:51:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:51:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:51:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:51:38 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:52:04 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:52:04 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:52:04 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:52:04 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:52:04 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:52:04 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:52:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:52:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:52:18 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:52:50 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:52:50 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:52:50 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:52:50 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:52:50 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:52:50 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:52:53 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:53:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:53:10 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:53:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:53:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:53:10 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:53:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:53:10 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:53:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:53:34 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:53:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:53:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:53:34 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:53:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:53:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:53:37 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:53:55 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:53:55 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:53:55 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:53:55 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:53:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:53:55 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:54:06 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:54:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:54:26 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:54:26 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:54:26 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:54:26 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:54:26 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:54:26 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:54:29 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:54:48 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:54:48 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:54:48 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:54:48 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:54:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:54:48 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:54:51 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:55:05 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:55:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:55:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:55:05 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:55:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:55:05 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:55:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:55:09 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:55:26 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:55:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:55:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:55:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:55:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:55:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:55:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:55:37 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:55:53 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:55:53 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:55:53 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:55:53 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:55:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:55:53 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:55:57 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:56:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:56:13 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:56:13 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:56:13 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:56:13 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:56:13 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:56:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:56:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:56:33 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:56:33 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:56:33 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:56:33 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:56:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:56:33 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:56:35 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:56:51 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:56:51 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:56:51 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:56:51 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:56:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:56:51 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:56:55 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:57:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:57:13 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:57:13 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:57:13 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:57:13 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:57:13 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:57:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:57:16 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:57:36 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:57:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:57:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:57:36 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:57:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:57:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:57:40 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:58:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:58:14 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:58:14 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:58:14 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:58:14 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:58:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:58:14 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:58:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:58:34 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:58:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:58:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:58:34 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:58:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:58:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:58:38 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:58:55 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:58:55 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:58:55 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:58:55 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:58:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:58:55 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+01:58:58 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+01:59:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+01:59:17 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+01:59:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+01:59:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+01:59:17 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+01:59:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+01:59:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:00:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:00:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:01:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:01:33 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:01:33 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:01:33 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:01:33 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:01:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:01:33 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:02:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:02:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:03:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:03:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:03:11 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:04:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:05:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:05:14 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:05:14 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:05:14 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:05:14 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:05:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:05:14 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:06:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:06:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:06:19 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:07:05 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:07:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:07:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:07:05 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:07:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:07:05 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:07:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:08:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:08:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:08:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:09:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:10:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:11:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:12:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:13:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:14:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:14:12 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:14:12 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:14:12 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:14:12 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:14:12 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:14:12 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:14:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:15:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:15:51 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:15:51 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:15:51 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:15:51 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:15:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:15:51 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:16:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:16:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:16:31 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:17:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:18:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:18:48 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:18:48 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:18:48 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:18:48 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:18:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:18:48 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:19:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:19:11 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:20:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:21:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:22:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:22:43 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+02:23:28 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+02:23:28 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+02:23:28 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+02:23:28 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+02:23:28 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+02:23:28 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.67')
+02:24:01 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+02:24:07 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:24:07 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:24:07 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:24:07 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:24:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:24:07 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+02:25:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:26:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:27:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:28:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:29:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:29:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:47:16 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:47:16 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:47:16 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:47:16 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:47:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:47:16 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:48:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:48:52 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:50:35 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:50:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:50:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:50:35 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:50:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:50:35 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:51:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:51:39 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:53:47 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:53:47 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:53:47 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:53:47 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:53:47 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:53:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:53:59 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+02:57:12 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+02:57:12 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+02:57:12 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+02:57:12 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+02:57:12 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:57:12 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+02:57:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:58:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+02:59:35 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+03:01:23 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:01:23 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:01:23 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:01:23 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:01:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:01:23 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:01:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:02:19 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:04:52 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:04:52 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:04:52 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:04:52 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:04:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:04:52 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+03:05:21 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+03:10:10 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:10:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:10:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:10:10 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:10:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:10:10 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+03:10:27 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+03:13:11 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:13:11 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:13:11 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:13:11 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:13:11 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:13:11 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+03:13:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:14:19 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:14:19 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:14:19 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:14:19 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:14:19 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:14:19 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.67')
+03:14:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:14:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:15:42 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+03:15:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:16:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:17:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:18:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:19:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:20:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:21:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:22:29 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:22:29 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:22:29 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:22:29 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:22:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:22:29 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+03:22:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:22:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:23:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:23:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:23:57 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+03:24:05 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:24:11 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:24:11 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:24:11 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:24:11 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:24:11 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:24:11 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+03:24:33 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+03:30:17 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:30:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:30:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:30:17 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:30:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:30:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+03:31:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:32:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:32:17 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:32:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:32:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:32:17 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:32:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:32:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:32:50 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:33:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:34:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:35:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:36:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:37:40 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:37:40 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:37:40 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:37:40 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:37:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:37:40 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+03:37:50 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:37:50 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:37:50 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:37:50 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:37:50 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:37:50 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:38:06 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:38:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:39:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:40:06 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:40:06 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:40:06 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:40:06 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:40:06 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:40:06 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+03:40:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:40:36 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:40:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:40:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:40:36 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:40:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:40:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:41:31 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:41:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:42:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:43:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:44:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:45:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:46:19 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:46:19 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:46:19 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:46:19 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:46:19 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:46:19 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:46:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:46:35 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+03:46:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+03:46:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+03:46:35 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+03:46:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:46:35 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+03:47:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:48:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:48:49 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:48:49 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:48:49 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:48:49 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:48:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:48:49 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:49:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:49:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:49:38 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:50:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:51:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:52:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:53:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:53:04 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:53:04 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:53:04 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:53:04 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:53:04 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:53:04 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+03:54:03 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+03:54:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:55:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:56:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:57:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:58:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:59:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+03:59:16 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+03:59:16 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+03:59:16 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+03:59:16 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+03:59:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+03:59:16 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+04:00:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:00:53 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+04:01:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:01:07 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:01:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:01:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:01:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:01:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:01:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:01:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+04:02:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:02:18 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:02:38 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:02:38 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:02:38 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:02:38 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:02:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:02:38 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+04:02:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:03:34 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:03:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:03:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:03:34 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:03:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:03:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+04:04:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:04:36 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+04:04:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+04:04:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+04:04:36 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+04:04:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+04:04:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.96')
+04:04:57 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+04:05:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:06:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:06:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:09:21 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:09:21 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:09:21 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:09:21 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:09:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:09:21 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:10:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:10:50 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:12:08 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:12:08 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:12:08 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:12:08 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:12:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:12:08 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+04:12:39 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:18:20 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:18:20 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:18:20 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:18:20 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:18:20 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:18:20 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:18:55 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:23:04 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:23:04 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:23:04 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:23:04 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:23:04 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:23:04 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:23:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:24:53 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:24:53 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:24:53 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:24:53 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:24:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:24:53 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:25:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:26:12 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:29:45 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:29:45 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:29:45 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:29:45 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:29:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:29:45 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:30:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:37:56 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:37:56 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:37:56 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:37:56 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:37:56 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:37:56 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:38:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:39:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:40:23 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:44:25 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:44:25 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:44:25 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:44:25 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:44:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:44:25 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:44:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:44:45 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:46:26 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:46:26 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:46:26 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:46:26 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:46:26 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:46:26 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:46:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:48:00 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:48:00 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:48:00 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:48:00 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:48:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:48:00 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:48:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:49:26 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:49:26 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:49:26 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:49:26 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:49:26 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:49:26 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:49:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:50:59 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:50:59 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:50:59 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:50:59 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:50:59 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:50:59 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:51:12 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:53:10 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:53:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:53:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:53:10 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:53:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:53:10 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:53:20 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:54:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:54:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:54:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:54:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:54:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:54:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:54:40 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:55:18 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:55:18 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:55:18 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:55:18 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:55:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:55:18 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:55:31 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:56:05 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:56:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:56:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:56:05 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:56:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:56:05 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:56:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:57:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:57:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:57:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:57:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:57:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:57:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:57:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:57:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+04:59:08 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+04:59:08 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+04:59:08 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+04:59:08 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+04:59:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+04:59:08 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+04:59:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:00:05 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:00:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:00:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:00:05 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:00:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:00:05 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:00:14 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:00:52 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:00:52 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:00:52 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:00:52 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:00:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:00:52 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:01:04 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:01:36 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:01:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:01:36 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:01:36 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:01:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:01:36 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:01:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:01:44 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:02:24 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:02:24 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:02:24 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:02:24 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:02:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:02:24 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:02:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:04:35 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:04:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:04:35 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:04:35 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:04:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:04:35 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:04:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:05:20 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:06:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:06:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:06:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:06:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:06:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:06:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:06:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:06:49 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:08:05 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:08:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:08:05 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:08:05 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:08:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:08:05 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:08:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:10:15 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:10:15 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:10:15 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:10:15 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:10:15 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:10:15 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:10:25 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:11:48 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:11:48 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:11:48 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:11:48 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:11:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:11:48 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:12:11 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:13:44 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:13:44 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:13:44 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:13:44 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:13:44 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:13:44 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:13:55 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:15:27 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:15:27 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:15:27 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:15:27 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:15:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:15:27 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:15:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:16:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:16:55 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:22:52 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:22:52 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:22:52 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:22:52 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:22:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:22:52 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:23:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:24:06 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:29:56 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:29:56 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:29:56 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:29:56 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:29:56 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:29:56 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:30:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:30:50 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:30:50 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:30:50 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:30:50 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:30:50 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:30:50 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:31:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:32:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:34:03 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:34:03 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:34:03 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:34:03 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:34:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:34:03 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:34:33 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:35:10 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:35:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:35:10 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:35:10 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:35:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:35:10 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:35:39 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:44:34 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:44:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:44:34 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:44:34 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:44:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:44:34 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+05:44:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:44:53 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+05:53:39 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
+05:53:39 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
+05:53:39 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
+05:53:39 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
+05:53:39 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:53:39 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.67')
+05:54:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:55:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:56:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:57:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:58:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:58:54 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:58:54 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+05:58:54 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+05:58:54 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+05:58:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+05:58:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+05:59:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+05:59:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:00:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:00:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:01:15 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+06:01:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:02:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:03:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:04:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:05:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:06:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
+06:06:56 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('test1')
+06:07:03 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:07:03 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+06:07:03 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+06:07:03 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+06:07:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:07:03 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.67')
+06:07:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:08:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:09:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:10:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:11:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:12:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:13:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:14:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:15:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:16:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:17:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:18:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:19:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:20:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:21:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:22:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:23:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:24:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:25:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:26:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:27:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:28:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:29:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:30:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:31:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:32:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:33:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:34:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:35:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:36:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:37:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:38:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:39:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:40:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:41:18 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:41:18 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+06:41:18 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+06:41:18 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+06:41:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:41:18 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+06:42:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:42:44 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+06:53:49 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:53:49 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+06:53:49 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+06:53:49 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+06:53:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:53:50 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+06:54:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+06:54:23 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+18:11:23 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:11:23 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:11:23 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:11:23 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:11:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:11:23 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+18:11:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:12:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:13:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:14:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:15:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:16:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:17:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:18:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:19:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:20:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:24:07 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:24:07 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:24:07 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:24:07 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:24:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:24:07 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+18:24:29 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+18:24:38 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:24:38 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:24:38 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:24:38 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:24:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:24:38 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+18:25:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:26:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:27:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:28:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:29:15 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+18:31:06 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:31:06 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:31:06 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:31:06 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:31:06 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:31:06 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+18:31:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:32:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:33:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:34:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:35:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:35:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+18:35:51 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:35:55 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:35:58 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:35:58 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:35:58 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:35:58 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:35:58 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:35:58 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+18:36:20 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+18:36:25 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:36:25 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:36:25 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:36:25 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:36:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:36:25 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+18:36:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:37:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:38:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:39:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:40:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:41:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:42:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:43:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:44:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:45:08 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+18:47:25 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+18:47:25 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+18:47:25 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+18:47:25 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+18:47:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:47:25 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+18:47:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+18:48:15 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+19:10:26 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+19:10:30 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+19:10:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+19:10:30 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+19:10:30 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+19:10:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:10:30 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.65')
+19:10:40 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+19:34:53 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+19:34:53 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+19:34:53 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+19:34:53 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+19:34:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:34:53 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+19:35:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:36:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:36:54 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+19:38:17 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+19:38:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+19:38:17 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+19:38:17 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+19:38:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:38:17 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+19:38:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:38:44 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+19:40:21 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+19:40:21 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+19:40:21 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+19:40:21 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+19:40:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:40:21 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+19:40:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:40:32 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')
+19:41:47 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+19:41:47 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('admin')
+19:41:47 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('admin')
+19:41:47 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+19:41:47 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:41:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('admin', 'SV1', '192.168.1.96')
+19:42:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:43:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:44:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('admin')
+19:44:47 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_DISCONNECT_MEMB('admin')

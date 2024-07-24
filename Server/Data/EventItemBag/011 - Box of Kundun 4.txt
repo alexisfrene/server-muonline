@@ -1,0 +1,34 @@
+//======================================
+// NORMAL DROP
+//======================================
+0
+//EventName				DropZen	ItemDropRate	ItemDropCount	ItemDropType	Fireworks	
+"Box of Kundun 4"		1000	100				1				1				0
+end
+
+1
+//Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment
+//00,000	0			0			0			0			0		0	
+007,017		0			0			0			1			2		2		//Set Dark Phoenix
+008,017		0			0			0			1			2		2		//Set Dark Phoenix
+009,017		0			0			0			1			2		2		//Set Dark Phoenix
+010,017		0			0			0			1			2		2		//Set Dark Phoenix
+011,017		0			0			0			1			2		2		//Set Dark Phoenix
+
+008,015		0			0			0			1			2		2		//Set Storm Crow
+009,015		0			0			0			1			2		2		//Set Storm Crow
+010,015		0			0			0			1			2		2		//Set Storm Crow
+011,015		0			0			0			1			2		2		//Set Storm Crow
+
+007,003		0			0			0			1			2		2		//Set Legendary
+008,003		0			0			0			1			2		2		//Set Legendary
+009,003		0			0			0			1			2		2		//Set Legendary
+010,003		0			0			0			1			2		2		//Set Legendary
+011,003		0			0			0			1			2		2		//Set Legendary
+
+007,014		0			0			0			1			2		2		//Set Guardian
+008,014		0			0			0			1			2		2		//Set Guardian
+009,014		0			0			0			1			2		2		//Set Guardian
+010,014		0			0			0			1			2		2		//Set Guardian
+011,014		0			0			0			1			2		2		//Set Guardian
+end

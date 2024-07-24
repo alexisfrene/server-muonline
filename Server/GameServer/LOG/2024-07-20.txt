@@ -1,0 +1,122 @@
+06:54:32 [ServerInfo] ChaosMix loaded successfully
+06:54:32 [ServerInfo] Character loaded successfully
+06:54:32 [ServerInfo] Command loaded successfully
+06:54:32 [ServerInfo] Common loaded successfully
+06:54:32 [ServerInfo] Custom loaded successfully
+06:54:32 [ServerInfo] Event loaded successfully
+06:54:32 [ServerInfo] EventItemBag loaded successfully
+06:54:32 [ServerInfo] Hack loaded successfully
+06:54:32 [ServerInfo] Item loaded successfully
+06:54:32 [ServerInfo] Monster loaded successfully
+06:54:32 [ServerInfo] Move loaded successfully
+06:54:32 [ServerInfo] Quest loaded successfully
+06:54:32 [ServerInfo] Shop loaded successfully
+06:54:33 [ServerInfo] Skill loaded successfully
+06:54:33 [ServerInfo] Util loaded successfully
+06:54:33 [Blood Castle] (1) Sync Start Time. [65] min remain
+06:54:33 [Blood Castle] (1) SetState EMPTY
+06:54:33 [Blood Castle] (2) Sync Start Time. [65] min remain
+06:54:33 [Blood Castle] (2) SetState EMPTY
+06:54:33 [Blood Castle] (3) Sync Start Time. [65] min remain
+06:54:33 [Blood Castle] (3) SetState EMPTY
+06:54:33 [Blood Castle] (4) Sync Start Time. [65] min remain
+06:54:33 [Blood Castle] (4) SetState EMPTY
+06:54:33 [Blood Castle] (5) Sync Start Time. [65] min remain
+06:54:33 [Blood Castle] (5) SetState EMPTY
+06:54:33 [Blood Castle] (6) Sync Start Time. [65] min remain
+06:54:33 [Blood Castle] (6) SetState EMPTY
+06:54:33 [Devil Square] (1) Sync Start Time. [95] min remain
+06:54:33 [Devil Square] (1) SetState EMPTY
+06:54:33 [Devil Square] (2) Sync Start Time. [95] min remain
+06:54:33 [Devil Square] (2) SetState EMPTY
+06:54:33 [Devil Square] (3) Sync Start Time. [95] min remain
+06:54:33 [Devil Square] (3) SetState EMPTY
+06:54:33 [Devil Square] (4) Sync Start Time. [95] min remain
+06:54:33 [Devil Square] (4) SetState EMPTY
+06:54:33 [JoinServerConnection] Connected
+06:54:33 [DataServerConnection] Connected
+06:55:15 [JoinServerConnection] Disconnected
+06:55:16 [DataServerConnection] Disconnected
+06:55:35 [ServerInfo] ChaosMix loaded successfully
+06:55:35 [ServerInfo] Character loaded successfully
+06:55:35 [ServerInfo] Command loaded successfully
+06:55:35 [ServerInfo] Common loaded successfully
+06:55:35 [ServerInfo] Custom loaded successfully
+06:55:35 [ServerInfo] Event loaded successfully
+06:55:35 [ServerInfo] EventItemBag loaded successfully
+06:55:35 [ServerInfo] Hack loaded successfully
+06:55:35 [ServerInfo] Item loaded successfully
+06:55:35 [ServerInfo] Monster loaded successfully
+06:55:35 [ServerInfo] Move loaded successfully
+06:55:35 [ServerInfo] Quest loaded successfully
+06:55:35 [ServerInfo] Shop loaded successfully
+06:55:35 [ServerInfo] Skill loaded successfully
+06:55:35 [ServerInfo] Util loaded successfully
+06:55:35 [Blood Castle] (1) Sync Start Time. [64] min remain
+06:55:35 [Blood Castle] (1) SetState EMPTY
+06:55:35 [Blood Castle] (2) Sync Start Time. [64] min remain
+06:55:35 [Blood Castle] (2) SetState EMPTY
+06:55:35 [Blood Castle] (3) Sync Start Time. [64] min remain
+06:55:35 [Blood Castle] (3) SetState EMPTY
+06:55:35 [Blood Castle] (4) Sync Start Time. [64] min remain
+06:55:35 [Blood Castle] (4) SetState EMPTY
+06:55:35 [Blood Castle] (5) Sync Start Time. [64] min remain
+06:55:35 [Blood Castle] (5) SetState EMPTY
+06:55:35 [Blood Castle] (6) Sync Start Time. [64] min remain
+06:55:35 [Blood Castle] (6) SetState EMPTY
+06:55:35 [Devil Square] (1) Sync Start Time. [94] min remain
+06:55:35 [Devil Square] (1) SetState EMPTY
+06:55:35 [Devil Square] (2) Sync Start Time. [94] min remain
+06:55:35 [Devil Square] (2) SetState EMPTY
+06:55:35 [Devil Square] (3) Sync Start Time. [94] min remain
+06:55:35 [Devil Square] (3) SetState EMPTY
+06:55:35 [Devil Square] (4) Sync Start Time. [94] min remain
+06:55:35 [Devil Square] (4) SetState EMPTY
+06:55:35 [JoinServerConnection] Connected
+06:55:35 [DataServerConnection] Connected
+07:45:23 [test1][test1sm] Set SelfDefence [test2][test2bk]
+07:45:44 [test1][test1sm] ReSet SelfDefence [test2][test2bk]
+08:00:00 [Blood Castle] (1) SetState STAND
+08:00:00 [Blood Castle] (2) SetState STAND
+08:00:00 [Blood Castle] (3) SetState STAND
+08:00:00 [Blood Castle] (4) SetState STAND
+08:00:00 [Blood Castle] (5) SetState STAND
+08:00:00 [Blood Castle] (6) SetState STAND
+08:00:01 [Blood Castle] (1) Not enough users
+08:00:01 [Blood Castle] (1) Sync Start Time. [119] min remain
+08:00:01 [Blood Castle] (1) SetState EMPTY
+08:00:01 [Blood Castle] (2) Not enough users
+08:00:01 [Blood Castle] (2) Sync Start Time. [119] min remain
+08:00:01 [Blood Castle] (2) SetState EMPTY
+08:00:01 [Blood Castle] (3) Not enough users
+08:00:01 [Blood Castle] (3) Sync Start Time. [119] min remain
+08:00:01 [Blood Castle] (3) SetState EMPTY
+08:00:01 [Blood Castle] (4) Not enough users
+08:00:01 [Blood Castle] (4) Sync Start Time. [119] min remain
+08:00:01 [Blood Castle] (4) SetState EMPTY
+08:00:01 [Blood Castle] (5) Not enough users
+08:00:01 [Blood Castle] (5) Sync Start Time. [119] min remain
+08:00:01 [Blood Castle] (5) SetState EMPTY
+08:00:01 [Blood Castle] (6) Not enough users
+08:00:01 [Blood Castle] (6) Sync Start Time. [119] min remain
+08:00:01 [Blood Castle] (6) SetState EMPTY
+08:30:00 [Devil Square] (1) SetState STAND
+08:30:00 [Devil Square] (2) SetState STAND
+08:30:00 [Devil Square] (3) SetState STAND
+08:30:00 [Devil Square] (4) SetState STAND
+08:30:01 [Devil Square] (1) Not enough users
+08:30:01 [Devil Square] (1) Sync Start Time. [239] min remain
+08:30:01 [Devil Square] (1) SetState EMPTY
+08:30:01 [Devil Square] (2) Not enough users
+08:30:01 [Devil Square] (2) Sync Start Time. [239] min remain
+08:30:01 [Devil Square] (2) SetState EMPTY
+08:30:01 [Devil Square] (3) Not enough users
+08:30:01 [Devil Square] (3) Sync Start Time. [239] min remain
+08:30:01 [Devil Square] (3) SetState EMPTY
+08:30:01 [Devil Square] (4) Not enough users
+08:30:01 [Devil Square] (4) Sync Start Time. [239] min remain
+08:30:01 [Devil Square] (4) SetState EMPTY
+09:02:09 [DataServerConnection] Disconnected
+09:02:11 [JoinServerConnection] Disconnected
+09:02:16 [JoinServerConnection] Connect Failed
+09:02:18 [DataServerConnection] Connect Failed
