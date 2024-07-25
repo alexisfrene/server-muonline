@@ -32,3 +32,9 @@
 16:54:32 [ServerList] ServerList loaded successfully
 16:54:34 [ServerList] JoinServer online
 16:54:36 [ServerList] GameServer online (Server 1) (0)
+19:39:11 [ServerList] GameServer offline (Server 1) (0)
+19:39:29 [ServerList] GameServer online (Server 1) (0)
+19:44:26 [ServerList] GameServer offline (Server 1) (0)
+19:45:29 [ServerList] GameServer online (Server 1) (0)
+21:31:20 [ServerList] GameServer offline (Server 1) (0)
+21:33:16 [ServerList] GameServer online (Server 1) (0)

@@ -15,21 +15,40 @@ end
 010,016		0			0			0			1			2		2		//Set Black Dragon
 011,016		0			0			0			1			2		2		//Set Black Dragon
 
-007,001		0			0			0			1			2		2		//Set Dragon
-008,001		0			0			0			1			2		2		//Set Dragon
-009,001		0			0			0			1			2		2		//Set Dragon
-010,001		0			0			0			1			2		2		//Set Dragon
-011,001		0			0			0			1			2		2		//Set Dragon
+007,017		0			0			0			1			2		2		//Set Dark Phoenix
+008,017		0			0			0			1			2		2		//Set Dark Phoenix
+009,017		0			0			0			1			2		2		//Set Dark Phoenix
+010,017		0			0			0			1			2		2		//Set Dark Phoenix
+011,017		0			0			0			1			2		2		//Set Dark Phoenix
 
-007,013		0			0			0			1			2		2		//Set Spirit
-008,013		0			0			0			1			2		2		//Set Spirit
-009,013		0			0			0			1			2		2		//Set Spirit
-010,013		0			0			0			1			2		2		//Set Spirit
-011,013		0			0			0			1			2		2		//Set Spirit
+007,018		0			0			0			1			2		2		//Set Grand Soul
+008,018		0			0			0			1			2		2		//Set Grand Soul
+009,018		0			0			0			1			2		2		//Set Grand Soul
+010,018		0			0			0			1			2		2		//Set Grand Soul
+011,018		0			0			0			1			2		2		//Set Grand Soul
 
-007,012		0			0			0			1			2		2		//Set Wind
-008,012		0			0			0			1			2		2		//Set Wind
-009,012		0			0			0			1			2		2		//Set Wind
-010,012		0			0			0			1			2		2		//Set Wind
-011,012		0			0			0			1			2		2		//Set Wind
+007,019		0			0			0			1			2		2		//Set Divine
+008,019		0			0			0			1			2		2		//Set Divine
+009,019		0			0			0			1			2		2		//Set Divine
+010,019		0			0			0			1			2		2		//Set Divine
+011,019		0			0			0			1			2		2		//Set Divine
+
+008,020		0			0			0			1			2		2		//Set Thunder
+009,020		0			0			0			1			2		2		//Set Thunder
+010,020		0			0			0			1			2		2		//Set Thunder
+011,020		0			0			0			1			2		2		//Set Thunder
+
+008,015		0			0			0			1			2		2		//Set Unicorn
+009,015		0			0			0			1			2		2		//Set Unicorn
+010,015		0			0			0			1			2		2		//Set Unicorn
+011,015		0			0			0			1			2		2		//Set Unicorn
+
+000,019		0			0			1			1			2		2		//Absolute Sword
+000,018		0			0			1			1			2		2		//Thunder Blade
+000,017		0			0			1			1			2		2		//Dark Breaker
+000,016		0			0			1			1			2		2		//Destruction
+000,019		0			0			1			1			2		2		//Absolute Sword
+
+006,012		0			0			1			1			2		2		//Bronce Shield
+
 end

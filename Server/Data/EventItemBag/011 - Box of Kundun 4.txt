@@ -9,26 +9,54 @@ end
 1
 //Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment
 //00,000	0			0			0			0			0		0	
-007,017		0			0			0			1			2		2		//Set Dark Phoenix
-008,017		0			0			0			1			2		2		//Set Dark Phoenix
-009,017		0			0			0			1			2		2		//Set Dark Phoenix
-010,017		0			0			0			1			2		2		//Set Dark Phoenix
-011,017		0			0			0			1			2		2		//Set Dark Phoenix
+007,021		0			0			0			1			2		2		//Set Flaming
+008,021		0			0			0			1			2		2		//Set Flaming
+009,021		0			0			0			1			2		2		//Set Flaming
+010,021		0			0			0			1			2		2		//Set Flaming
+011,021		0			0			0			1			2		2		//Set Flaming
 
-008,015		0			0			0			1			2		2		//Set Storm Crow
-009,015		0			0			0			1			2		2		//Set Storm Crow
-010,015		0			0			0			1			2		2		//Set Storm Crow
-011,015		0			0			0			1			2		2		//Set Storm Crow
+007,022		0			0			0			1			2		2		//Set Hero
+008,022		0			0			0			1			2		2		//Set Hero
+009,022		0			0			0			1			2		2		//Set Hero
+010,022		0			0			0			1			2		2		//Set Hero
+011,022		0			0			0			1			2		2		//Set Hero
 
-007,003		0			0			0			1			2		2		//Set Legendary
-008,003		0			0			0			1			2		2		//Set Legendary
-009,003		0			0			0			1			2		2		//Set Legendary
-010,003		0			0			0			1			2		2		//Set Legendary
-011,003		0			0			0			1			2		2		//Set Legendary
+007,025		0			0			0			1			2		2		//Set Great Sorcerer
+008,025		0			0			0			1			2		2		//Set Great Sorcerer
+009,025		0			0			0			1			2		2		//Set Great Sorcerer
+010,025		0			0			0			1			2		2		//Set Great Sorcerer
+011,025		0			0			0			1			2		2		//Set Great Sorcerer
 
-007,014		0			0			0			1			2		2		//Set Guardian
-008,014		0			0			0			1			2		2		//Set Guardian
-009,014		0			0			0			1			2		2		//Set Guardian
-010,014		0			0			0			1			2		2		//Set Guardian
-011,014		0			0			0			1			2		2		//Set Guardian
+007,027		0			0			0			1			2		2		//Set Nature
+008,027		0			0			0			1			2		2		//Set Nature
+009,027		0			0			0			1			2		2		//Set Nature
+010,027		0			0			0			1			2		2		//Set Nature
+011,027		0			0			0			1			2		2		//Set Nature
+
+008,030		0			0			0			1			2		2		//Set Volcano
+009,030		0			0			0			1			2		2		//Set Volcano
+010,030		0			0			0			1			2		2		//Set Volcano
+011,030		0			0			0			1			2		2		//Set Volcano
+
+007,028		0			0			0			1			2		2		//Set Aphrodite
+008,028		0			0			0			1			2		2		//Set Aphrodite
+009,028		0			0			0			1			2		2		//Set Aphrodite
+010,028		0			0			0			1			2		2		//Set Aphrodite
+011,028		0			0			0			1			2		2		//Set Aphrodite
+
+007,024		0			0			0			1			2		2		//Set Dark Side
+008,024		0			0			0			1			2		2		//Set Dark Side
+009,024		0			0			0			1			2		2		//Set Dark Side
+010,024		0			0			0			1			2		2		//Set Dark Side
+011,024		0			0			0			1			2		2		//Set Dark Side
+
+000,022		0			0			1			1			2		2		//Hero Sword
+000,020		0			0			1			1			2		2		//Devourer Sword
+
+002,008		0			0			1			1			2		2		//Mace King
+
+
+006,013		0			0			1			1			2		2		//Chaos Shield
+
+
 end

@@ -9,26 +9,34 @@ end
 1
 //Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment
 //00,000	0			0			0			0			0		0	
-007,021		0			0			0			1			2		2		//Set Great Dragon
-008,021		0			0			0			1			2		2		//Set Great Dragon
-009,021		0			0			0			1			2		2		//Set Great Dragon
-010,021		0			0			0			1			2		2		//Set Great Dragon
-011,021		0			0			0			1			2		2		//Set Great Dragon
+007,023		0			0			0			1			2		2		//Set Ashcrow
+008,023		0			0			0			1			2		2		//Set Ashcrow
+009,023		0			0			0			1			2		2		//Set Ashcrow
+010,023		0			0			0			1			2		2		//Set Ashcrow
+011,023		0			0			0			1			2		2		//Set Ashcrow
 
-008,020		0			0			0			1			2		2		//Set Thunder Hawk
-009,020		0			0			0			1			2		2		//Set Thunder Hawk
-010,020		0			0			0			1			2		2		//Set Thunder Hawk
-011,020		0			0			0			1			2		2		//Set Thunder Hawk
+007,031		0			0			0			1			2		2		//Set Titanium
+008,031		0			0			0			1			2		2		//Set Titanium
+009,031		0			0			0			1			2		2		//Set Titanium
+010,031		0			0			0			1			2		2		//Set Titanium
+011,031		0			0			0			1			2		2		//Set Titanium
 
-007,018		0			0			0			1			2		2		//Set Grand Soul
-008,018		0			0			0			1			2		2		//Set Grand Soul
-009,018		0			0			0			1			2		2		//Set Grand Soul
-010,018		0			0			0			1			2		2		//Set Grand Soul
-011,018		0			0			0			1			2		2		//Set Grand Soul
+007,029		0			0			0			1			2		2		//Set Diamon
+008,029		0			0			0			1			2		2		//Set Diamon
+009,029		0			0			0			1			2		2		//Set Diamon
+010,029		0			0			0			1			2		2		//Set Diamon
+011,029		0			0			0			1			2		2		//Set Diamon
 
-007,019		0			0			0			1			2		2		//Set Divine
-008,019		0			0			0			1			2		2		//Set Divine
-009,019		0			0			0			1			2		2		//Set Divine
-010,019		0			0			0			1			2		2		//Set Divine
-011,019		0			0			0			1			2		2		//Set Divine
+007,026		0			0			0			1			2		2		//Set Eclipse
+008,026		0			0			0			1			2		2		//Set Eclipse
+009,026		0			0			0			1			2		2		//Set Eclipse
+010,026		0			0			0			1			2		2		//Set Eclipse
+011,026		0			0			0			1			2		2		//Set Eclipse
+
+000,031		0			0			1			1			2		2		//Run Blade
+000,025		0			0			1			1			2		2		//Soul Sword
+000,024		0			0			1			1			2		2		//Sunstriker
+000,023		0			0			1			1			2		2		//Heaven Sword
+000,021		0			0			1			1			2		2		//Dragon Sword
+
 end
