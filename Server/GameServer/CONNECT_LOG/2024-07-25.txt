@@ -1,0 +1,13 @@
+15:59:47 [SocketManager] Server started at port [55901]
+16:09:47 [SocketManager] Server started at port [55901]
+16:12:59 [SocketManager] Server started at port [55901]
+16:13:19 [ObjectManager][9000] AddClient (25.49.205.197)
+16:13:28 [ObjectManager][9000] AddAccountInfo (test1)(F0393B12-9D2EF569-F45BC923-E542D8F8)
+16:13:33 [ObjectManager][9000] AddCharacterInfo (test1mg)
+16:21:51 [ObjectManager][9000] DelCharacterInfo (test1mg)
+16:21:55 [ObjectManager][9000] AddCharacterInfo (test1mg)
+16:22:08 [ObjectManager][9000] DelCharacterInfo (test1mg)
+16:22:20 [ObjectManager][9000] AddCharacterInfo (test1fe)
+16:33:28 [ObjectManager][9000] DelCharacterInfo (test1fe)
+16:33:28 [ObjectManager][9000] DelAccountInfo (test1)(F0393B12-9D2EF569-F45BC923-E542D8F8)
+16:33:28 [ObjectManager][9000] DelClient (25.49.205.197)

@@ -1,0 +1,25 @@
+14:56:03 [Command Clear Iventory] Use for:[test1][test1bk]
+14:59:54 [CommandMakeMob][test1][test1bk] - (Monster: 82, Qtd: 1)
+15:00:23 [Command Clear Iventory] Use for:[test1][test1bk]
+15:08:58 [Command Clear Iventory] Use for:[test1][test1mg]
+15:16:14 [Command Clear Iventory] Use for:[test1][test1mg]
+15:31:31 [Command Clear Iventory] Use for:[test1][test1mg]
+15:34:30 [Command Clear Iventory] Use for:[test1][test1bk]
+15:37:58 [Command Clear Iventory] Use for:[test1][test1bk]
+15:39:05 [Command Clear Iventory] Use for:[test1][test1bk]
+15:41:05 [Command Clear Iventory] Use for:[test1][test1bk]
+15:47:29 [Command Clear Iventory] Use for:[test1][test1bk]
+15:50:29 [Command Clear Iventory] Use for:[test1][test1bk]
+16:02:42 [Command Clear Iventory] Use for:[test1][test1bk]
+17:00:12 [Command Clear Iventory] Use for:[test1][test1bk]
+17:03:53 [Command Clear Iventory] Use for:[test1][test1bk]
+17:09:10 [Command Clear Iventory] Use for:[test1][test1bk]
+17:12:38 [CommandMake][test1][test1bk] - (Section: 6, Type: 22, Level: 11, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+17:28:26 [CommandMake][test1][test1bk] - (Section: 6, Type: 17, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+17:36:18 [CommandMake][test1][test1bk] - (Section: 6, Type: 18, Level: 11, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+17:36:34 [CommandMake][test1][test1bk] - (Section: 6, Type: 18, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+18:16:39 [CommandMake][test1][test1bk] - (Section: 6, Type: 18, Level: 11, Skill: 1, Luck: 1, Option: 1, Exc: 1, QUANT: 1)
+18:23:07 [CommandMake][test1][test1bk] - (Section: 6, Type: 21, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+18:28:54 [CommandMake][test1][test1sm] - (Section: 6, Type: 21, Level: 11, Skill: 1, Luck: 1, Option: 1, Exc: 1, QUANT: 1)
+18:29:22 [CommandMake][test1][test1bk] - (Section: 6, Type: 21, Level: 11, Skill: 1, Luck: 1, Option: 1, Exc: 1, QUANT: 1)
+23:52:54 [CommandMake][test1][test1bk] - (Section: 6, Type: 21, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
