@@ -62,3 +62,19 @@
 03:00:00 [CommandMakeMob][test1][test1bk] - (Monster: 150, Qtd: 1)
 03:00:19 [CommandMakeMob][test1][test1bk] - (Monster: 132, Qtd: 1)
 03:06:44 [CommandMakeMob][test1][test1bk] - (Monster: 55, Qtd: 1)
+20:29:02 [Command Clear Iventory] Use for:[test2][test2bk]
+20:31:18 [CommandMakeMob][test2][test2bk] - (Monster: 82, Qtd: 1)
+20:32:09 [CommandMakeMob][test1][test1bk] - (Monster: 82, Qtd: 1)
+20:38:16 [CommandMakeMob][test1][test1bk] - (Monster: 82, Qtd: 1)
+20:43:08 [CommandMakeMob][test3][test3sm] - (Monster: 80, Qtd: 10)
+21:30:41 [CommandAddPoint][test3][Dios] - (Type: 1, Amount: 45)
+21:30:45 [CommandAddPoint][test3][Dios] - (Type: 0, Amount: 100)
+21:33:10 [CommandAddPoint][test3][Dios] - (Type: 0, Amount: 85)
+21:37:39 [CommandAddPoint][test3][Dios] - (Type: 0, Amount: 60)
+21:41:25 [CommandAddPoint][test3][Dios] - (Type: 0, Amount: 60)
+21:56:12 [CommandAddPoint][test3][Dios] - (Type: 1, Amount: 150)
+22:18:30 [CommandMakeMob][test1][test1bk] - (Monster: 82, Qtd: 3)
+22:20:44 [CommandMakeMob][test1][test1bk] - (Monster: 80, Qtd: 1)
+22:21:02 [CommandMakeMob][test1][test1bk] - (Monster: 79, Qtd: 1)
+22:21:59 [Command Clear Iventory] Use for:[test1][test1bk]
+23:18:10 [Command Clear Iventory] Use for:[test1][test1bk]

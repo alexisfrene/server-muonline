@@ -1,177 +1,177 @@
-//Max Message size = 128
-//Index	Message
+//Tamano maximo de mensaje = 128
+//Indice	Mensaje
 
 //----------------------------------------------------------------------------------------------------
-// Event Devil Square
+// Evento Devil Square
 //----------------------------------------------------------------------------------------------------
-0	"Devil Square will close in %d minute(s)"
-1	"Devil Square closed"
-2	"Devil Square %d will start in %d minute(s)"
-3	"Devil Square started"
-4	"Devil Square finished"
-5	"You're not strong enough to join this Devil Square"
+0	"Devil Square cerrara en %d minuto(s)"
+1	"Devil Square cerrado"
+2	"Devil Square %d comenzara en %d minuto(s)"
+3	"Devil Square comenzado"
+4	"Devil Square terminado"
+5	"No eres lo suficientemente fuerte para unirte a este Devil Square"
 
 //----------------------------------------------------------------------------------------------------
-// Event Blood Castle
+// Evento Blood Castle
 //----------------------------------------------------------------------------------------------------
-6	"Blood Castle will close in %d minute(s)"
-7	"Blood Castle closed"
-8	"Blood Castle %d will start in %d minute(s)"
-9	"Blood Castle started"
-10	"All monsters have been defeated"
-11	"All bosses have been defeated"
-12	"Blood Castle finished"
-13	"You're not strong enough to join this Blood Castle"
-14	"'%s' dropped the angel's weapon"
-15	"'%s' took the angel's weapon"
-16	"'%s' destroyed the castle gate"
-17	"'%s' destroyed the statue"
+6	"Blood Castle cerrara en %d minuto(s)"
+7	"Blood Castle cerrado"
+8	"Blood Castle %d comenzara en %d minuto(s)"
+9	"Blood Castle comenzado"
+10	"Todos los monstruos han sido derrotados"
+11	"Todos los jefes han sido derrotados"
+12	"Blood Castle terminado"
+13	"No eres lo suficientemente fuerte para unirte a este Blood Castle"
+14	"'%s' dejo caer el arma del angel"
+15	"'%s' tomo el arma del angel"
+16	"'%s' destruyo la puerta del castillo"
+17	"'%s' destruyo la estatua"
 
 //----------------------------------------------------------------------------------------------------
-// INVASIONS AND BONUS
+// INVASIONES Y BONOS
 //----------------------------------------------------------------------------------------------------
-18	"'%s' will start in %d minute(s)"
-19	"'%s' started"
-20	"'%s' defeated '%s'"
-21	"'%s' finished"
+18	"'%s' comenzara en %d minuto(s)"
+19	"'%s' comenzado"
+20	"'%s' derroto a '%s'"
+21	"'%s' terminado"
 
 //----------------------------------------------------------------------------------------------------
-// TRADE
+// COMERCIO
 //----------------------------------------------------------------------------------------------------
-22	"You can't trade when dying"
+22	"No puedes comerciar cuando estas muriendo"
 
 //----------------------------------------------------------------------------------------------------
-// GUILD
+// GREMIO
 //----------------------------------------------------------------------------------------------------
-23	"Game will start automatically in 10 seconds(s)"
+23	"El juego comenzara automaticamente en 10 segundo(s)"
 
 //----------------------------------------------------------------------------------------------------
-// PARTY
+// EQUIPO
 //----------------------------------------------------------------------------------------------------
-24	"Max level difference %d"
+24	"Diferencia maxima de nivel %d"
 
 //----------------------------------------------------------------------------------------------------
-// NPCS
+// NPCs
 //----------------------------------------------------------------------------------------------------
-25	"We don't talk with murderers!"
-26	"Shop is empty"
-// Guard NPC
-27	"Fuck you!"
-// Golden archer
-28	"%d Renas successfully registered!"
-29	"%d Stones successfully registered!"
-30	"Wrong Number"
-31	"The reward is disabled!"
-32	"LUCKY NUMBER: %s"
-// Guild
-33	"You are already in a guild"
-34	"You need %d Levels to create a guild"
-35	"You need %d Resets to create a Guild"
-
-//----------------------------------------------------------------------------------------------------
-// OTHER MESSAGES
-//----------------------------------------------------------------------------------------------------
-// Login messages
-36	"Account Level: Free"
-37	"Account Level: Vip Bronze (%s)"
-38	"Account Level: Vip Silver (%s)"
-39	"Account Level: Vip Gold (%s)"
-40	"You have: %d Resets | %d Grand Resets"
-41	"Welcome '%s'!"
-42	"Warning! Someone is trying to enter in this account"
-
-// Leaving game conditions
-43	"You can not leave game with Trade open"
-44	"You can not leave game with Warehouse open"
-45	"You can not leave game with Chaos Machine open"
-46	"You can not leave game with Self Defense"
-
-// Max level
-47	"You're at maximum level"
-
-// Server status
-48	"Server closed"
-49	"Server will automatically close in %d second(s)"
-50	"Server will shut down automatically in 1 minute(s)"
-51	"Server will shut down automatically in 3 minute(s)"
-52	"Server will shut down automatically in 5 minute(s)"
-53	"You will quit game in %d second(s)"
-
-// Dupe
-54	"This is a duplicate item, please contact with administrator"
-
-// Self defense
-55	"Self defense against '%s' started"
-56	"Self defense against '%s' finished"
+25	"No hablamos con asesinos!"
+26	"La tienda esta vacia"
+// NPC Guardia
+27	"Vete al infierno!"
+// Arquero dorado
+28	"%d Renas registradas con exito!"
+29	"%d Piedras registradas con exito!"
+30	"Numero equivocado"
+31	"La recompensa esta desactivada!"
+32	"NUMERO DE LA SUERTE: %s"
+// Gremio
+33	"Ya estas en un gremio"
+34	"Necesitas %d niveles para crear un gremio"
+35	"Necesitas %d reinicios para crear un gremio"
 
 //----------------------------------------------------------------------------------------------------
-// Commands - General
+// OTROS MENSAJES
 //----------------------------------------------------------------------------------------------------
-57	"You are not allowed to use it"
-58	"You must have %d Zen to use it"
-59	"Only characters over Level %d can use it"
-60	"Only characters under Level %d can use it"
-61	"Only characters over Reset %d can use it"
-62	"Only characters under Reset %d can use it"
-63	"You have to wait %d seconds to use it again"
-64	"You cannot use commands with interfaces opened"
+// Mensajes de inicio de sesion
+36	"Nivel de cuenta: Gratis"
+37	"Nivel de cuenta: Vip Bronze (%s)"
+38	"Nivel de cuenta: Vip Silver (%s)"
+39	"Nivel de cuenta: Vip Gold (%s)"
+40	"Tienes: %d reinicios | %d reinicios grandes"
+41	"Bienvenido '%s'!"
+42	"Advertencia! Alguien esta intentando entrar en esta cuenta"
+
+// Condiciones para salir del juego
+43	"No puedes salir del juego con el comercio abierto"
+44	"No puedes salir del juego con el almacen abierto"
+45	"No puedes salir del juego con la Maquina del Caos abierta"
+46	"No puedes salir del juego con defensa propia"
+
+// Nivel maximo
+47	"Estas en el nivel maximo"
+
+// Estado del servidor
+48	"Servidor cerrado"
+49	"El servidor se cerrara automaticamente en %d segundo(s)"
+50	"El servidor se apagara automaticamente en 1 minuto(s)"
+51	"El servidor se apagara automaticamente en 3 minuto(s)"
+52	"El servidor se apagara automaticamente en 5 minuto(s)"
+53	"Saldras del juego en %d segundo(s)"
+
+// Duplicar
+54	"Este es un item duplicado, por favor contacta con el administrador"
+
+// Defensa propia
+55	"Defensa propia contra '%s' comenzada"
+56	"Defensa propia contra '%s' terminada"
 
 //----------------------------------------------------------------------------------------------------
-// Commands
+// Comandos - General
 //----------------------------------------------------------------------------------------------------
-// MOVE
-65	"You cannot move right now"
-66	"You cannot move being PK"
-67	"You cannot move this map with mount"
-68	"You cannot move this map without wings"
-// POST
-69	"[POST][%s] %s"
-// ADD
-70	"You do not have enought points to add"
-71	"Max stats are %d"
-72	"You added %d points, remaining %d points to add"
-73	"Automatic points add: (%d)"
-74	"Automatic points add: Off"
-// RESET
-75	"You cannot reset right now"
-76	"You've reached the maximum resets: %d"
-77	"You cannot reset with items equiped"
-78	"You can only reset %d times a day"
-79	"You can only reset %d times a week"
-80	"You can only reset %d times a month"
-81	"You reseted correctly. Now you have %d resets"
-82	"Automatic reset: On"
-83	"Automatic reset: Off"
-// GRANDRESET
-84	"You cannot grand reset right now"
-85	"You've reached the maximum grand resets: %d"
-86	"You cannot grand reset with items equiped"
-87	"You can only grand reset %d times a day"
-88	"You can only grand reset %d times a week"
-89	"You can only grand reset %d times a month"
-90	"You grand reseted correctly. Now you have %d grand resets"
+57	"No tienes permiso para usarlo"
+58	"Debes tener %d Zen para usarlo"
+59	"Solo los personajes sobre el nivel %d pueden usarlo"
+60	"Solo los personajes bajo el nivel %d pueden usarlo"
+61	"Solo los personajes con mas de %d reinicios pueden usarlo"
+62	"Solo los personajes con menos de %d reinicios pueden usarlo"
+63	"Tienes que esperar %d segundos para usarlo nuevamente"
+64	"No puedes usar comandos con interfaces abiertas"
+
+//----------------------------------------------------------------------------------------------------
+// Comandos
+//----------------------------------------------------------------------------------------------------
+// MOVER
+65	"No puedes moverte ahora"
+66	"No puedes moverte siendo PK"
+67	"No puedes moverte a este mapa con montura"
+68	"No puedes moverte a este mapa sin alas"
+// PUBLICAR
+69	"[PUBLICAR][%s] %s"
+// AÑADIR
+70	"No tienes suficientes puntos para añadir"
+71	"Las estadisticas maximas son %d"
+72	"Añadiste %d puntos, quedan %d puntos por añadir"
+73	"Añadir puntos automaticamente: (%d)"
+74	"Añadir puntos automaticamente: Apagado"
+// REINICIAR
+75	"No puedes reiniciar ahora"
+76	"Has alcanzado el maximo de reinicios: %d"
+77	"No puedes reiniciar con items equipados"
+78	"Solo puedes reiniciar %d veces al dia"
+79	"Solo puedes reiniciar %d veces a la semana"
+80	"Solo puedes reiniciar %d veces al mes"
+81	"Reiniciaste correctamente. Ahora tienes %d reinicios"
+82	"Reinicio automatico: Encendido"
+83	"Reinicio automatico: Apagado"
+// REINICIO GRANDE
+84	"No puedes reiniciar grande ahora"
+85	"Has alcanzado el maximo de reinicios grandes: %d"
+86	"No puedes reiniciar grande con items equipados"
+87	"Solo puedes reiniciar grande %d veces al dia"
+88	"Solo puedes reiniciar grande %d veces a la semana"
+89	"Solo puedes reiniciar grande %d veces al mes"
+90	"Reiniciaste grande correctamente. Ahora tienes %d reinicios grandes"
 // PKCLEAR
-91	"You are not PK"
-92	"You cleared your PK"
+91	"No eres PK"
+92	"Limpiaste tu PK"
 // ADDMONEY, SUBMONEY, CHASE, BRING, GMOVE
-93	"You entered an invalid value"
-94	"You entered an invalid target"
-// EVO
-95	"You cannot evolve more"
-96	"You successfully evolved"
+93	"Ingresaste un valor invalido"
+94	"Ingresaste un objetivo invalido"
+// EVOLUCION
+95	"No puedes evolucionar mas"
+96	"Evolucionaste con exito"
 // WARE
-97	"You cannot change ware right now"
-98	"You entered an invalid ware value"
-99	"You changed to %d ware successfully"
-// MAKE, DROP, MAKESET, CLEARINV
-100	"Item created"
-101	"Your inventory is now clean"
-// MAKEMOB
-102	"Monster created"
-// REQUEST
-103	"Requests: ON"
-104	"Requests: OFF"
-105	"Requests: Auto Accept"
-// ONLINE
-106	"%d PLAYERS ONLINE"
+97	"No puedes cambiar de almacen ahora"
+98	"Ingresaste un valor de almacen invalido"
+99	"Cambiaste exitosamente al almacen %d"
+// CREAR, SOLTAR, CREARSET, LIMPIARINV
+100	"Item creado"
+101	"Tu inventario ahora esta limpio"
+// CREAR MONSTRUO
+102	"Monstruo creado"
+// SOLICITUD
+103	"Solicitudes: ENCENDIDAS"
+104	"Solicitudes: APAGADAS"
+105	"Solicitudes: Aceptacion automatica"
+// EN LINEA
+106	"%d JUGADORES EN LINEA"
 end

@@ -4,7 +4,7 @@
 ; Normal: 0 = Gold / 1 = Blue[Party] / 2 = Green[Guild]
 ; Global: 3 = Gold / 4 = Blue[Party] / 5 = Green[Guild]
 ;==================================================
-CommandPostType = 3
+CommandPostType = 1
 
 ;==================================================
 ; Add Point Command Settings
@@ -25,10 +25,10 @@ CommandResetAutoEnable_AL2 = 1
 CommandResetAutoEnable_AL3 = 1
 
 ; Required level to use "/reset"
-CommandResetLevel_AL0 = 400
-CommandResetLevel_AL1 = 400
-CommandResetLevel_AL2 = 400
-CommandResetLevel_AL3 = 400
+CommandResetLevel_AL0 = 350
+CommandResetLevel_AL1 = 350
+CommandResetLevel_AL2 = 350
+CommandResetLevel_AL3 = 350
 
 ; Character level after utilizing "/reset"
 CommandResetStartLevel_AL0 = 1
@@ -37,16 +37,16 @@ CommandResetStartLevel_AL2 = 1
 CommandResetStartLevel_AL3 = 1
 
 ; Required money to use "/reset"
-CommandResetMoney_AL0 = 100000000
-CommandResetMoney_AL1 = 200000000
-CommandResetMoney_AL2 = 300000000
-CommandResetMoney_AL3 = 400000000
+CommandResetMoney_AL0 = 20000000
+CommandResetMoney_AL1 = 20000000
+CommandResetMoney_AL2 = 20000000
+CommandResetMoney_AL3 = 20000000
 
 ; Amount of points gain after utilizing "/reset"
-CommandResetPoint_AL0 = 315
-CommandResetPoint_AL1 = 315
-CommandResetPoint_AL2 = 315
-CommandResetPoint_AL3 = 315
+CommandResetPoint_AL0 = 360
+CommandResetPoint_AL1 = 360
+CommandResetPoint_AL2 = 360
+CommandResetPoint_AL3 = 360
 
 ; Percentage of points gain after utilizing "/reset"
 CommandResetPointRateDW = 100
@@ -91,37 +91,37 @@ CommandResetMove_AL2 = 1
 CommandResetMove_AL3 = 1
 
 ; Maximum resets 
-CommandResetLimit_AL0 = 400
-CommandResetLimit_AL1 = 400
-CommandResetLimit_AL2 = 400
-CommandResetLimit_AL3 = 400
+CommandResetLimit_AL0 = 360
+CommandResetLimit_AL1 = 360
+CommandResetLimit_AL2 = 360
+CommandResetLimit_AL3 = 360
 
 ; Maximum resets per day
-CommandResetLimitDay_AL0 = 400
-CommandResetLimitDay_AL1 = 400
-CommandResetLimitDay_AL2 = 400
-CommandResetLimitDay_AL3 = 400
+CommandResetLimitDay_AL0 = 360
+CommandResetLimitDay_AL1 = 360
+CommandResetLimitDay_AL2 = 360
+CommandResetLimitDay_AL3 = 360
 
 ; Maximum resets per week
-CommandResetLimitWek_AL0 = 400
-CommandResetLimitWek_AL1 = 400
-CommandResetLimitWek_AL2 = 400
-CommandResetLimitWek_AL3 = 400
+CommandResetLimitWek_AL0 = 360
+CommandResetLimitWek_AL1 = 360
+CommandResetLimitWek_AL2 = 360
+CommandResetLimitWek_AL3 = 360
 
 ; Maximum resets per month
-CommandResetLimitMon_AL0 = 400
-CommandResetLimitMon_AL1 = 400
-CommandResetLimitMon_AL2 = 400
-CommandResetLimitMon_AL3 = 400
+CommandResetLimitMon_AL0 = 360
+CommandResetLimitMon_AL1 = 360
+CommandResetLimitMon_AL2 = 360
+CommandResetLimitMon_AL3 = 360
 
 ;==================================================
 ; Reset Command Settings
 ;==================================================
 ; Required level to use "/grandreset"
-CommandGrandResetLevel_AL0 = 400
-CommandGrandResetLevel_AL1 = 400
-CommandGrandResetLevel_AL2 = 400
-CommandGrandResetLevel_AL3 = 400
+CommandGrandResetLevel_AL0 = 360
+CommandGrandResetLevel_AL1 = 360
+CommandGrandResetLevel_AL2 = 360
+CommandGrandResetLevel_AL3 = 360
 
 ; Character level after utilizing "/grandreset"
 CommandGrandResetStartLevel_AL0 = 1
@@ -130,10 +130,10 @@ CommandGrandResetStartLevel_AL2 = 1
 CommandGrandResetStartLevel_AL3 = 1
 
 ; Required Reset to use "/grandreset" 
-CommandGrandResetReset_AL0 = 400
-CommandGrandResetReset_AL1 = 400
-CommandGrandResetReset_AL2 = 400
-CommandGrandResetReset_AL3 = 400
+CommandGrandResetReset_AL0 = 360
+CommandGrandResetReset_AL1 = 360
+CommandGrandResetReset_AL2 = 360
+CommandGrandResetReset_AL3 = 360
 
 ; Character Reset after utilizing "/grandreset"
 CommandGrandResetStartReset_AL0 = 1
@@ -148,10 +148,10 @@ CommandGrandResetMoney_AL2 = 2000000000
 CommandGrandResetMoney_AL3 = 2000000000
 
 ; Amount of points gain after utilizing "/grandreset"
-CommandGrandResetPoint_AL0 = 315
-CommandGrandResetPoint_AL1 = 315
-CommandGrandResetPoint_AL2 = 315
-CommandGrandResetPoint_AL3 = 315
+CommandGrandResetPoint_AL0 = 350
+CommandGrandResetPoint_AL1 = 350
+CommandGrandResetPoint_AL2 = 350
+CommandGrandResetPoint_AL3 = 350
 
 ; Percentage of points gain after utilizing "/grandreset"
 CommandGrandResetPointRateDW = 100

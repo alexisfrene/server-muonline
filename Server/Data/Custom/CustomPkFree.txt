@@ -8,6 +8,6 @@
 // TY = Ending Pos Y
 //=================================================================
 
-//Map	X	Y	TX	TY	Comment
-0	139	123	148	133	//Ring de Lorencia
+//Map	X		Y		TX		TY	Comment
+0		139		123		148		133	//Ring de Lorencia
 end

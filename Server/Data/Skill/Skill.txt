@@ -33,11 +33,11 @@
 34				"Summon Dark Knight"	0		200		0		0		0		0		*		0		0		0		0	0	1	0
 35				"Summon Bali"			0		250		0		0		0		0		*		0		0		0		0	0	1	0
 36				"Summon Soldier"		0		350		0		0		0		0		*		0		0		0		0	0	1	0
-41				"Twisting Slash"		0		10		10		2		2		0		5		0		0		0		0	1	0	1
+41				"Twisting Slash"		0		10		10		2		2		300		5		0		0		0		0	1	0	1
 42				"Rageful Blow"			60		25		20		3		3		0		4		0		0		0		0	2	0	0
-43				"Death Stab"			70		15		12		2		2		0		5		0		0		0		0	2	0	0
+43				"Death Stab"			70		35		24		2		2		300		5		0		0		0		0	2	0	0
 47				"Impale"				15		8		0		3		6		0		*		0		0		0		0	1	0	1
-48				"Greater Life"			0		22		24		0		5		0		*		8		0		0		0	1	0	0
+48				"Greater Life"			0		300		300		0		5		100		*		8		0		0		0	1	0	0
 49				"Fire Breath"			30		9		0		3		0		0		*		0		0		0		0	1	0	0
 50				"Monster Area Attack"	0		0		0		0		6		0		*		0		0		0		0	0	0	0
 51				"Ice Arrow"				105		10		12		8		0		0		0		57		0		0		0	0	2	0

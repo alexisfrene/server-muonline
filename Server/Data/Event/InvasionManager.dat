@@ -1,7 +1,10 @@
 // DOW: 1=Sunday / 2=Monday / 3=Tuesday / 4=Wednesday / 5=Thursday / 6=Friday / 7=Saturday
 0
 //Index	Year	Month	Day	DoW	Hour	Minute	Second
-0		*		*		*	*	14		50		0
+0		*		*		*	*	16		20		0
+0		*		*		*	*	16		21		0
+0		*		*		*	*	16		22		0
+0		*		*		*	*	16		23		0
 1		*		*		*	*	19		35		0
 2		*		*		*	*	14		58		0
 end
@@ -15,9 +18,9 @@ end
 
 1
 //Index	RespawnMessage	DespawnMessage	BossIndex	BossMessage	InvasionTime	AlarmTime	AlarmMsg	InvasionEffect	InvasionName
-0		19				21				55			20			60				5			18			3				"Death King"
-1		19				21				42			20			60				5			18			1				"Red Dragon"
-2		19				21				*			20			60				5			18			3				"Golden"
+0		19				21				55			20			1800			1			18			1				"Death King"
+1		19				21				42			20			1800			5			18			1				"Red Dragon"
+2		19				21				*			20			1800			5			18			3				"Golden"
 end
 
 2

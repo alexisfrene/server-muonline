@@ -20,7 +20,7 @@ PersonalCodeCheck = 0
 ;==================================================
 ; Monster Settings
 ;==================================================
-MonsterLifeRate = 100
+MonsterLifeRate = 150
 MonsterHealthBarSwitch = 1
 
 ;==================================================
@@ -36,8 +36,8 @@ PKDownTime2 = 3600
 ;==================================================
 GuildCreateSwitch = 1	
 GuildDeleteSwitch = 1
-GuildCreateMinLevel = 100
-GuildCreateMinReset = 0
+GuildCreateMinLevel = 250
+GuildCreateMinReset = 280
 GuildInsertMaxUser_AL0 = 40
 GuildInsertMaxUser_AL1 = 80
 GuildInsertMaxUser_AL2 = 80
@@ -46,7 +46,7 @@ GuildInsertMaxUser_AL3 = 80
 ;==================================================
 ; Guild War/Soccer Settings
 ;==================================================
-GuildWarWinScore = 10			; Score need to win the guild war
+GuildWarWinScore = 20				; Score need to win the guild war
 GuildWarSoccerWinScore = 100		; Score need to win the battle soccer
 GuildWarWinPointsGain_Max = 3		; Enemy guild score is 0
 GuildWarWinPointsGain_Half = 2		; Enemy guild score < (WinScore / 2)
@@ -63,10 +63,10 @@ GoldenArcherRewardItemIndex = 459	; 459 = Box of Luck
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 800
-AddExperienceRate_AL1 = 800
-AddExperienceRate_AL2 = 800
-AddExperienceRate_AL3 = 800
+AddExperienceRate_AL0 = 400
+AddExperienceRate_AL1 = 400
+AddExperienceRate_AL2 = 400
+AddExperienceRate_AL3 = 400
 AddEventExperienceRate_AL0 = 1
 AddEventExperienceRate_AL1 = 1
 AddEventExperienceRate_AL2 = 1
@@ -75,7 +75,7 @@ AddEventExperienceRate_AL3 = 1
 ;==================================================
 ; Item Drop Settings
 ;==================================================
-ItemDropTime = 30
+ItemDropTime = 45
 ItemDropRate_AL0 = 20
 ItemDropRate_AL1 = 20
 ItemDropRate_AL2 = 20
@@ -84,11 +84,11 @@ ItemDropRate_AL3 = 20
 ;==================================================
 ; Money Drop Settings
 ;==================================================
-MoneyDropTime = 8
-MoneyAmountDropRate_AL0 = 40
-MoneyAmountDropRate_AL1 = 40
-MoneyAmountDropRate_AL2 = 40
-MoneyAmountDropRate_AL3 = 40
+MoneyDropTime = 10
+MoneyAmountDropRate_AL0 = 80
+MoneyAmountDropRate_AL1 = 80
+MoneyAmountDropRate_AL2 = 80
+MoneyAmountDropRate_AL3 = 80
 
 ;==================================================
 ; Item Durability Settings
@@ -116,13 +116,13 @@ ShopItemBlockSellOnMaxMoney = 1
 ;==================================================
 ; Level Up Settings
 ;==================================================
-MaxCharacterLevel = 400
+MaxCharacterLevel = 350
 MaxLevelUp = 1
 MaxLevelUpEvent = 1
-MaxStatPoint_AL0 = 32767
-MaxStatPoint_AL1 = 32767
-MaxStatPoint_AL2 = 32767
-MaxStatPoint_AL3 = 32767
+MaxStatPoint_AL0 = 31500
+MaxStatPoint_AL1 = 31500
+MaxStatPoint_AL2 = 31500
+MaxStatPoint_AL3 = 31500
 DWLevelUpPoint = 5
 DKLevelUpPoint = 5
 FELevelUpPoint = 5
@@ -143,12 +143,12 @@ MGCreateLevel_AL3 = 0
 ;==================================================
 PartyLevelDifference = 130
 PartyReconnectTime = 300
-PartyGeneralExperience1 = 50
+PartyGeneralExperience1 = 100
 PartyGeneralExperience2 = 125
 PartyGeneralExperience3 = 150
 PartyGeneralExperience4 = 175
 PartyGeneralExperience5 = 200
-PartySpecialExperience1 = 50
+PartySpecialExperience1 = 100
 PartySpecialExperience2 = 125
 PartySpecialExperience3 = 150
 PartySpecialExperience4 = 175
@@ -157,13 +157,13 @@ PartySpecialExperience5 = 200
 ;==================================================
 ; Potion Settings
 ;==================================================
-ApplePotionRate = 10
-SmallLifePotionRate = 20
-MidleLifePotionRate = 30
-LargeLifePotionRate = 40
-SmallManaPotionRate = 20
-MidleManaPotionRate = 30
-LargeManaPotionRate = 40
+ApplePotionRate = 5
+SmallLifePotionRate = 10
+MidleLifePotionRate = 20
+LargeLifePotionRate = 30
+SmallManaPotionRate = 10
+MidleManaPotionRate = 20
+LargeManaPotionRate = 30
 
 ;==================================================
 ; Transformation Ring Settings

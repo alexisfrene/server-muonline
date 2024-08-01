@@ -7,19 +7,19 @@
 //=========================================================================================================================================
 0
 //Mob	MapNum	Range	PosX	PosY	Direct	Name
-255	0	0	123	135	1	// Lumen the Barmaid
-254	0	0	118	113	3	// Pasi the Mage
-251	0	0	116	141	3	// Hanzo the Blacksmith
-248	0	0	6	145	2	// Wandering Merchant Martin
-250	0	0	183	137	2	// Wandering Merchant Peddler
-236	0	0	130	127	3	// Golden Archer
-240	0	0	146	110	3	// Safety Guardian
-240	0	0	147	145	1	// Safety Guardian
-249	0	10	131	88	1	// Berdysh Guard
-249	0	20	173	125	3	// Berdysh Guard
-249	0	20	94	125	7	// Berdysh Guard
-249	0	20	94	130	7	// Berdysh Guard
-249	0	30	131	148	1	// Berdysh Guard
+255		0		0		123		135		1	// Lumen the Barmaid
+254		0		0		118		113		3	// Pasi the Mage
+251		0		0		116		141		3	// Hanzo the Blacksmith
+248		0		0		6		145		2	// Wandering Merchant Martin
+250		0		0		183		137		2	// Wandering Merchant Peddler
+236		0		0		130		127		3	// Golden Archer
+240		0		0		146		110		3	// Safety Guardian
+240		0		0		147		145		1	// Safety Guardian
+249		0		10		131		88		1	// Berdysh Guard
+249		0		20		173		125		3	// Berdysh Guard
+249		0		20		94		125		7	// Berdysh Guard
+249		0		20		94		130		7	// Berdysh Guard
+249		0		30		131		148		1	// Berdysh Guard
 end
 
 //=========================================================================================================================================
@@ -653,10 +653,10 @@ end
 //=========================================================================================================================================
 3
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Value	Name
-55	0	30	125	190	140	203	-1	1	0	// Death King
-56	0	30	125	190	140	203	-1	10	0	// Death Bone
-55	3	30	95	70	205	86	-1	1	0	// Death King
-56	3	30	195	70	205	86	-1	10	0	// Death Bone
+55		0	30		125		190		140		203		-1	1	0	// Death King
+56		0	30		125		190		140		203		-1	10	0	// Death Bone
+55		3	30		95		70		205		86		-1	1	0	// Death King
+56		3	30		195		70		205		86		-1	10	0	// Death Bone
 end
 
 //=========================================================================================================================================

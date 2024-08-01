@@ -11,7 +11,7 @@ ServerLock = 0
 ServerPort = 55901
 ServerVersion = "0.97.11"
 ServerSerial = "TbYehR2hFUPBKgZj"
-ServerMaxUserNumber = 3
+ServerMaxUserNumber = 100
 
 ;==================================================
 ; Connection Settings
