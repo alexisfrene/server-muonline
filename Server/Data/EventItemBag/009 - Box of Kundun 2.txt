@@ -3,33 +3,892 @@
 //======================================
 0
 //EventName				DropZen	ItemDropRate	ItemDropCount	ItemDropType	Fireworks	
-"Box of Kundun 2"		1000	100				1				1				0
+"Box of Kundun 2"		1000	100				10				1				0
 end
 
 1
 //Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment
 //00,000	0			0			0			0			0		0	
+
+//-----------------------------------------------------------------------------------------
+
+//opt 0 , luck 0 , exce 1
+007,004		0			0			0			0			0		1		//Set Bone
+008,004		0			0			0			0			0		1		//Set Bone
+009,004		0			0			0			0			0		1		//Set Bone
+010,004		0			0			0			0			0		1		//Set Bone
+011,004		0			0			0			0			0		1		//Set Bone
+//opt 0 , luck 0 , exce 1
+007,004		0			0			0			0			0		1		//Set Bone
+008,004		0			0			0			0			0		1		//Set Bone
+009,004		0			0			0			0			0		1		//Set Bone
+010,004		0			0			0			0			0		1		//Set Bone
+011,004		0			0			0			0			0		1		//Set Bone
+//opt 0 , luck 1 , exce 1
+007,004		0			0			0			1			0		1		//Set Bone
+008,004		0			0			0			1			0		1		//Set Bone
+009,004		0			0			0			1			0		1		//Set Bone
+010,004		0			0			0			1			0		1		//Set Bone
+011,004		0			0			0			1			0		1		//Set Bone
+//opt 0 , luck 1 , exce 2
+007,004		0			0			0			1			0		2		//Set Bone
+008,004		0			0			0			1			0		2		//Set Bone
+009,004		0			0			0			1			0		2		//Set Bone
+010,004		0			0			0			1			0		2		//Set Bone
+011,004		0			0			0			1			0		2		//Set Bone
+//opt 1 , luck 0 , exce 1
+007,004		0			0			0			0			1		1		//Set Bone
+008,004		0			0			0			0			1		1		//Set Bone
+009,004		0			0			0			0			1		1		//Set Bone
+010,004		0			0			0			0			1		1		//Set Bone
+011,004		0			0			0			0			1		1		//Set Bone
+//opt 1 , luck 0 , exce 2
+007,004		0			0			0			0			1		2		//Set Bone
+008,004		0			0			0			0			1		2		//Set Bone
+009,004		0			0			0			0			1		2		//Set Bone
+010,004		0			0			0			0			1		2		//Set Bone
+011,004		0			0			0			0			1		2		//Set Bone
+//opt 1 , luck 1 , exce 1
+007,004		0			0			0			1			1		1		//Set Bone
+008,004		0			0			0			1			1		1		//Set Bone
+009,004		0			0			0			1			1		1		//Set Bone
+010,004		0			0			0			1			1		1		//Set Bone
+011,004		0			0			0			1			1		1		//Set Bone
+//opt 1 , luck 1 , exce 2
+007,004		0			0			0			1			1		2		//Set Bone
+008,004		0			0			0			1			1		2		//Set Bone
+009,004		0			0			0			1			1		2		//Set Bone
+010,004		0			0			0			1			1		2		//Set Bone
+011,004		0			0			0			1			1		2		//Set Bone
+//opt 2 , luck 0 , exce 1
+007,004		0			0			0			0			2		1		//Set Bone
+008,004		0			0			0			0			2		1		//Set Bone
+009,004		0			0			0			0			2		1		//Set Bone
+010,004		0			0			0			0			2		1		//Set Bone
+011,004		0			0			0			0			2		1		//Set Bone
+//opt 2 , luck 0 , exce 2
+007,004		0			0			0			0			2		2		//Set Bone
+008,004		0			0			0			0			2		2		//Set Bone
+009,004		0			0			0			0			2		2		//Set Bone
+010,004		0			0			0			0			2		2		//Set Bone
+011,004		0			0			0			0			2		2		//Set Bone
+//opt 2 , luck 1 , exce 1
+007,004		0			0			0			1			2		1		//Set Bone
+008,004		0			0			0			1			2		1		//Set Bone
+009,004		0			0			0			1			2		1		//Set Bone
+010,004		0			0			0			1			2		1		//Set Bone
+011,004		0			0			0			1			2		1		//Set Bone
+//opt 2 , luck 1 , exce 2
+007,004		0			0			0			1			2		2		//Set Bone
+008,004		0			0			0			1			2		2		//Set Bone
+009,004		0			0			0			1			2		2		//Set Bone
+010,004		0			0			0			1			2		2		//Set Bone
+011,004		0			0			0			1			2		2		//Set Bone
+
+//-----------------------------------------------------------------------------------------
+
+//opt 0 , luck 0 , excel 1
+007,009		0			0			0			0			0		1		//Set Plate
+008,009		0			0			0			0			0		1		//Set Plate
+009,009		0			0			0			0			0		1		//Set Plate
+010,009		0			0			0			0			0		1		//Set Plate
+011,009		0			0			0			0			0		1		//Set Plate
+//opt 0 , luck 0 , excl 1
+007,009		0			0			0			0			0		1		//Set Plate
+008,009		0			0			0			0			0		1		//Set Plate
+009,009		0			0			0			0			0		1		//Set Plate
+010,009		0			0			0			0			0		1		//Set Plate
+011,009		0			0			0			0			0		1		//Set Plate
+//opt 0 , luck 1 , exce 1
+007,009		0			0			0			1			0		1		//Set Plate
+008,009		0			0			0			1			0		1		//Set Plate
+009,009		0			0			0			1			0		1		//Set Plate
+010,009		0			0			0			1			0		1		//Set Plate
+011,009		0			0			0			1			0		1		//Set Plate
+//opt 0 , luck 1 , exce 2
+007,009		0			0			0			1			0		2		//Set Plate
+008,009		0			0			0			1			0		2		//Set Plate
+009,009		0			0			0			1			0		2		//Set Plate
+010,009		0			0			0			1			0		2		//Set Plate
+011,009		0			0			0			1			0		2		//Set Plate
+//opt 1 , luck 0 , exce 1
+007,009		0			0			0			0			1		1		//Set Plate
+008,009		0			0			0			0			1		1		//Set Plate
+009,009		0			0			0			0			1		1		//Set Plate
+010,009		0			0			0			0			1		1		//Set Plate
+011,009		0			0			0			0			1		1		//Set Plate
+//opt 1 , luck 0 , exce 2
+007,009		0			0			0			0			1		2		//Set Plate
+008,009		0			0			0			0			1		2		//Set Plate
+009,009		0			0			0			0			1		2		//Set Plate
+010,009		0			0			0			0			1		2		//Set Plate
+011,009		0			0			0			0			1		2		//Set Plate
+//opt 1 , luck 1 , exce 1
+007,009		0			0			0			1			1		1		//Set Plate
+008,009		0			0			0			1			1		1		//Set Plate
+009,009		0			0			0			1			1		1		//Set Plate
+010,009		0			0			0			1			1		1		//Set Plate
+011,009		0			0			0			1			1		1		//Set Plate
+//opt 1 , luck 1 , exce 2
+007,009		0			0			0			1			1		2		//Set Plate
+008,009		0			0			0			1			1		2		//Set Plate
+009,009		0			0			0			1			1		2		//Set Plate
+010,009		0			0			0			1			1		2		//Set Plate
+011,009		0			0			0			1			1		2		//Set Plate
+//opt 2 , luck 0 , exce 1
+007,009		0			0			0			0			2		1		//Set Plate
+008,009		0			0			0			0			2		1		//Set Plate
+009,009		0			0			0			0			2		1		//Set Plate
+010,009		0			0			0			0			2		1		//Set Plate
+011,009		0			0			0			0			2		1		//Set Plate
+//opt 2 , luck 0 , exce 2
+007,009		0			0			0			0			2		2		//Set Plate
+008,009		0			0			0			0			2		2		//Set Plate
+009,009		0			0			0			0			2		2		//Set Plate
+010,009		0			0			0			0			2		2		//Set Plate
+011,009		0			0			0			0			2		2		//Set Plate
+//opt 2 , luck 1 , exce 1
+007,009		0			0			0			1			2		1		//Set Plate
+008,009		0			0			0			1			2		1		//Set Plate
+009,009		0			0			0			1			2		1		//Set Plate
+010,009		0			0			0			1			2		1		//Set Plate
+011,009		0			0			0			1			2		1		//Set Plate
+//opt 2 , luck 1 , exce 2
 007,009		0			0			0			1			2		2		//Set Plate
 008,009		0			0			0			1			2		2		//Set Plate
 009,009		0			0			0			1			2		2		//Set Plate
 010,009		0			0			0			1			2		2		//Set Plate
 011,009		0			0			0			1			2		2		//Set Plate
 
-007,008		0			0			0			1			2		2		//Set Brass
-008,008		0			0			0			1			2		2		//Set Brass
-009,008		0			0			0			1			2		2		//Set Brass
-010,008		0			0			0			1			2		2		//Set Brass
-011,008		0			0			0			1			2		2		//Set Brass
+//-----------------------------------------------------------------------------------------
 
-007,007		0			0			0			1			2		2		//Set Sphinx
-008,007		0			0			0			1			2		2		//Set Sphinx
-009,007		0			0			0			1			2		2		//Set Sphinx
-010,007		0			0			0			1			2		2		//Set Sphinx
-011,007		0			0			0			1			2		2		//Set Sphinx
-
+//opt 0 , luck 0 , excel 1
+007,011		0			0			0			0			0		1		//Set Silk
+008,011		0			0			0			0			0		1		//Set Silk
+009,011		0			0			0			0			0		1		//Set Silk
+010,011		0			0			0			0			0		1		//Set Silk
+011,011		0			0			0			0			0		1		//Set Silk
+//opt 0 , luck 0 , excl 1
+007,011		0			0			0			0			0		1		//Set Silk
+008,011		0			0			0			0			0		1		//Set Silk
+009,011		0			0			0			0			0		1		//Set Silk
+010,011		0			0			0			0			0		1		//Set Silk
+011,011		0			0			0			0			0		1		//Set Silk
+//opt 0 , luck 1 , exce 1
+007,011		0			0			0			1			0		1		//Set Silk
+008,011		0			0			0			1			0		1		//Set Silk
+009,011		0			0			0			1			0		1		//Set Silk
+010,011		0			0			0			1			0		1		//Set Silk
+011,011		0			0			0			1			0		1		//Set Silk
+//opt 0 , luck 1 , exce 2
+007,011		0			0			0			1			0		2		//Set Silk
+008,011		0			0			0			1			0		2		//Set Silk
+009,011		0			0			0			1			0		2		//Set Silk
+010,011		0			0			0			1			0		2		//Set Silk
+011,011		0			0			0			1			0		2		//Set Silk
+//opt 1 , luck 0 , exce 1
+007,011		0			0			0			0			1		1		//Set Silk
+008,011		0			0			0			0			1		1		//Set Silk
+009,011		0			0			0			0			1		1		//Set Silk
+010,011		0			0			0			0			1		1		//Set Silk
+011,011		0			0			0			0			1		1		//Set Silk
+//opt 1 , luck 0 , exce 2
+007,011		0			0			0			0			1		2		//Set Silk
+008,011		0			0			0			0			1		2		//Set Silk
+009,011		0			0			0			0			1		2		//Set Silk
+010,011		0			0			0			0			1		2		//Set Silk
+011,011		0			0			0			0			1		2		//Set Silk
+//opt 1 , luck 1 , exce 1
+007,011		0			0			0			1			1		1		//Set Silk
+008,011		0			0			0			1			1		1		//Set Silk
+009,011		0			0			0			1			1		1		//Set Silk
+010,011		0			0			0			1			1		1		//Set Silk
+011,011		0			0			0			1			1		1		//Set Silk
+//opt 1 , luck 1 , exce 2
+007,011		0			0			0			1			1		2		//Set Silk
+008,011		0			0			0			1			1		2		//Set Silk
+009,011		0			0			0			1			1		2		//Set Silk
+010,011		0			0			0			1			1		2		//Set Silk
+011,011		0			0			0			1			1		2		//Set Silk
+//opt 2 , luck 0 , exce 1
+007,011		0			0			0			0			2		1		//Set Silk
+008,011		0			0			0			0			2		1		//Set Silk
+009,011		0			0			0			0			2		1		//Set Silk
+010,011		0			0			0			0			2		1		//Set Silk
+011,011		0			0			0			0			2		1		//Set Silk
+//opt 2 , luck 0 , exce 2
+007,011		0			0			0			0			2		2		//Set Silk
+008,011		0			0			0			0			2		2		//Set Silk
+009,011		0			0			0			0			2		2		//Set Silk
+010,011		0			0			0			0			2		2		//Set Silk
+011,011		0			0			0			0			2		2		//Set Silk
+//opt 2 , luck 1 , exce 1
+007,011		0			0			0			1			2		1		//Set Silk
+008,011		0			0			0			1			2		1		//Set Silk
+009,011		0			0			0			1			2		1		//Set Silk
+010,011		0			0			0			1			2		1		//Set Silk
+011,011		0			0			0			1			2		1		//Set Silk
+//opt 2 , luck 1 , exce 2
 007,011		0			0			0			1			2		2		//Set Silk
 008,011		0			0			0			1			2		2		//Set Silk
 009,011		0			0			0			1			2		2		//Set Silk
 010,011		0			0			0			1			2		2		//Set Silk
 011,011		0			0			0			1			2		2		//Set Silk
+//-----------------------------------------------------------------------------------------
+
+//opt 0 , luck 0 , excel 1
+007,001		0			0			0			0			0		1		//Set Dragon
+008,001		0			0			0			0			0		1		//Set Dragon
+009,001		0			0			0			0			0		1		//Set Dragon
+010,001		0			0			0			0			0		1		//Set Dragon
+011,001		0			0			0			0			0		1		//Set Dragon
+//opt 0 , luck 0 , excl 1
+007,001		0			0			0			0			0		1		//Set Dragon
+008,001		0			0			0			0			0		1		//Set Dragon
+009,001		0			0			0			0			0		1		//Set Dragon
+010,001		0			0			0			0			0		1		//Set Dragon
+011,001		0			0			0			0			0		1		//Set Dragon
+//opt 0 , luck 1 , exce 1
+007,001		0			0			0			1			0		1		//Set Dragon
+008,001		0			0			0			1			0		1		//Set Dragon
+009,001		0			0			0			1			0		1		//Set Dragon
+010,001		0			0			0			1			0		1		//Set Dragon
+011,001		0			0			0			1			0		1		//Set Dragon
+//opt 0 , luck 1 , exce 2
+007,001		0			0			0			1			0		2		//Set Dragon
+008,001		0			0			0			1			0		2		//Set Dragon
+009,001		0			0			0			1			0		2		//Set Dragon
+010,001		0			0			0			1			0		2		//Set Dragon
+011,001		0			0			0			1			0		2		//Set Dragon
+//opt 1 , luck 0 , exce 1
+007,001		0			0			0			0			1		1		//Set Dragon
+008,001		0			0			0			0			1		1		//Set Dragon
+009,001		0			0			0			0			1		1		//Set Dragon
+010,001		0			0			0			0			1		1		//Set Dragon
+011,001		0			0			0			0			1		1		//Set Dragon
+//opt 1 , luck 0 , exce 2
+007,001		0			0			0			0			1		2		//Set Dragon
+008,001		0			0			0			0			1		2		//Set Dragon
+009,001		0			0			0			0			1		2		//Set Dragon
+010,001		0			0			0			0			1		2		//Set Dragon
+011,001		0			0			0			0			1		2		//Set Dragon
+//opt 1 , luck 1 , exce 1
+007,001		0			0			0			1			1		1		//Set Dragon
+008,001		0			0			0			1			1		1		//Set Dragon
+009,001		0			0			0			1			1		1		//Set Dragon
+010,001		0			0			0			1			1		1		//Set Dragon
+011,001		0			0			0			1			1		1		//Set Dragon
+//opt 1 , luck 1 , exce 2
+007,001		0			0			0			1			1		2		//Set Dragon
+008,001		0			0			0			1			1		2		//Set Dragon
+009,001		0			0			0			1			1		2		//Set Dragon
+010,001		0			0			0			1			1		2		//Set Dragon
+011,001		0			0			0			1			1		2		//Set Dragon
+//opt 2 , luck 0 , exce 1
+007,001		0			0			0			0			2		1		//Set Dragon
+008,001		0			0			0			0			2		1		//Set Dragon
+009,001		0			0			0			0			2		1		//Set Dragon
+010,001		0			0			0			0			2		1		//Set Dragon
+011,001		0			0			0			0			2		1		//Set Dragon
+//opt 2 , luck 0 , exce 2
+007,001		0			0			0			0			2		2		//Set Dragon
+008,001		0			0			0			0			2		2		//Set Dragon
+009,001		0			0			0			0			2		2		//Set Dragon
+010,001		0			0			0			0			2		2		//Set Dragon
+011,001		0			0			0			0			2		2		//Set Dragon
+//opt 2 , luck 1 , exce 1
+007,001		0			0			0			1			2		1		//Set Dragon
+008,001		0			0			0			1			2		1		//Set Dragon
+009,001		0			0			0			1			2		1		//Set Dragon
+010,001		0			0			0			1			2		1		//Set Dragon
+011,001		0			0			0			1			2		1		//Set Dragon
+//opt 2 , luck 1 , exce 2
+007,001		0			0			0			1			2		2		//Set Dragon
+008,001		0			0			0			1			2		2		//Set Dragon
+009,001		0			0			0			1			2		2		//Set Dragon
+010,001		0			0			0			1			2		2		//Set Dragon
+011,001		0			0			0			1			2		2		//Set Dragon
+
+//-----------------------------------------------------------------------------------------
+
+//opt 0 , luck 0 , excel 1
+007,003		0			0			0			0			0		1		//Set Legendary
+008,003		0			0			0			0			0		1		//Set Legendary
+009,003		0			0			0			0			0		1		//Set Legendary
+010,003		0			0			0			0			0		1		//Set Legendary
+011,003		0			0			0			0			0		1		//Set Legendary
+//opt 0 , luck 0 , excl 1
+007,003		0			0			0			0			0		1		//Set Legendary
+008,003		0			0			0			0			0		1		//Set Legendary
+009,003		0			0			0			0			0		1		//Set Legendary
+010,003		0			0			0			0			0		1		//Set Legendary
+011,003		0			0			0			0			0		1		//Set Legendary
+//opt 0 , luck 1 , exce 1
+007,003		0			0			0			1			0		1		//Set Legendary
+008,003		0			0			0			1			0		1		//Set Legendary
+009,003		0			0			0			1			0		1		//Set Legendary
+010,003		0			0			0			1			0		1		//Set Legendary
+011,003		0			0			0			1			0		1		//Set Legendary
+//opt 0 , luck 1 , exce 2
+007,003		0			0			0			1			0		2		//Set Legendary
+008,003		0			0			0			1			0		2		//Set Legendary
+009,003		0			0			0			1			0		2		//Set Legendary
+010,003		0			0			0			1			0		2		//Set Legendary
+011,003		0			0			0			1			0		2		//Set Legendary
+//opt 1 , luck 0 , exce 1
+007,003		0			0			0			0			1		1		//Set Legendary
+008,003		0			0			0			0			1		1		//Set Legendary
+009,003		0			0			0			0			1		1		//Set Legendary
+010,003		0			0			0			0			1		1		//Set Legendary
+011,003		0			0			0			0			1		1		//Set Legendary
+//opt 1 , luck 0 , exce 2
+007,003		0			0			0			0			1		2		//Set Legendary
+008,003		0			0			0			0			1		2		//Set Legendary
+009,003		0			0			0			0			1		2		//Set Legendary
+010,003		0			0			0			0			1		2		//Set Legendary
+011,003		0			0			0			0			1		2		//Set Legendary
+//opt 1 , luck 1 , exce 1
+007,003		0			0			0			1			1		1		//Set Legendary
+008,003		0			0			0			1			1		1		//Set Legendary
+009,003		0			0			0			1			1		1		//Set Legendary
+010,003		0			0			0			1			1		1		//Set Legendary
+011,003		0			0			0			1			1		1		//Set Legendary
+//opt 1 , luck 1 , exce 2
+007,003		0			0			0			1			1		2		//Set Legendary
+008,003		0			0			0			1			1		2		//Set Legendary
+009,003		0			0			0			1			1		2		//Set Legendary
+010,003		0			0			0			1			1		2		//Set Legendary
+011,003		0			0			0			1			1		2		//Set Legendary
+//opt 2 , luck 0 , exce 1
+007,003		0			0			0			0			2		1		//Set Legendary
+008,003		0			0			0			0			2		1		//Set Legendary
+009,003		0			0			0			0			2		1		//Set Legendary
+010,003		0			0			0			0			2		1		//Set Legendary
+011,003		0			0			0			0			2		1		//Set Legendary
+//opt 2 , luck 0 , exce 2
+007,003		0			0			0			0			2		2		//Set Legendary
+008,003		0			0			0			0			2		2		//Set Legendary
+009,003		0			0			0			0			2		2		//Set Legendary
+010,003		0			0			0			0			2		2		//Set Legendary
+011,003		0			0			0			0			2		2		//Set Legendary
+//opt 2 , luck 1 , exce 1
+007,003		0			0			0			1			2		1		//Set Legendary
+008,003		0			0			0			1			2		1		//Set Legendary
+009,003		0			0			0			1			2		1		//Set Legendary
+010,003		0			0			0			1			2		1		//Set Legendary
+011,003		0			0			0			1			2		1		//Set Legendary
+//opt 2 , luck 1 , exce 2
+007,003		0			0			0			1			2		2		//Set Legendary
+008,003		0			0			0			1			2		2		//Set Legendary
+009,003		0			0			0			1			2		2		//Set Legendary
+010,003		0			0			0			1			2		2		//Set Legendary
+011,003		0			0			0			1			2		2		//Set Legendary
+
+//-----------------------------------------------------------------------------------------
+
+//opt 0 , luck 0 , excel 1
+007,012		0			0			0			0			0		1		//Set Wind
+008,012		0			0			0			0			0		1		//Set Wind
+009,012		0			0			0			0			0		1		//Set Wind
+010,012		0			0			0			0			0		1		//Set Wind
+011,012		0			0			0			0			0		1		//Set Wind
+//opt 0 , luck 0 , excl 1
+007,012		0			0			0			0			0		1		//Set Wind
+008,012		0			0			0			0			0		1		//Set Wind
+009,012		0			0			0			0			0		1		//Set Wind
+010,012		0			0			0			0			0		1		//Set Wind
+011,012		0			0			0			0			0		1		//Set Wind
+//opt 0 , luck 1 , exce 1
+007,012		0			0			0			1			0		1		//Set Wind
+008,012		0			0			0			1			0		1		//Set Wind
+009,012		0			0			0			1			0		1		//Set Wind
+010,012		0			0			0			1			0		1		//Set Wind
+011,012		0			0			0			1			0		1		//Set Wind
+//opt 0 , luck 1 , exce 2
+007,012		0			0			0			1			0		2		//Set Wind
+008,012		0			0			0			1			0		2		//Set Wind
+009,012		0			0			0			1			0		2		//Set Wind
+010,012		0			0			0			1			0		2		//Set Wind
+011,012		0			0			0			1			0		2		//Set Wind
+//opt 1 , luck 0 , exce 1
+007,012		0			0			0			0			1		1		//Set Wind
+008,012		0			0			0			0			1		1		//Set Wind
+009,012		0			0			0			0			1		1		//Set Wind
+010,012		0			0			0			0			1		1		//Set Wind
+011,012		0			0			0			0			1		1		//Set Wind
+//opt 1 , luck 0 , exce 2
+007,012		0			0			0			0			1		2		//Set Wind
+008,012		0			0			0			0			1		2		//Set Wind
+009,012		0			0			0			0			1		2		//Set Wind
+010,012		0			0			0			0			1		2		//Set Wind
+011,012		0			0			0			0			1		2		//Set Wind
+//opt 1 , luck 1 , exce 1
+007,012		0			0			0			1			1		1		//Set Wind
+008,012		0			0			0			1			1		1		//Set Wind
+009,012		0			0			0			1			1		1		//Set Wind
+010,012		0			0			0			1			1		1		//Set Wind
+011,012		0			0			0			1			1		1		//Set Wind
+//opt 1 , luck 1 , exce 2
+007,012		0			0			0			1			1		2		//Set Wind
+008,012		0			0			0			1			1		2		//Set Wind
+009,012		0			0			0			1			1		2		//Set Wind
+010,012		0			0			0			1			1		2		//Set Wind
+011,012		0			0			0			1			1		2		//Set Wind
+//opt 2 , luck 0 , exce 1
+007,012		0			0			0			0			2		1		//Set Wind
+008,012		0			0			0			0			2		1		//Set Wind
+009,012		0			0			0			0			2		1		//Set Wind
+010,012		0			0			0			0			2		1		//Set Wind
+011,012		0			0			0			0			2		1		//Set Wind
+//opt 2 , luck 0 , exce 2
+007,012		0			0			0			0			2		2		//Set Wind
+008,012		0			0			0			0			2		2		//Set Wind
+009,012		0			0			0			0			2		2		//Set Wind
+010,012		0			0			0			0			2		2		//Set Wind
+011,012		0			0			0			0			2		2		//Set Wind
+//opt 2 , luck 1 , exce 1
+007,012		0			0			0			1			2		1		//Set Wind
+008,012		0			0			0			1			2		1		//Set Wind
+009,012		0			0			0			1			2		1		//Set Wind
+010,012		0			0			0			1			2		1		//Set Wind
+011,012		0			0			0			1			2		1		//Set Wind
+//opt 2 , luck 1 , exce 2
+007,012		0			0			0			1			2		2		//Set Wind
+008,012		0			0			0			1			2		2		//Set Wind
+009,012		0			0			0			1			2		2		//Set Wind
+010,012		0			0			0			1			2		2		//Set Wind
+011,012		0			0			0			1			2		2		//Set Wind
+
+//-----------------------------------------------------------------------------------------
+
+//opt 0 , luck 0 , excel 1
+007,014		0			0			0			0			0		1		//Set Guardian
+008,014		0			0			0			0			0		1		//Set Guardian
+009,014		0			0			0			0			0		1		//Set Guardian
+010,014		0			0			0			0			0		1		//Set Guardian
+011,014		0			0			0			0			0		1		//Set Guardian
+//opt 0 , luck 0 , excl 1
+007,014		0			0			0			0			0		1		//Set Guardian
+008,014		0			0			0			0			0		1		//Set Guardian
+009,014		0			0			0			0			0		1		//Set Guardian
+010,014		0			0			0			0			0		1		//Set Guardian
+011,014		0			0			0			0			0		1		//Set Guardian
+//opt 0 , luck 1 , exce 1
+007,014		0			0			0			1			0		1		//Set Guardian
+008,014		0			0			0			1			0		1		//Set Guardian
+009,014		0			0			0			1			0		1		//Set Guardian
+010,014		0			0			0			1			0		1		//Set Guardian
+011,014		0			0			0			1			0		1		//Set Guardian
+//opt 0 , luck 1 , exce 2
+007,014		0			0			0			1			0		2		//Set Guardian
+008,014		0			0			0			1			0		2		//Set Guardian
+009,014		0			0			0			1			0		2		//Set Guardian
+010,014		0			0			0			1			0		2		//Set Guardian
+011,014		0			0			0			1			0		2		//Set Guardian
+//opt 1 , luck 0 , exce 1
+007,014		0			0			0			0			1		1		//Set Guardian
+008,014		0			0			0			0			1		1		//Set Guardian
+009,014		0			0			0			0			1		1		//Set Guardian
+010,014		0			0			0			0			1		1		//Set Guardian
+011,014		0			0			0			0			1		1		//Set Guardian
+//opt 1 , luck 0 , exce 2
+007,014		0			0			0			0			1		2		//Set Guardian
+008,014		0			0			0			0			1		2		//Set Guardian
+009,014		0			0			0			0			1		2		//Set Guardian
+010,014		0			0			0			0			1		2		//Set Guardian
+011,014		0			0			0			0			1		2		//Set Guardian
+//opt 1 , luck 1 , exce 1
+007,014		0			0			0			1			1		1		//Set Guardian
+008,014		0			0			0			1			1		1		//Set Guardian
+009,014		0			0			0			1			1		1		//Set Guardian
+010,014		0			0			0			1			1		1		//Set Guardian
+011,014		0			0			0			1			1		1		//Set Guardian
+//opt 1 , luck 1 , exce 2
+007,014		0			0			0			1			1		2		//Set Guardian
+008,014		0			0			0			1			1		2		//Set Guardian
+009,014		0			0			0			1			1		2		//Set Guardian
+010,014		0			0			0			1			1		2		//Set Guardian
+011,014		0			0			0			1			1		2		//Set Guardian
+//opt 2 , luck 0 , exce 1
+007,014		0			0			0			0			2		1		//Set Guardian
+008,014		0			0			0			0			2		1		//Set Guardian
+009,014		0			0			0			0			2		1		//Set Guardian
+010,014		0			0			0			0			2		1		//Set Guardian
+011,014		0			0			0			0			2		1		//Set Guardian
+//opt 2 , luck 0 , exce 2
+007,014		0			0			0			0			2		2		//Set Guardian
+008,014		0			0			0			0			2		2		//Set Guardian
+009,014		0			0			0			0			2		2		//Set Guardian
+010,014		0			0			0			0			2		2		//Set Guardian
+011,014		0			0			0			0			2		2		//Set Guardian
+//opt 2 , luck 1 , exce 1
+007,014		0			0			0			1			2		1		//Set Guardian
+008,014		0			0			0			1			2		1		//Set Guardian
+009,014		0			0			0			1			2		1		//Set Guardian
+010,014		0			0			0			1			2		1		//Set Guardian
+011,014		0			0			0			1			2		1		//Set Guardian
+//opt 2 , luck 1 , exce 2
+007,014		0			0			0			1			2		2		//Set Guardian
+008,014		0			0			0			1			2		2		//Set Guardian
+009,014		0			0			0			1			2		2		//Set Guardian
+010,014		0			0			0			1			2		2		//Set Guardian
+011,014		0			0			0			1			2		2		//Set Guardian
+//=====================================
+//	SWORDS
+//=====================================
+
+//opt: 0, luck: 0, exce: 1 					
+000,003		0			0			1			0			0		1		//Katana
+000,004		0			0			1			0			0		1		//Sword of Assassin
+000,005		0			0			1			0			0		1		//Blade
+000,006		0			0			1			0			0		1		//Gladius
+000,007		0			0			1			0			0		1		//Falchion
+000,008		0			0			1			0			0		1		//Serpent Sword
+000,009		0			0			1			0			0		1		//Salamander Sword
+000,010		0			0			1			0			0		1		//Light Saber
+000,011		0			0			1			0			0		1		//Legendary Sword
+000,012		0			0			1			0			0		1		//Heliacal Sword
+000,013		0			0			1			0			0		1		//Double Blade
+000,014		0			0			1			0			0		1		//Lightning Sword
+
+
+//opt: 0, luck: 0, exce: 2			
+000,003		0			0			1			0			0		2		//Katana
+000,004		0			0			1			0			0		2		//Sword of Assassin
+000,005		0			0			1			0			0		2		//Blade
+000,006		0			0			1			0			0		2		//Gladius
+000,007		0			0			1			0			0		2		//Falchion
+000,008		0			0			1			0			0		2		//Serpent Sword
+000,009		0			0			1			0			0		2		//Salamander Sword
+000,010		0			0			1			0			0		2		//Light Saber
+000,011		0			0			1			0			0		2		//Legendary Sword
+000,012		0			0			1			0			0		2		//Heliacal Sword
+000,013		0			0			1			0			0		2		//Double Blade
+000,014		0			0			1			0			0		2		//Lightning Sword
+
+//opt: 0, luck: 1, exce: 1 	
+000,003		0			0			1			1			0		1		//Katana
+000,004		0			0			1			1			0		1		//Sword of Assassin
+000,005		0			0			1			1			0		1		//Blade
+000,006		0			0			1			1			0		1		//Gladius
+000,007		0			0			1			1			0		1		//Falchion
+000,008		0			0			1			1			0		1		//Serpent Sword
+000,009		0			0			1			1			0		1		//Salamander Sword
+000,010		0			0			1			1			0		1		//Light Saber
+000,011		0			0			1			1			0		1		//Legendary Sword
+000,012		0			0			1			1			0		1		//Heliacal Sword
+000,013		0			0			1			1			0		1		//Double Blade
+000,014		0			0			1			1			0		1		//Lightning Sword
+
+// opt: 0, luck: 1, exce: 2					
+000,003		0			0			1			1			0		2		//Katana
+000,004		0			0			1			1			0		2		//Sword of Assassin
+000,005		0			0			1			1			0		2		//Blade
+000,006		0			0			1			1			0		2		//Gladius
+000,007		0			0			1			1			0		2		//Falchion
+000,008		0			0			1			1			0		2		//Serpent Sword
+000,009		0			0			1			1			0		2		//Salamander Sword
+000,010		0			0			1			1			0		2		//Light Saber
+000,011		0			0			1			1			0		2		//Legendary Sword
+000,012		0			0			1			1			0		2		//Heliacal Sword
+000,013		0			0			1			1			0		2		//Double Blade
+000,014		0			0			1			1			0		2		//Lightning Sword
+
+//opt: 1, luck: 0, exce: 1			
+000,003		0			0			1			0			1		1		//Katana
+000,004		0			0			1			0			1		1		//Sword of Assassin
+000,005		0			0			1			0			1		1		//Blade
+000,006		0			0			1			0			1		1		//Gladius
+000,007		0			0			1			0			1		1		//Falchion
+000,008		0			0			1			0			1		1		//Serpent Sword
+000,009		0			0			1			0			1		1		//Salamander Sword
+000,010		0			0			1			0			1		1		//Light Saber
+000,011		0			0			1			0			1		1		//Legendary Sword
+000,012		0			0			1			0			1		1		//Heliacal Sword
+000,013		0			0			1			0			1		1		//Double Blade
+000,014		0			0			1			0			1		1		//Lightning Sword
+
+//opt: 1, luck: 0, exce: 2
+000,003		0			0			1			0			1		2		//Katana
+000,004		0			0			1			0			1		2		//Sword of Assassin
+000,005		0			0			1			0			1		2		//Blade
+000,006		0			0			1			0			1		2		//Gladius
+000,007		0			0			1			0			1		2		//Falchion
+000,008		0			0			1			0			1		2		//Serpent Sword
+000,009		0			0			1			0			1		2		//Salamander Sword
+000,010		0			0			1			0			1		2		//Light Saber
+000,011		0			0			1			0			1		2		//Legendary Sword
+000,012		0			0			1			0			1		2		//Heliacal Sword
+000,013		0			0			1			0			1		2		//Double Blade
+000,014		0			0			1			0			1		2		//Lightning Sword
+
+//opt: 1, luck: 1, exce: 1
+000,003		0			0			1			1			1		1		//Katana
+000,004		0			0			1			1			1		1		//Sword of Assassin
+000,005		0			0			1			1			1		1		//Blade
+000,005		0			0			1			1			1		1		//Gladius
+000,006		0			0			1			1			1		1		//Falchion
+000,007		0			0			1			1			1		1		//Serpent Sword
+000,008		0			0			1			1			1		1		//Salamander Sword
+000,009		0			0			1			1			1		1		//Light Saber
+000,010		0			0			1			1			1		1		//Legendary Sword
+000,011		0			0			1			1			1		1		//Heliacal Sword
+000,012		0			0			1			1			1		1		//Double Blade
+000,013		0			0			1			1			1		1		//Blade14
+// opt: 1, luck: 1, exce: 2 
+000,003		0			0			1			1			1		2		//Katana
+000,004		0			0			1			1			1		2		//Sword of Assassin
+000,005		0			0			1			1			1		2		//Blade
+000,006		0			0			1			1			1		2		//Gladius
+000,007		0			0			1			1			1		2		//Falchion
+000,008		0			0			1			1			1		2		//Serpent Sword
+000,009		0			0			1			1			1		2		//Salamander Sword
+000,010		0			0			1			1			1		2		//Light Saber
+000,011		0			0			1			1			1		2		//Legendary Sword
+000,012		0			0			1			1			1		2		//Heliacal Sword
+000,013		0			0			1			1			1		2		//Double Blade
+000,014		0			0			1			1			1		2		//Lightning Sword
+
+// opt: 2, luck: 0, exce: 1
+000,003		0			0			1			0			2		1		//Katana
+000,004		0			0			1			0			2		1		//Sword of Assassin
+000,005		0			0			1			0			2		1		//Blade
+000,006		0			0			1			0			2		1		//Gladius
+000,007		0			0			1			0			2		1		//Falchion
+000,008		0			0			1			0			2		1		//Serpent Sword
+000,009		0			0			1			0			2		1		//Salamander Sword
+000,010		0			0			1			0			2		1		//Light Saber
+000,011		0			0			1			0			2		1		//Legendary Sword
+000,012		0			0			1			0			2		1		//Heliacal Sword
+000,013		0			0			1			0			2		1		//Double Blade
+000,014		0			0			1			0			2		1		//Lightning Sword
+
+// opt: 2, luck: 0, exce: 2
+000,003		0			0			1			0			2		2		//Katana
+000,004		0			0			1			0			2		2		//Sword of Assassin
+000,005		0			0			1			0			2		2		//Blade
+000,006		0			0			1			0			2		2		//Gladius
+000,007		0			0			1			0			2		2		//Falchion
+000,008		0			0			1			0			2		2		//Serpent Sword
+000,009		0			0			1			0			2		2		//Salamander Sword
+000,010		0			0			1			0			2		2		//Light Saber
+000,011		0			0			1			0			2		2		//Legendary Sword
+000,012		0			0			1			0			2		2		//Heliacal Sword
+000,013		0			0			1			0			2		2		//Double Blade
+000,014		0			0			1			0			2		2		//Lightning Sword
+
+// opt: 2, luck: 1, exce: 1
+000,003		0			0			1			1			2		1		//Katana
+000,004		0			0			1			1			2		1		//Sword of Assassin
+000,005		0			0			1			1			2		1		//Blade
+000,006		0			0			1			1			2		1		//Gladius
+000,007		0			0			1			1			2		1		//Falchion
+000,008		0			0			1			1			2		1		//Serpent Sword
+000,009		0			0			1			1			2		1		//Salamander Sword
+000,010		0			0			1			1			2		1		//Light Saber
+000,011		0			0			1			1			2		1		//Legendary Sword
+000,012		0			0			1			1			2		1		//Heliacal Sword
+000,013		0			0			1			1			2		1		//Double Blade
+000,014		0			0			1			1			2		1		//Lightning Sword
+
+//opt: 2, luck: 1, exce: 2
+000,003		0			0			1			1			2		2		//Katana
+000,004		0			0			1			1			2		2		//Sword of Assassin
+000,005		0			0			1			1			2		2		//Blade
+000,006		0			0			1			1			2		2		//Gladius
+000,007		0			0			1			1			2		2		//Falchion
+000,008		0			0			1			1			2		2		//Serpent Sword
+000,009		0			0			1			1			2		2		//Salamander Sword
+000,010		0			0			1			1			2		2		//Light Saber
+000,011		0			0			1			1			2		2		//Legendary Sword
+000,012		0			0			1			1			2		2		//Heliacal Sword
+000,013		0			0			1			1			2		2		//Double Blade
+000,014		0			0			1			1			2		2		//Lightning Sword
+
+//=====================================
+//	AXES
+//=====================================
+//opt: 0, luck: 0, exce: 1 					
+001,006		0			0			1			0			0		1		//Nikea Axe
+001,007		0			0			1			0			0		1		//Larkan Axe
+001,008		0			0			1			0			0		1		//Crescent Axe
+
+//opt: 0, luck: 0, exce: 2			
+001,006		0			0			1			0			0		2		//Nikea Axe
+001,007		0			0			1			0			0		2		//Larkan Axe
+001,008		0			0			1			0			0		2		//Crescent Axe
+
+//opt: 0, luck: 1, exce: 1 	
+001,006		0			0			1			1			0		1		//Nikea Axe
+001,007		0			0			1			1			0		1		//Larkan Axe
+001,008		0			0			1			1			0		1		//Crescent Axe
+
+// opt: 0, luck: 1, exce: 2					
+001,006		0			0			1			1			0		2		//Nikea Axe
+001,007		0			0			1			1			0		2		//Larkan Axe
+001,008		0			0			1			1			0		2		//Crescent Axe
+
+//opt: 1, luck: 0, exce: 1			
+001,006		0			0			1			0			1		1		//Nikea Axe
+001,007		0			0			1			0			1		1		//Larkan Axe
+001,008		0			0			1			0			1		1		//Crescent Axe
+
+//opt: 1, luck: 0, exce: 2
+001,006		0			0			1			0			1		2		//Nikea Axe
+001,007		0			0			1			0			1		2		//Larkan Axe
+001,008		0			0			1			0			1		2		//Crescent Axe
+
+//opt: 1, luck: 1, exce: 1
+001,006		0			0			1			1			1		1		//Nikea Axe
+001,007		0			0			1			1			1		1		//Larkan Axe
+001,008		0			0			1			1			1		1		//Crescent Axe
+
+// opt: 1, luck: 1, exce: 2 
+001,006		0			0			1			1			1		2		//Nikea Axe
+001,007		0			0			1			1			1		2		//Larkan Axe
+001,008		0			0			1			1			1		2		//Crescent Axe
+
+// opt: 2, luck: 0, exce: 1
+001,006		0			0			1			0			2		1		//Nikea Axe
+001,007		0			0			1			0			2		1		//Larkan Axe
+001,008		0			0			1			0			2		1		//Crescent Axe
+
+// opt: 2, luck: 0, exce: 2
+001,006		0			0			1			0			2		2		//Nikea Axe
+001,007		0			0			1			0			2		2		//Larkan Axe
+001,008		0			0			1			0			2		2		//Crescent Axe
+
+// opt: 2, luck: 1, exce: 1
+001,006		0			0			1			1			2		1		//Nikea Axe
+001,007		0			0			1			1			2		1		//Larkan Axe
+001,008		0			0			1			1			2		1		//Crescent Axe
+
+//opt: 2, luck: 1, exce: 2
+001,006		0			0			1			1			2		2		//Nikea Axe
+001,007		0			0			1			1			2		2		//Larkan Axe
+001,008		0			0			1			1			2		2		//Crescent Axe
+//=====================================
+//	Great HammerS & SCEPTERS
+//=====================================
+//opt: 0, luck: 0, exce: 1 					
+002,005		0			0			1			0			0		1		//Crystal Sword
+
+//opt: 0, luck: 0, exce: 2			
+002,005		0			0			1			0			0		2		//Crystal Sword
+
+//opt: 0, luck: 1, exce: 1 	
+002,005		0			0			1			1			0		1		//Crystal Sword
+
+// opt: 0, luck: 1, exce: 2					
+002,005		0			0			1			1			0		2		//Crystal Sword
+
+//opt: 1, luck: 0, exce: 1			
+002,005		0			0			1			0			1		1		//Crystal Sword
+
+//opt: 1, luck: 0, exce: 2
+002,005		0			0			1			0			1		2		//Crystal Sword
+
+//opt: 1, luck: 1, exce: 1
+002,005		0			0			1			1			1		1		//Crystal Sword
+
+// opt: 1, luck: 1, exce: 2 
+002,005		0			0			1			1			1		2		//Crystal Sword
+
+// opt: 2, luck: 0, exce: 1
+002,005		0			0			1			0			2		1		//Crystal Sword
+
+// opt: 2, luck: 0, exce: 2
+002,005		0			0			1			0			2		2		//Crystal Sword
+
+// opt: 2, luck: 1, exce: 1
+002,005		0			0			1			1			2		1		//Crystal Sword
+
+//opt: 2, luck: 1, exce: 2
+002,005		0			0			1			1			2		2		//Crystal Sword
+//=====================================
+//	SPEARS
+//=====================================
+//opt: 0, luck: 0, exce: 1 					
+003,003		0			0			1			0			0		1		//Giant Trident
+003,004		0			0			1			0			0		1		//Serpent Spear
+003,005		0			0			1			0			0		1		//Double Poleaxe
+003,006		0			0			1			0			0		1		//Halberd
+003,007		0			0			1			0			0		1		//Berdysh
+
+//opt: 0, luck: 0, exce: 2			
+003,003		0			0			1			0			0		2		//Giant Trident
+003,004		0			0			1			0			0		2		//Serpent Spear
+003,005		0			0			1			0			0		2		//Double Poleaxe
+003,006		0			0			1			0			0		2		//Halberd
+003,007		0			0			1			0			0		2		//Berdysh
+
+//opt: 0, luck: 1, exce: 1 	
+003,003		0			0			1			1			0		1		//Giant Trident
+003,004		0			0			1			1			0		1		//Serpent Spear
+003,005		0			0			1			1			0		1		//Double Poleaxe
+003,006		0			0			1			1			0		1		//Halberd
+003,007		0			0			1			1			0		1		//Berdysh
+
+// opt: 0, luck: 1, exce: 2					
+003,003		0			0			1			1			0		2		//Giant Trident
+003,004		0			0			1			1			0		2		//Serpent Spear
+003,005		0			0			1			1			0		2		//Double Poleaxe
+003,006		0			0			1			1			0		2		//Halberd
+003,007		0			0			1			1			0		2		//Berdysh
+
+//opt: 1, luck: 0, exce: 1			
+003,003		0			0			1			0			1		1		//Giant Trident
+003,004		0			0			1			0			1		1		//Serpent Spear
+003,005		0			0			1			0			1		1		//Double Poleaxe
+003,006		0			0			1			0			1		1		//Halberd
+003,007		0			0			1			0			1		1		//Berdysh
+
+//opt: 1, luck: 0, exce: 2
+003,003		0			0			1			0			1		2		//Giant Trident
+003,004		0			0			1			0			1		2		//Serpent Spear
+003,005		0			0			1			0			1		2		//Double Poleaxe
+003,006		0			0			1			0			1		2		//Halberd
+003,007		0			0			1			0			1		2		//Berdysh
+
+//opt: 1, luck: 1, exce: 1
+003,003		0			0			1			1			1		1		//Giant Trident
+003,004		0			0			1			1			1		1		//Serpent Spear
+003,005		0			0			1			1			1		1		//Double Poleaxe
+003,006		0			0			1			1			1		1		//Halberd
+003,007		0			0			1			1			1		1		//Berdysh
+
+// opt: 1, luck: 1, exce: 2 
+003,003		0			0			1			1			1		2		//Giant Trident
+003,004		0			0			1			1			1		2		//Serpent Spear
+003,005		0			0			1			1			1		2		//Double Poleaxe
+003,006		0			0			1			1			1		2		//Halberd
+003,007		0			0			1			1			1		2		//Berdysh
+
+// opt: 2, luck: 0, exce: 1
+003,003		0			0			1			0			2		1		//Giant Trident
+003,004		0			0			1			0			2		1		//Serpent Spear
+003,005		0			0			1			0			2		1		//Double Poleaxe
+003,006		0			0			1			0			2		1		//Halberd
+003,007		0			0			1			0			2		1		//Berdysh
+
+// opt: 2, luck: 0, exce: 2
+003,003		0			0			1			0			2		2		//Giant Trident
+003,004		0			0			1			0			2		2		//Serpent Spear
+003,005		0			0			1			0			2		2		//Double Poleaxe
+003,006		0			0			1			0			2		2		//Halberd
+003,007		0			0			1			0			2		2		//Berdysh
+
+// opt: 2, luck: 1, exce: 1
+003,003		0			0			1			1			2		1		//Giant Trident
+003,004		0			0			1			1			2		1		//Serpent Spear
+003,005		0			0			1			1			2		1		//Double Poleaxe
+003,006		0			0			1			1			2		1		//Halberd
+003,007		0			0			1			1			2		1		//Berdysh
+
+//opt: 2, luck: 1, exce: 2
+003,003		0			0			1			1			2		2		//Giant Trident
+003,004		0			0			1			1			2		2		//Serpent Spear
+003,005		0			0			1			1			2		2		//Double Poleaxe
+003,006		0			0			1			1			2		2		//Halberd
+003,007		0			0			1			1			2		2		//Berdysh
 end

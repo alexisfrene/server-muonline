@@ -1,0 +1,12 @@
+01:01:16 [SocketManager] Server started at port [44405]
+01:01:16 [ServerList] ServerList loaded successfully
+01:01:18 [ServerList] JoinServer online
+01:01:20 [ServerList] GameServer online (Server 1) (0)
+13:52:59 [SocketManager] Server started at port [44405]
+13:52:59 [SocketManagerUdp] bind() failed with error: 10013
+13:53:56 [SocketManager] Server started at port [44405]
+13:53:56 [SocketManagerUdp] bind() failed with error: 10013
+13:56:08 [SocketManager] Server started at port [44405]
+13:56:08 [ServerList] ServerList loaded successfully
+13:56:10 [ServerList] JoinServer online
+13:56:12 [ServerList] GameServer online (Server 1) (0)

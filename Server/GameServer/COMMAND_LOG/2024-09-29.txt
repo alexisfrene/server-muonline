@@ -1,0 +1,1 @@
+00:05:59 [CommandAddPoint][test6][hgfhgf] - (Type: 0, Amount: 70)

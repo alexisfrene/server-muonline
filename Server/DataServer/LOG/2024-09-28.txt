@@ -1,0 +1,9 @@
+23:45:32 [QueryManager] Connection to DataBase failed: Access denied for user 'root'@'localhost' (using password: YES)
+23:45:32 Could not connect to database
+23:53:36 [QueryManager] Connection to DataBase failed: Access denied for user 'root'@'localhost' (using password: YES)
+23:53:36 Could not connect to database
+23:54:53 [QueryManager] Connection to DataBase failed: Access denied for user 'root'@'localhost' (using password: YES)
+23:54:53 Could not connect to database
+23:56:53 [SocketManager] Server started at port [55980]
+23:56:54 [ServerManager][0] AddServer (127.0.0.1)
+23:56:54 [ServerManager][0] ServerInfo (SV1) (55901) (0)

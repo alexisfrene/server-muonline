@@ -1,0 +1,117 @@
+00:00:50 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test2'
+00:00:50 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test2'
+00:00:50 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test2' AND Name='test2sm'
+00:00:50 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test2' AND Name='test2bk'
+00:00:50 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test2' AND Name='test2fe'
+00:00:50 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test2' AND Name='test2mg'
+00:00:52 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test2' AND Name='test2bk'
+00:00:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test2', 'test2bk')
+00:00:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test2', 'test2bk')
+00:00:52 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test2bk' WHERE Id='test2'
+00:00:52 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test2bk'
+00:02:04 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test3'
+00:02:04 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test3'
+00:02:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3sm'
+00:02:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3bk'
+00:02:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3fe'
+00:02:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3mg'
+00:02:08 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test3' AND Name='test3bk'
+00:02:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test3', 'test3bk')
+00:02:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test3', 'test3bk')
+00:02:08 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test3bk' WHERE Id='test3'
+00:02:08 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test3bk'
+00:02:22 [ExecResultQuery] Query with results. Query: SELECT Name FROM OptionData WHERE Name='test3bk'
+00:02:22 [PrepareQuery] Query prepared: INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow) VALUES ('test3bk', ?, 5, 255, 255, 255, 15)
+00:02:22 [ExecPreparedUpdateQuery] 1 rows updated
+00:02:27 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=16, LevelUpPoint=0, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=0, Life=15833, MaxLife=15833, Mana=5209, MaxMana=5209, BP=8250, MaxBP=8250, MapNumber=1, MapPosX=5, MapPosY=6, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test3' AND Name='test3bk'
+00:02:27 [ExecPreparedUpdateQuery] 1 rows updated
+00:02:27 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test3'
+00:02:27 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test3'
+00:02:27 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3sm'
+00:02:27 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3bk'
+00:02:27 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3fe'
+00:02:27 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3mg'
+00:02:29 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test3' AND Name='test3sm'
+00:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test3', 'test3sm')
+00:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test3', 'test3sm')
+00:02:29 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test3sm' WHERE Id='test3'
+00:02:29 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test3sm'
+00:02:32 [ExecResultQuery] Query with results. Query: SELECT Name FROM OptionData WHERE Name='test3sm'
+00:02:32 [PrepareQuery] Query prepared: INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow) VALUES ('test3sm', ?, 5, 255, 255, 255, 15)
+00:02:32 [ExecPreparedUpdateQuery] 1 rows updated
+00:02:37 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=0, LevelUpPoint=0, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=0, Life=10429, MaxLife=10429, Mana=2090, MaxMana=10798, BP=5500, MaxBP=5500, MapNumber=2, MapPosX=227, MapPosY=230, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test3' AND Name='test3sm'
+00:02:37 [ExecPreparedUpdateQuery] 1 rows updated
+00:02:37 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test3'
+00:02:37 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test3'
+00:02:37 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3sm'
+00:02:37 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3bk'
+00:02:37 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3fe'
+00:02:37 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test3' AND Name='test3mg'
+00:02:39 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test3' AND Name='test3mg'
+00:02:39 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test3', 'test3mg')
+00:02:39 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test3', 'test3mg')
+00:02:39 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test3mg' WHERE Id='test3'
+00:02:39 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test3mg'
+00:02:48 [ExecResultQuery] Query with results. Query: SELECT Name FROM OptionData WHERE Name='test3mg'
+00:02:48 [PrepareQuery] Query prepared: INSERT INTO OptionData (Name, SkillKey, GameOption, Qkey, Wkey, Ekey, ChatWindow) VALUES ('test3mg', ?, 5, 255, 255, 255, 15)
+00:02:48 [ExecPreparedUpdateQuery] 1 rows updated
+00:02:54 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=48, LevelUpPoint=0, Experience=145771056, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=0, Life=10457, MaxLife=10457, Mana=10407, MaxMana=10407, BP=4500, MaxBP=4500, MapNumber=0, MapPosX=132, MapPosY=123, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test3' AND Name='test3mg'
+00:02:54 [ExecPreparedUpdateQuery] 1 rows updated
+00:03:39 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test6'
+00:03:39 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test6'
+00:03:46 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test6'
+00:03:46 [ExecResultQuery] Query with results. Query: CALL WZ_CreateCharacter('test6', 'hgfhgf', '16')
+00:03:46 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameID1='hgfhgf' WHERE Id='test6'
+00:03:48 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test6' AND Name='hgfhgf'
+00:03:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test6', 'hgfhgf')
+00:03:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test6', 'hgfhgf')
+00:03:48 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='hgfhgf' WHERE Id='test6'
+00:03:48 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='hgfhgf'
+00:04:20 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+00:04:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+00:04:42 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+00:04:59 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=7, Class=16, LevelUpPoint=30, Experience=1080, Strength=28, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=1460, Life=122, MaxLife=122, Mana=23, MaxMana=23, BP=25, MaxBP=25, MapNumber=0, MapPosX=188, MapPosY=121, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:04:59 [ExecPreparedUpdateQuery] 1 rows updated
+00:05:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+00:05:37 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+00:06:02 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=16, Class=16, LevelUpPoint=5, Experience=10800, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=1460, Life=140, MaxLife=140, Mana=27, MaxMana=27, BP=36, MaxBP=36, MapNumber=0, MapPosX=173, MapPosY=127, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:06:02 [ExecPreparedUpdateQuery] 1 rows updated
+00:07:06 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=17, LevelUpPoint=320, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=1553143600, Life=21002, MaxLife=15833, Mana=6978, MaxMana=5209, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=54, MapPosY=22, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+00:07:06 [ExecPreparedUpdateQuery] 1 rows updated
+00:10:45 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=300, Class=17, LevelUpPoint=25, Experience=378053080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=999998000, Life=20113, MaxLife=15633, Mana=6706, MaxMana=5159, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=52, MapPosY=20, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test2' AND Name='test2bk'
+00:10:45 [ExecPreparedUpdateQuery] 1 rows updated
+00:12:18 [ExecUpdateQuery] 1 rows updated. Query: INSERT INTO GuildMember (Name, G_Name, G_Status) VALUES ('test2bk', 'TukiTuki', 0)
+00:13:34 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=16, Class=16, LevelUpPoint=5, Experience=10800, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=5938, Life=140, MaxLife=140, Mana=27, MaxMana=27, BP=36, MaxBP=36, MapNumber=0, MapPosX=172, MapPosY=129, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:13:34 [ExecPreparedUpdateQuery] 1 rows updated
+00:17:07 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=17, LevelUpPoint=320, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=1553143600, Life=21002, MaxLife=15833, Mana=6978, MaxMana=5209, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=19, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+00:17:07 [ExecPreparedUpdateQuery] 1 rows updated
+00:20:46 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=300, Class=17, LevelUpPoint=25, Experience=378053080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=999998000, Life=20113, MaxLife=15633, Mana=6706, MaxMana=5159, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=20, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test2' AND Name='test2bk'
+00:20:46 [ExecPreparedUpdateQuery] 1 rows updated
+00:23:35 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=16, Class=16, LevelUpPoint=5, Experience=10800, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=5938, Life=140, MaxLife=140, Mana=27, MaxMana=27, BP=36, MaxBP=36, MapNumber=0, MapPosX=172, MapPosY=129, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:23:35 [ExecPreparedUpdateQuery] 0 rows updated
+00:27:08 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=17, LevelUpPoint=320, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=1553143600, Life=21002, MaxLife=15833, Mana=6978, MaxMana=5209, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=19, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+00:27:08 [ExecPreparedUpdateQuery] 0 rows updated
+00:30:47 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=300, Class=17, LevelUpPoint=25, Experience=378053080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=999998000, Life=20113, MaxLife=15633, Mana=6706, MaxMana=5159, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=20, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test2' AND Name='test2bk'
+00:30:47 [ExecPreparedUpdateQuery] 0 rows updated
+00:33:36 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=16, Class=16, LevelUpPoint=5, Experience=10800, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=5938, Life=140, MaxLife=140, Mana=27, MaxMana=27, BP=36, MaxBP=36, MapNumber=0, MapPosX=172, MapPosY=129, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:33:36 [ExecPreparedUpdateQuery] 0 rows updated
+00:37:09 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=17, LevelUpPoint=320, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=1553143600, Life=21002, MaxLife=15833, Mana=6978, MaxMana=5209, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=19, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+00:37:09 [ExecPreparedUpdateQuery] 0 rows updated
+00:40:46 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=17, Class=16, LevelUpPoint=10, Experience=12800, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=5938, Life=142, MaxLife=142, Mana=28, MaxMana=28, BP=36, MaxBP=36, MapNumber=0, MapPosX=174, MapPosY=126, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:40:46 [ExecPreparedUpdateQuery] 1 rows updated
+00:40:48 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=300, Class=17, LevelUpPoint=25, Experience=378053080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=999998000, Life=20113, MaxLife=15633, Mana=6706, MaxMana=5159, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=20, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test2' AND Name='test2bk'
+00:40:48 [ExecPreparedUpdateQuery] 0 rows updated
+00:43:37 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=18, Class=16, LevelUpPoint=15, Experience=15028, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=4938, Life=144, MaxLife=144, Mana=28, MaxMana=28, BP=36, MaxBP=36, MapNumber=0, MapPosX=171, MapPosY=128, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:43:37 [ExecPreparedUpdateQuery] 1 rows updated
+00:47:10 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=17, LevelUpPoint=320, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=1553143600, Life=21002, MaxLife=15833, Mana=6978, MaxMana=5209, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=19, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+00:47:10 [ExecPreparedUpdateQuery] 0 rows updated
+00:48:48 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=19, Class=16, LevelUpPoint=20, Experience=17496, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=4938, Life=146, MaxLife=146, Mana=29, MaxMana=29, BP=36, MaxBP=36, MapNumber=0, MapPosX=185, MapPosY=135, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:48:48 [ExecPreparedUpdateQuery] 1 rows updated
+00:50:49 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=300, Class=17, LevelUpPoint=25, Experience=378053080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=999998000, Life=20113, MaxLife=15633, Mana=6706, MaxMana=5159, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=20, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test2' AND Name='test2bk'
+00:50:49 [ExecPreparedUpdateQuery] 0 rows updated
+00:51:57 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=17, LevelUpPoint=320, Experience=3822148080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=1553143600, Life=21002, MaxLife=15833, Mana=6978, MaxMana=5209, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=19, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+00:51:57 [ExecPreparedUpdateQuery] 0 rows updated
+00:51:59 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=300, Class=17, LevelUpPoint=25, Experience=378053080, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5000, Inventory=?, MagicList=?, Money=999998000, Life=20113, MaxLife=15633, Mana=6706, MaxMana=5159, BP=8300, MaxBP=8250, MapNumber=2, MapPosX=51, MapPosY=20, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test2' AND Name='test2bk'
+00:51:59 [ExecPreparedUpdateQuery] 0 rows updated
+00:52:01 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=23, Class=16, LevelUpPoint=40, Experience=30008, Strength=98, Dexterity=20, Vitality=25, Energy=10, Inventory=?, MagicList=?, Money=4938, Life=154, MaxLife=154, Mana=31, MaxMana=31, BP=36, MaxBP=36, MapNumber=0, MapPosX=172, MapPosY=129, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test6' AND Name='hgfhgf'
+00:52:01 [ExecPreparedUpdateQuery] 1 rows updated

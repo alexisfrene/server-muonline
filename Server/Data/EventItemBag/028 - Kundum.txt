@@ -1,0 +1,446 @@
+//======================================
+// NORMAL DROP
+//======================================
+0
+//EventName				DropZen	ItemDropRate	ItemDropCount	ItemDropType	Fireworks	
+"Kundun"		1000	100				3				0				0
+end
+
+1
+//Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment	
+//opt 0 , luck 0 , exce 1
+007,023		0			11			0			0			0		1		//Set Ashcrow
+008,023		0			11			0			0			0		1		//Set Ashcrow
+009,023		0			11			0			0			0		1		//Set Ashcrow
+010,023		0			11			0			0			0		1		//Set Ashcrow
+011,023		0			11			0			0			0		1		//Set Ashcrow
+//opt 0 , luck 0 , exce 1
+007,023		0			11			0			0			0		1		//Set Ashcrow
+008,023		0			11			0			0			0		1		//Set Ashcrow
+009,023		0			11			0			0			0		1		//Set Ashcrow
+010,023		0			11			0			0			0		1		//Set Ashcrow
+011,023		0			11			0			0			0		1		//Set Ashcrow
+//opt 0 , luck 1 , exce 1
+007,023		0			11			0			1			0		1		//Set Ashcrow
+008,023		0			11			0			1			0		1		//Set Ashcrow
+009,023		0			11			0			1			0		1		//Set Ashcrow
+010,023		0			11			0			1			0		1		//Set Ashcrow
+011,023		0			11			0			1			0		1		//Set Ashcrow
+//opt 0 , luck 1 , exce 2
+007,023		0			11			0			1			0		2		//Set Ashcrow
+008,023		0			11			0			1			0		2		//Set Ashcrow
+009,023		0			11			0			1			0		2		//Set Ashcrow
+010,023		0			11			0			1			0		2		//Set Ashcrow
+011,023		0			11			0			1			0		2		//Set Ashcrow
+//opt 1 , luck 0 , exce 1
+007,023		0			11			0			0			1		1		//Set Ashcrow
+008,023		0			11			0			0			1		1		//Set Ashcrow
+009,023		0			11			0			0			1		1		//Set Ashcrow
+010,023		0			11			0			0			1		1		//Set Ashcrow
+011,023		0			11			0			0			1		1		//Set Ashcrow
+//opt 1 , luck 0 , exce 2
+007,023		0			11			0			0			1		2		//Set Ashcrow
+008,023		0			11			0			0			1		2		//Set Ashcrow
+009,023		0			11			0			0			1		2		//Set Ashcrow
+010,023		0			11			0			0			1		2		//Set Ashcrow
+011,023		0			11			0			0			1		2		//Set Ashcrow
+//opt 1 , luck 1 , exce 1
+007,023		0			11			0			1			1		1		//Set Ashcrow
+008,023		0			11			0			1			1		1		//Set Ashcrow
+009,023		0			11			0			1			1		1		//Set Ashcrow
+010,023		0			11			0			1			1		1		//Set Ashcrow
+011,023		0			11			0			1			1		1		//Set Ashcrow
+//opt 1 , luck 1 , exce 2
+007,023		0			11			0			1			1		2		//Set Ashcrow
+008,023		0			11			0			1			1		2		//Set Ashcrow
+009,023		0			11			0			1			1		2		//Set Ashcrow
+010,023		0			11			0			1			1		2		//Set Ashcrow
+011,023		0			11			0			1			1		2		//Set Ashcrow
+//opt 2 , luck 0 , exce 1
+007,023		0			11			0			0			2		1		//Set Ashcrow
+008,023		0			11			0			0			2		1		//Set Ashcrow
+009,023		0			11			0			0			2		1		//Set Ashcrow
+010,023		0			11			0			0			2		1		//Set Ashcrow
+011,023		0			11			0			0			2		1		//Set Ashcrow
+//opt 2 , luck 0 , exce 2
+007,023		0			11			0			0			2		2		//Set Ashcrow
+008,023		0			11			0			0			2		2		//Set Ashcrow
+009,023		0			11			0			0			2		2		//Set Ashcrow
+010,023		0			11			0			0			2		2		//Set Ashcrow
+011,023		0			11			0			0			2		2		//Set Ashcrow
+//opt 2 , luck 1 , exce 1
+007,023		0			11			0			1			2		1		//Set Ashcrow
+008,023		0			11			0			1			2		1		//Set Ashcrow
+009,023		0			11			0			1			2		1		//Set Ashcrow
+010,023		0			11			0			1			2		1		//Set Ashcrow
+011,023		0			11			0			1			2		1		//Set Ashcrow
+//opt 2 , luck 1 , exce 2
+007,023		0			11			0			1			2		2		//Set Ashcrow
+008,023		0			11			0			1			2		2		//Set Ashcrow
+009,023		0			11			0			1			2		2		//Set Ashcrow
+010,023		0			11			0			1			2		2		//Set Ashcrow
+011,023		0			11			0			1			2		2		//Set Ashcrow
+
+					
+//opt 0 , luck 0 , exce 1
+008,031		0			11			0			0			0		1		//Set Titanium
+009,031		0			11			0			0			0		1		//Set Titanium
+010,031		0			11			0			0			0		1		//Set Titanium
+011,031		0			11			0			0			0		1		//Set Titanium
+//opt 0 , luck 0 , exce 1                                                        
+008,031		0			11			0			0			0		1		//Set Titanium
+009,031		0			11			0			0			0		1		//Set Titanium
+010,031		0			11			0			0			0		1		//Set Titanium
+011,031		0			11			0			0			0		1		//Set Titanium
+//opt 0 , luck 1 , exce 1                                                         
+008,031		0			11			0			1			0		1		//Set Titanium
+009,031		0			11			0			1			0		1		//Set Titanium
+010,031		0			11			0			1			0		1		//Set Titanium
+011,031		0			11			0			1			0		1		//Set Titanium
+//opt 0 , luck 1 , exce 2                                                        
+008,031		0			11			0			1			0		2		//Set Titanium
+009,031		0			11			0			1			0		2		//Set Titanium
+010,031		0			11			0			1			0		2		//Set Titanium
+011,031		0			11			0			1			0		2		//Set Titanium
+//opt 1 , luck 0 , exce 1                                                         
+008,031		0			11			0			0			1		1		//Set Titanium
+009,031		0			11			0			0			1		1		//Set Titanium
+010,031		0			11			0			0			1		1		//Set Titanium
+011,031		0			11			0			0			1		1		//Set Titanium
+//opt 1 , luck 0 , exce 2                                                        
+008,031		0			11			0			0			1		2		//Set Titanium
+009,031		0			11			0			0			1		2		//Set Titanium
+010,031		0			11			0			0			1		2		//Set Titanium
+011,031		0			11			0			0			1		2		//Set Titanium
+//opt 1 , luck 1 , exce 1                                                        
+008,031		0			11			0			1			1		1		//Set Titanium
+009,031		0			11			0			1			1		1		//Set Titanium
+010,031		0			11			0			1			1		1		//Set Titanium
+011,031		0			11			0			1			1		1		//Set Titanium
+//opt 1 , luck 1 , exce 2                                                        
+008,031		0			11			0			1			1		2		//Set Titanium
+009,031		0			11			0			1			1		2		//Set Titanium
+010,031		0			11			0			1			1		2		//Set Titanium
+011,031		0			11			0			1			1		2		//Set Titanium
+//opt 2 , luck 0 , exce 1                                                         
+008,031		0			11			0			0			2		1		//Set Titanium
+009,031		0			11			0			0			2		1		//Set Titanium
+010,031		0			11			0			0			2		1		//Set Titanium
+011,031		0			11			0			0			2		1		//Set Titanium
+//opt 2 , luck 0 , exce 2                                                         
+008,031		0			11			0			0			2		2		//Set Titanium
+009,031		0			11			0			0			2		2		//Set Titanium
+010,031		0			11			0			0			2		2		//Set Titanium
+011,031		0			11			0			0			2		2		//Set Titanium
+//opt 2 , luck 1 , exce 1                                                         
+008,031		0			11			0			1			2		1		//Set Titanium
+009,031		0			11			0			1			2		1		//Set Titanium
+010,031		0			11			0			1			2		1		//Set Titanium
+011,031		0			11			0			1			2		1		//Set Titanium
+//opt 2 , luck 1 , exce 2                                                         
+008,031		0			11			0			1			2		2		//Set Titanium
+009,031		0			11			0			1			2		2		//Set Titanium
+010,031		0			11			0			1			2		2		//Set Titanium
+011,031		0			11			0			1			2		2		//Set Titanium
+
+
+//opt 0 , luck 0 , exce 1
+007,029		0			11			0			0			0		1		//Set Diamon
+008,029		0			11			0			0			0		1		//Set Diamon
+009,029		0			11			0			0			0		1		//Set Diamon
+010,029		0			11			0			0			0		1		//Set Diamon
+011,029		0			11			0			0			0		1		//Set Diamon
+//opt 0 , luck 0 , exce 1                                                        
+007,029		0			11			0			0			0		1		//Set Diamon
+008,029		0			11			0			0			0		1		//Set Diamon
+009,029		0			11			0			0			0		1		//Set Diamon
+010,029		0			11			0			0			0		1		//Set Diamon
+011,029		0			11			0			0			0		1		//Set Diamon
+//opt 0 , luck 1 , exce 1                                                        
+007,029		0			11			0			1			0		1		//Set Diamon
+008,029		0			11			0			1			0		1		//Set Diamon
+009,029		0			11			0			1			0		1		//Set Diamon
+010,029		0			11			0			1			0		1		//Set Diamon
+011,029		0			11			0			1			0		1		//Set Diamon
+//opt 0 , luck 1 , exce 2                                                        
+007,029		0			11			0			1			0		2		//Set Diamon
+008,029		0			11			0			1			0		2		//Set Diamon
+009,029		0			11			0			1			0		2		//Set Diamon
+010,029		0			11			0			1			0		2		//Set Diamon
+011,029		0			11			0			1			0		2		//Set Diamon
+//opt 1 , luck 0 , exce 1                                                        
+007,029		0			11			0			0			1		1		//Set Diamon
+008,029		0			11			0			0			1		1		//Set Diamon
+009,029		0			11			0			0			1		1		//Set Diamon
+010,029		0			11			0			0			1		1		//Set Diamon
+011,029		0			11			0			0			1		1		//Set Diamon
+//opt 1 , luck 0 , exce 2                                                         
+007,029		0			11			0			0			1		2		//Set Diamon
+008,029		0			11			0			0			1		2		//Set Diamon
+009,029		0			11			0			0			1		2		//Set Diamon
+010,029		0			11			0			0			1		2		//Set Diamon
+011,029		0			11			0			0			1		2		//Set Diamon
+//opt 1 , luck 1 , exce 1                                                         
+007,029		0			11			0			1			1		1		//Set Diamon
+008,029		0			11			0			1			1		1		//Set Diamon
+009,029		0			11			0			1			1		1		//Set Diamon
+010,029		0			11			0			1			1		1		//Set Diamon
+011,029		0			11			0			1			1		1		//Set Diamon
+//opt 1 , luck 1 , exce 2                                                         
+007,029		0			11			0			1			1		2		//Set Diamon
+008,029		0			11			0			1			1		2		//Set Diamon
+009,029		0			11			0			1			1		2		//Set Diamon
+010,029		0			11			0			1			1		2		//Set Diamon
+011,029		0			11			0			1			1		2		//Set Diamon
+//opt 2 , luck 0 , exce 1                                                         
+007,029		0			11			0			0			2		1		//Set Diamon
+008,029		0			11			0			0			2		1		//Set Diamon
+009,029		0			11			0			0			2		1		//Set Diamon
+010,029		0			11			0			0			2		1		//Set Diamon
+011,029		0			11			0			0			2		1		//Set Diamon
+//opt 2 , luck 0 , exce 2                                                         
+007,029		0			11			0			0			2		2		//Set Diamon
+008,029		0			11			0			0			2		2		//Set Diamon
+009,029		0			11			0			0			2		2		//Set Diamon
+010,029		0			11			0			0			2		2		//Set Diamon
+011,029		0			11			0			0			2		2		//Set Diamon
+//opt 2 , luck 1 , exce 1                                                         
+007,029		0			11			0			1			2		1		//Set Diamon
+008,029		0			11			0			1			2		1		//Set Diamon
+009,029		0			11			0			1			2		1		//Set Diamon
+010,029		0			11			0			1			2		1		//Set Diamon
+011,029		0			11			0			1			2		1		//Set Diamon
+//opt 2 , luck 1 , exce 2                                                         
+007,029		0			11			0			1			2		2		//Set Diamon
+008,029		0			11			0			1			2		2		//Set Diamon
+009,029		0			11			0			1			2		2		//Set Diamon
+010,029		0			11			0			1			2		2		//Set Diamon
+011,029		0			11			0			1			2		2		//Set Diamon
+					
+007,026		0			11			0			1			2		2		//Set Eclipse
+008,026		0			11			0			1			2		2		//Set Eclipse
+009,026		0			11			0			1			2		2		//Set Eclipse
+010,026		0			11			0			1			2		2		//Set Eclipse
+011,026		0			11			0			1			2		2		//Set Eclipse
+
+//opt 0 , luck 0 , exce 1
+007,026		0			11			0			0			0		1		//Set Eclipse
+008,026		0			11			0			0			0		1		//Set Eclipse
+009,026		0			11			0			0			0		1		//Set Eclipse
+010,026		0			11			0			0			0		1		//Set Eclipse
+011,026		0			11			0			0			0		1		//Set Eclipse
+//opt 0 , luck 0 , exce 1                                                      
+007,026		0			11			0			0			0		1		//Set Eclipse
+008,026		0			11			0			0			0		1		//Set Eclipse
+009,026		0			11			0			0			0		1		//Set Eclipse
+010,026		0			11			0			0			0		1		//Set Eclipse
+011,026		0			11			0			0			0		1		//Set Eclipse
+//opt 0 , luck 1 , exce 1                                                     
+007,026		0			11			0			1			0		1		//Set Eclipse
+008,026		0			11			0			1			0		1		//Set Eclipse
+009,026		0			11			0			1			0		1		//Set Eclipse
+010,026		0			11			0			1			0		1		//Set Eclipse
+011,026		0			11			0			1			0		1		//Set Eclipse
+//opt 0 , luck 1 , exce 2                                                        
+007,026		0			11			0			1			0		2		//Set Eclipse
+008,026		0			11			0			1			0		2		//Set Eclipse
+009,026		0			11			0			1			0		2		//Set Eclipse
+010,026		0			11			0			1			0		2		//Set Eclipse
+011,026		0			11			0			1			0		2		//Set Eclipse
+//opt 1 , luck 0 , exce 1                                                        
+007,026		0			11			0			0			1		1		//Set Eclipse
+008,026		0			11			0			0			1		1		//Set Eclipse
+009,026		0			11			0			0			1		1		//Set Eclipse
+010,026		0			11			0			0			1		1		//Set Eclipse
+011,026		0			11			0			0			1		1		//Set Eclipse
+//opt 1 , luck 0 , exce 2                                                      
+007,026		0			11			0			0			1		2		//Set Eclipse
+008,026		0			11			0			0			1		2		//Set Eclipse
+009,026		0			11			0			0			1		2		//Set Eclipse
+010,026		0			11			0			0			1		2		//Set Eclipse
+011,026		0			11			0			0			1		2		//Set Eclipse
+//opt 1 , luck 1 , exce 1                                                      
+007,026		0			11			0			1			1		1		//Set Eclipse
+008,026		0			11			0			1			1		1		//Set Eclipse
+009,026		0			11			0			1			1		1		//Set Eclipse
+010,026		0			11			0			1			1		1		//Set Eclipse
+011,026		0			11			0			1			1		1		//Set Eclipse
+//opt 1 , luck 1 , exce 2                                                        
+007,026		0			11			0			1			1		2		//Set Eclipse
+008,026		0			11			0			1			1		2		//Set Eclipse
+009,026		0			11			0			1			1		2		//Set Eclipse
+010,026		0			11			0			1			1		2		//Set Eclipse
+011,026		0			11			0			1			1		2		//Set Eclipse
+//opt 2 , luck 0 , exce 1                                                        
+007,026		0			11			0			0			2		1		//Set Eclipse
+008,026		0			11			0			0			2		1		//Set Eclipse
+009,026		0			11			0			0			2		1		//Set Eclipse
+010,026		0			11			0			0			2		1		//Set Eclipse
+011,026		0			11			0			0			2		1		//Set Eclipse
+//opt 2 , luck 0 , exce 2                                                        
+007,026		0			11			0			0			2		2		//Set Eclipse
+008,026		0			11			0			0			2		2		//Set Eclipse
+009,026		0			11			0			0			2		2		//Set Eclipse
+010,026		0			11			0			0			2		2		//Set Eclipse
+011,026		0			11			0			0			2		2		//Set Eclipse
+//opt 2 , luck 1 , exce 1                                                        
+007,026		0			11			0			1			2		1		//Set Eclipse
+008,026		0			11			0			1			2		1		//Set Eclipse
+009,026		0			11			0			1			2		1		//Set Eclipse
+010,026		0			11			0			1			2		1		//Set Eclipse
+011,026		0			11			0			1			2		1		//Set Eclipse
+//opt 2 , luck 1 , exce 2                                                       
+007,026		0			11			0			1			2		2		//Set Eclipse
+008,026		0			11			0			1			2		2		//Set Eclipse
+009,026		0			11			0			1			2		2		//Set Eclipse
+010,026		0			11			0			1			2		2		//Set Eclipse
+011,026		0			11			0			1			2		2		//Set Eclipse
+
+
+//opt: 0, luck: 0, exce: 1 					
+000,031		0			11			1			0			0		1		//Run Blade
+000,025		0			11			1			0			0		1		//Soul Sword
+000,024		0			11			1			0			0		1		//Sunstriker
+000,023		0			11			1			0			0		1		//Heaven Sword
+000,021		0			11			1			0			0		1		//Dragon Sword
+//opt: 0, luck: 0, exce: 2			
+000,031		0			11			1			0			0		2		//Run Blade
+000,025		0			11			1			0			0		2		//Soul Sword
+000,024		0			11			1			0			0		2		//Sunstriker
+000,023		0			11			1			0			0		2		//Heaven Sword
+000,021		0			11			1			0			0		2		//Dragon Sword
+//opt: 0, luck: 1, exce: 1 	
+000,031		0			11			1			1			0		1		//Run Blade
+000,025		0			11			1			1			0		1		//Soul Sword
+000,024		0			11			1			1			0		1		//Sunstriker
+000,023		0			11			1			1			0		1		//Heaven Sword
+000,021		0			11			1			1			0		1		//Dragon Sword
+// opt: 0, luck: 1, exce: 2					
+000,031		0			11			1			1			0		2		//Run Blade
+000,025		0			11			1			1			0		2		//Soul Sword
+000,024		0			11			1			1			0		2		//Sunstriker
+000,023		0			11			1			1			0		2		//Heaven Sword
+000,021		0			11			1			1			0		2		//Dragon Sword
+//opt: 1, luck: 0, exce: 1			
+000,031		0			11			1			0			1		1		//Run Blade
+000,025		0			11			1			0			1		1		//Soul Sword
+000,024		0			11			1			0			1		1		//Sunstriker
+000,023		0			11			1			0			1		1		//Heaven Sword
+000,021		0			11			1			0			1		1		//Dragon Sword
+//opt: 1, luck: 0, exce: 2
+000,031		0			11			1			0			1		2		//Run Blade
+000,025		0			11			1			0			1		2		//Soul Sword
+000,024		0			11			1			0			1		2		//Sunstriker
+000,023		0			11			1			0			1		2		//Heaven Sword
+000,021		0			11			1			0			1		2		//Dragon Sword
+//opt: 1, luck: 1, exce: 1
+000,031		0			11			1			1			1		1		//Run Blade
+000,025		0			11			1			1			1		1		//Soul Sword
+000,024		0			11			1			1			1		1		//Sunstriker
+000,023		0			11			1			1			1		1		//Heaven Sword
+000,021		0			11			1			1			1		1		//Dragon Sword
+// opt: 1, luck: 1, exce: 2 
+000,031		0			11			1			1			1		2		//Run Blade
+000,025		0			11			1			1			1		2		//Soul Sword
+000,024		0			11			1			1			1		2		//Sunstriker
+000,023		0			11			1			1			1		2		//Heaven Sword
+000,021		0			11			1			1			1		2		//Dragon Sword
+// opt: 2, luck: 0, exce: 1
+000,031		0			11			1			0			2		1		//Run Blade
+000,025		0			11			1			0			2		1		//Soul Sword
+000,024		0			11			1			0			2		1		//Sunstriker
+000,023		0			11			1			0			2		1		//Heaven Sword
+000,021		0			11			1			0			2		1		//Dragon Sword
+// opt: 2, luck: 0, exce: 2
+000,031		0			11			1			0			2		2		//Run Blade
+000,025		0			11			1			0			2		2		//Soul Sword
+000,024		0			11			1			0			2		2		//Sunstriker
+000,023		0			11			1			0			2		2		//Heaven Sword
+000,021		0			11			1			0			2		2		//Dragon Sword
+// opt: 2, luck: 1, exce: 1
+000,031		0			11			1			1			2		1		//Run Blade
+000,025		0			11			1			1			2		1		//Soul Sword
+000,024		0			11			1			1			2		1		//Sunstriker
+000,023		0			11			1			1			2		1		//Heaven Sword
+000,021		0			11			1			1			2		1		//Dragon Sword
+//opt: 2, luck: 1, exce: 2
+000,031		0			11			1			1			2		2		//Run Blade
+000,025		0			11			1			1			2		2		//Soul Sword
+000,024		0			11			1			1			2		2		//Sunstriker
+000,023		0			11			1			1			2		2		//Heaven Sword
+000,021		0			11			1			1			2		2		//Dragon Sword
+
+//opt: 0, luck: 0, exce: 1 					
+006,022		0			11			1			0			0		1		//Baphomet Shield
+006,021		0			11			1			0			0		1		//Emperor Shield
+006,020		0			11			1			0			0		1		//Crystal Shield
+006,019		0			11			1			0			0		1		//Demon Shield
+006,018		0			11			1			0			0		1		//Angelz Shield
+//opt: 0, luck: 0, exce: 2			
+006,022		0			11			1			0			0		2		//Baphomet Shield
+006,021		0			11			1			0			0		2		//Emperor Shield
+006,020		0			11			1			0			0		2		//Crystal Shield
+006,019		0			11			1			0			0		2		//Demon Shield
+006,018		0			11			1			0			0		2		//Angelz Shield
+//opt: 0, luck: 1, exce: 1 	
+006,022		0			11			1			1			0		1		//Baphomet Shield
+006,021		0			11			1			1			0		1		//Emperor Shield
+006,020		0			11			1			1			0		1		//Crystal Shield
+006,019		0			11			1			1			0		1		//Demon Shield
+006,018		0			11			1			1			0		1		//Angelz Shield
+// opt: 0, luck: 1, exce: 2					
+006,022		0			11			1			1			0		2		//Baphomet Shield
+006,021		0			11			1			1			0		2		//Emperor Shield
+006,020		0			11			1			1			0		2		//Crystal Shield
+006,019		0			11			1			1			0		2		//Demon Shield
+006,018		0			11			1			1			0		2		//Angelz Shield
+//opt: 1, luck: 0, exce: 1			
+006,022		0			11			1			0			1		1		//Baphomet Shield
+006,021		0			11			1			0			1		1		//Emperor Shield
+006,020		0			11			1			0			1		1		//Crystal Shield
+006,019		0			11			1			0			1		1		//Demon Shield
+006,018		0			11			1			0			1		1		//Angelz Shield
+//opt: 1, luck: 0, exce: 2
+006,022		0			11			1			0			1		2		//Baphomet Shield
+006,021		0			11			1			0			1		2		//Emperor Shield
+006,020		0			11			1			0			1		2		//Crystal Shield
+006,019		0			11			1			0			1		2		//Demon Shield
+006,018		0			11			1			0			1		2		//Angelz Shield
+//opt: 1, luck: 1, exce: 1
+006,022		0			11			1			1			1		1		//Baphomet Shield
+006,021		0			11			1			1			1		1		//Emperor Shield
+006,020		0			11			1			1			1		1		//Crystal Shield
+006,019		0			11			1			1			1		1		//Demon Shield
+006,018		0			11			1			1			1		1		//Angelz Shield
+// opt: 1, luck: 1, exce: 2 
+006,022		0			11			1			1			1		2		//Baphomet Shield
+006,021		0			11			1			1			1		2		//Emperor Shield
+006,020		0			11			1			1			1		2		//Crystal Shield
+006,019		0			11			1			1			1		2		//Demon Shield
+006,018		0			11			1			1			1		2		//Angelz Shield
+// opt: 2, luck: 0, exce: 1
+006,022		0			11			1			0			2		1		//Baphomet Shield
+006,021		0			11			1			0			2		1		//Emperor Shield
+006,020		0			11			1			0			2		1		//Crystal Shield
+006,019		0			11			1			0			2		1		//Demon Shield
+006,018		0			11			1			0			2		1		//Angelz Shield
+// opt: 2, luck: 0, exce: 2
+006,022		0			11			1			0			2		2		//Baphomet Shield
+006,021		0			11			1			0			2		2		//Emperor Shield
+006,020		0			11			1			0			2		2		//Crystal Shield
+006,019		0			11			1			0			2		2		//Demon Shield
+006,018		0			11			1			0			2		2		//Angelz Shield
+// opt: 2, luck: 1, exce: 1
+006,022		0			11			1			1			2		1		//Baphomet Shield
+006,021		0			11			1			1			2		1		//Emperor Shield
+006,020		0			11			1			1			2		1		//Crystal Shield
+006,019		0			11			1			1			2		1		//Demon Shield
+006,018		0			11			1			1			2		1		//Angelz Shield
+//opt: 2, luck: 1, exce: 2
+006,022		0			11			1			1			2		2		//Baphomet Shield
+006,021		0			11			1			1			2		2		//Emperor Shield
+006,020		0			11			1			1			2		2		//Crystal Shield
+006,019		0			11			1			1			2		2		//Demon Shield
+006,018		0			11			1			1			2		2		//Angelz Shield
+												
+end

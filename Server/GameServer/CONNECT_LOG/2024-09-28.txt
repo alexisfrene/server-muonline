@@ -1,0 +1,24 @@
+23:45:33 [SocketManager] Server started at port [55901]
+23:45:35 [JoinServerConnection] connect() failed with error: 10061
+23:45:37 [DataServerConnection] connect() failed with error: 10061
+23:45:49 [JoinServerConnection] connect() failed with error: 10061
+23:45:51 [DataServerConnection] connect() failed with error: 10061
+23:45:59 [JoinServerConnection] connect() failed with error: 10061
+23:46:01 [DataServerConnection] connect() failed with error: 10061
+23:46:09 [JoinServerConnection] connect() failed with error: 10061
+23:46:11 [DataServerConnection] connect() failed with error: 10061
+23:53:37 [SocketManager] Server started at port [55901]
+23:53:39 [JoinServerConnection] connect() failed with error: 10061
+23:53:41 [DataServerConnection] connect() failed with error: 10061
+23:53:53 [JoinServerConnection] connect() failed with error: 10061
+23:53:55 [DataServerConnection] connect() failed with error: 10061
+23:54:03 [JoinServerConnection] connect() failed with error: 10061
+23:54:05 [DataServerConnection] connect() failed with error: 10061
+23:54:54 [SocketManager] Server started at port [55901]
+23:54:56 [DataServerConnection] connect() failed with error: 10061
+23:55:08 [DataServerConnection] connect() failed with error: 10061
+23:55:18 [DataServerConnection] connect() failed with error: 10061
+23:56:54 [SocketManager] Server started at port [55901]
+23:57:05 [ObjectManager][9000] AddClient (192.168.1.65)
+23:57:13 [ObjectManager][9000] AddAccountInfo (test1)(F0393B12-9D2EF569-F45BC923-E542D8F8)
+23:57:15 [ObjectManager][9000] AddCharacterInfo (test1bk)

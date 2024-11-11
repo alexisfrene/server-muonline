@@ -1,0 +1,57 @@
+00:00:00 [Blood Castle] (1) SetState STAND
+00:00:00 [Blood Castle] (2) SetState STAND
+00:00:00 [Blood Castle] (3) SetState STAND
+00:00:00 [Blood Castle] (4) SetState STAND
+00:00:00 [Blood Castle] (5) SetState STAND
+00:00:00 [Blood Castle] (6) SetState STAND
+00:00:01 [Blood Castle] (1) Not enough users
+00:00:01 [Blood Castle] (1) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (1) SetState EMPTY
+00:00:01 [Blood Castle] (2) Not enough users
+00:00:01 [Blood Castle] (2) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (2) SetState EMPTY
+00:00:01 [Blood Castle] (3) Not enough users
+00:00:01 [Blood Castle] (3) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (3) SetState EMPTY
+00:00:01 [Blood Castle] (4) Not enough users
+00:00:01 [Blood Castle] (4) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (4) SetState EMPTY
+00:00:01 [Blood Castle] (5) Not enough users
+00:00:01 [Blood Castle] (5) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (5) SetState EMPTY
+00:00:01 [Blood Castle] (6) Not enough users
+00:00:01 [Blood Castle] (6) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (6) SetState EMPTY
+00:01:05 [test2][test2bk] Set SelfDefence [test1][test1bk]
+00:02:27 [test2][test2bk] ReSet SelfDefence [test1][test1bk]
+00:30:00 [Devil Square] (1) SetState STAND
+00:30:00 [Devil Square] (2) SetState STAND
+00:30:00 [Devil Square] (3) SetState STAND
+00:30:00 [Devil Square] (4) SetState STAND
+00:30:01 [Devil Square] (1) Not enough users
+00:30:01 [Devil Square] (1) Sync Start Time. [239] min remain
+00:30:01 [Devil Square] (1) SetState EMPTY
+00:30:01 [Devil Square] (2) Not enough users
+00:30:01 [Devil Square] (2) Sync Start Time. [239] min remain
+00:30:01 [Devil Square] (2) SetState EMPTY
+00:30:01 [Devil Square] (3) Not enough users
+00:30:01 [Devil Square] (3) Sync Start Time. [239] min remain
+00:30:01 [Devil Square] (3) SetState EMPTY
+00:30:01 [Devil Square] (4) Not enough users
+00:30:01 [Devil Square] (4) Sync Start Time. [239] min remain
+00:30:01 [Devil Square] (4) SetState EMPTY
+00:40:36 [ServerInfo] ChaosMix loaded successfully
+00:40:36 [ServerInfo] Character loaded successfully
+00:40:36 [ServerInfo] Command loaded successfully
+00:40:36 [ServerInfo] Common loaded successfully
+00:40:36 [ServerInfo] Custom loaded successfully
+00:40:36 [ServerInfo] Event loaded successfully
+00:40:36 [ServerInfo] EventItemBag loaded successfully
+00:40:36 [ServerInfo] Hack loaded successfully
+00:40:36 [ServerInfo] Item loaded successfully
+00:40:36 [ServerInfo] Monster loaded successfully
+00:40:36 [ServerInfo] Move loaded successfully
+00:40:36 [ServerInfo] Quest loaded successfully
+00:40:36 [ServerInfo] Shop loaded successfully
+00:40:36 [ServerInfo] Skill loaded successfully
+00:40:36 [ServerInfo] Util loaded successfully

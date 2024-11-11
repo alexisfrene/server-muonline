@@ -135,6 +135,7 @@
 151		1		"Soldier"						58		4000	0		175		180		110		0		290		86		3		0		4		7		400		1600	5		2		160		20		3		0		6		6		6		6
 152		1		"Pichula"						81		20000	0		320		350		270		0		520		160		3		0		5		7		400		1600	5		2		300		400		3		0		6		6		6		6
 200		1		"Soccer Ball"					12		1000	0		150		200		0		0		60		500		0		0		4		1		500		1000	5		1		200		20		0		0		0		0		0		0
+201		1		"Kundum"						350		400000	0		18000	39000	7500	7500	20000	9000	4		150		2		7		500		3000	60000	2		180		60		3		0		9		7		9		9
 //Index	Rate	Name							Level	MaxLife	MaxMan	DmgMin	DmgMax	Defense	MgcDef	AtkRate	DefRate	MvRange	AtkType	AtkRang	View	MvSpeed	AtkSped	Regen	Attrib	ItmRate	Money	MItmLvl	Skill	Resis1	Resis2	Resis3	Resis4
 230		1		"Wandering Merchant Alex"		2		50		0		15		30		70		20		10		30		0		0		0		5		400		1500	5		0		200		10		0		0		0		0		0		0
 231		1		"Thompson Kenel"				2		50		0		15		30		70		20		10		30		0		0		0		5		400		1500	5		0		200		10		0		0		0		0		0		0

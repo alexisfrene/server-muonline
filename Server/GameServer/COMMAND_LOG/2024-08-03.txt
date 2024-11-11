@@ -1,0 +1,33 @@
+18:48:44 [Command Clear Iventory] Use for:[test1][test1bk]
+18:50:38 [Command Clear Iventory] Use for:[test1][test1bk]
+18:54:34 [Command Clear Iventory] Use for:[test1][test1bk]
+18:56:50 [Command Clear Iventory] Use for:[test1][test1bk]
+18:57:58 [Command Clear Iventory] Use for:[test1][test1bk]
+19:10:53 [CommandMakeMob][test1][test1bk] - (Monster: 201, Qtd: 1)
+19:25:07 [CommandMakeMob][test1][test1bk] - (Monster: 201, Qtd: 1)
+19:26:22 [CommandMakeMob][test1][test1bk] - (Monster: 152, Qtd: 1)
+19:33:31 [CommandMakeMob][test1][test1sm] - (Monster: 201, Qtd: 1)
+19:45:12 [CommandMakeMob][test1][test1bk] - (Monster: 65, Qtd: 1)
+19:47:21 [CommandMakeMob][test1][test1bk] - (Monster: 66, Qtd: 1)
+19:47:26 [CommandMakeMob][test1][test1bk] - (Monster: 67, Qtd: 1)
+19:47:38 [CommandMakeMob][test1][test1bk] - (Monster: 69, Qtd: 1)
+19:47:47 [CommandMakeMob][test1][test1bk] - (Monster: 64, Qtd: 1)
+19:48:06 [CommandMakeMob][test1][test1bk] - (Monster: 79, Qtd: 1)
+19:48:14 [CommandMakeMob][test1][test1bk] - (Monster: 78, Qtd: 1)
+19:48:20 [CommandMakeMob][test1][test1bk] - (Monster: 77, Qtd: 1)
+19:52:36 [CommandMakeMob][test1][test1bk] - (Monster: 120, Qtd: 1)
+19:52:42 [CommandMakeMob][test1][test1bk] - (Monster: 130, Qtd: 1)
+19:52:55 [CommandMakeMob][test1][test1bk] - (Monster: 131, Qtd: 1)
+19:53:01 [CommandMakeMob][test1][test1bk] - (Monster: 132, Qtd: 1)
+19:53:05 [CommandMakeMob][test1][test1bk] - (Monster: 134, Qtd: 1)
+19:53:28 [CommandMakeMob][test1][test1bk] - (Monster: 100, Qtd: 1)
+19:55:18 [CommandMakeMob][test1][test1bk] - (Monster: 1, Qtd: 1)
+19:55:43 [CommandMakeMob][test1][test1bk] - (Monster: 90, Qtd: 1)
+19:55:47 [CommandMakeMob][test1][test1bk] - (Monster: 91, Qtd: 1)
+19:55:55 [CommandMakeMob][test1][test1bk] - (Monster: 92, Qtd: 1)
+19:56:19 [CommandMakeMob][test1][test1bk] - (Monster: 201, Qtd: 1)
+19:56:38 [CommandMakeMob][test1][test1bk] - (Monster: 200, Qtd: 1)
+19:56:51 [CommandMakeMob][test1][test1bk] - (Monster: 152, Qtd: 1)
+19:56:57 [CommandMakeMob][test1][test1bk] - (Monster: 151, Qtd: 1)
+19:58:51 [CommandMakeMob][test1][test1bk] - (Monster: 2, Qtd: 6)
+19:58:58 [CommandMake][test1][test1bk] - (Section: 2, Type: 6, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, QUANT: 1)

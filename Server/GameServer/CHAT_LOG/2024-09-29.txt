@@ -1,0 +1,5 @@
+00:00:55 [General][test2][test2bk] - (Message: /move Devias2)
+00:05:59 [General][test6][hgfhgf] - (Message: /str 70)
+00:11:56 [General][test1][test1bk] - (Message: dasd)
+00:12:20 [General][test1][test1bk] - (Message: lkj)
+00:41:13 [General][test6][hgfhgf] - (Message: /move Lorencia)
