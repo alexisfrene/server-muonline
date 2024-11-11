@@ -10,786 +10,85 @@ end
 //Item		MinLvl		MaxLvl		Skill		Luck		Opt		Exce	Comment
 //00,000	0			0			0			0			0		0	
 //-----------------------------------------------------------------------------------------
-
-//opt 0 , luck 0 , excel 1
-007,002		0			0			0			0			0		1		//Set Pad
-008,002		0			0			0			0			0		1		//Set Pad
-009,002		0			0			0			0			0		1		//Set Pad
-010,002		0			0			0			0			0		1		//Set Pad
-011,002		0			0			0			0			0		1		//Set Pad
-//opt 0 , luck 0 , excl 1
-007,002		0			0			0			0			0		1		//Set Pad
-008,002		0			0			0			0			0		1		//Set Pad
-009,002		0			0			0			0			0		1		//Set Pad
-010,002		0			0			0			0			0		1		//Set Pad
-011,002		0			0			0			0			0		1		//Set Pad
-//opt 0 , luck 1 , exce 1
-007,002		0			0			0			1			0		1		//Set Pad
-008,002		0			0			0			1			0		1		//Set Pad
-009,002		0			0			0			1			0		1		//Set Pad
-010,002		0			0			0			1			0		1		//Set Pad
-011,002		0			0			0			1			0		1		//Set Pad
-//opt 0 , luck 1 , exce 2
-007,002		0			0			0			1			0		2		//Set Pad
-008,002		0			0			0			1			0		2		//Set Pad
-009,002		0			0			0			1			0		2		//Set Pad
-010,002		0			0			0			1			0		2		//Set Pad
-011,002		0			0			0			1			0		2		//Set Pad
-//opt 1 , luck 0 , exce 1
-007,002		0			0			0			0			1		1		//Set Pad
-008,002		0			0			0			0			1		1		//Set Pad
-009,002		0			0			0			0			1		1		//Set Pad
-010,002		0			0			0			0			1		1		//Set Pad
-011,002		0			0			0			0			1		1		//Set Pad
-//opt 1 , luck 0 , exce 2
-007,002		0			0			0			0			1		2		//Set Pad
-008,002		0			0			0			0			1		2		//Set Pad
-009,002		0			0			0			0			1		2		//Set Pad
-010,002		0			0			0			0			1		2		//Set Pad
-011,002		0			0			0			0			1		2		//Set Pad
-//opt 1 , luck 1 , exce 1
-007,002		0			0			0			1			1		1		//Set Pad
-008,002		0			0			0			1			1		1		//Set Pad
-009,002		0			0			0			1			1		1		//Set Pad
-010,002		0			0			0			1			1		1		//Set Pad
-011,002		0			0			0			1			1		1		//Set Pad
-//opt 1 , luck 1 , exce 2
-007,002		0			0			0			1			1		2		//Set Pad
-008,002		0			0			0			1			1		2		//Set Pad
-009,002		0			0			0			1			1		2		//Set Pad
-010,002		0			0			0			1			1		2		//Set Pad
-011,002		0			0			0			1			1		2		//Set Pad
-//opt 2 , luck 0 , exce 1
-007,002		0			0			0			0			2		1		//Set Pad
-008,002		0			0			0			0			2		1		//Set Pad
-009,002		0			0			0			0			2		1		//Set Pad
-010,002		0			0			0			0			2		1		//Set Pad
-011,002		0			0			0			0			2		1		//Set Pad
-//opt 2 , luck 0 , exce 2
-007,002		0			0			0			0			2		2		//Set Pad
-008,002		0			0			0			0			2		2		//Set Pad
-009,002		0			0			0			0			2		2		//Set Pad
-010,002		0			0			0			0			2		2		//Set Pad
-011,002		0			0			0			0			2		2		//Set Pad
-//opt 2 , luck 1 , exce 1
-007,002		0			0			0			1			2		1		//Set Pad
-008,002		0			0			0			1			2		1		//Set Pad
-009,002		0			0			0			1			2		1		//Set Pad
-010,002		0			0			0			1			2		1		//Set Pad
-011,002		0			0			0			1			2		1		//Set Pad
-//opt 2 , luck 1 , exce 2
-007,002		0			0			0			1			2		2		//Set Pad
-008,002		0			0			0			1			2		2		//Set Pad
-009,002		0			0			0			1			2		2		//Set Pad
-010,002		0			0			0			1			2		2		//Set Pad
-011,002		0			0			0			1			2		2		//Set Pad
-
-//-----------------------------------------------------------------------------------------
-
-//opt 0 , luck 0 , exce 1
-007,010		0			0			0			0			0		1		//Set Vine
-008,010		0			0			0			0			0		1		//Set Vine
-009,010		0			0			0			0			0		1		//Set Vine
-010,010		0			0			0			0			0		1		//Set Vine
-011,010		0			0			0			0			0		1		//Set Vine
-//opt 0 , luck 0 , exce 1
-007,010		0			0			0			0			0		1		//Set Vine
-008,010		0			0			0			0			0		1		//Set Vine
-009,010		0			0			0			0			0		1		//Set Vine
-010,010		0			0			0			0			0		1		//Set Vine
-011,010		0			0			0			0			0		1		//Set Vine
-//opt 0 , luck 1 , exce 1
-007,010		0			0			0			1			0		1		//Set Vine
-008,010		0			0			0			1			0		1		//Set Vine
-009,010		0			0			0			1			0		1		//Set Vine
-010,010		0			0			0			1			0		1		//Set Vine
-011,010		0			0			0			1			0		1		//Set Vine
-//opt 0 , luck 1 , exce 2
-007,010		0			0			0			1			0		2		//Set Vine
-008,010		0			0			0			1			0		2		//Set Vine
-009,010		0			0			0			1			0		2		//Set Vine
-010,010		0			0			0			1			0		2		//Set Vine
-011,010		0			0			0			1			0		2		//Set Vine
-//opt 1 , luck 0 , exce 1
-007,010		0			0			0			0			1		1		//Set Vine
-008,010		0			0			0			0			1		1		//Set Vine
-009,010		0			0			0			0			1		1		//Set Vine
-010,010		0			0			0			0			1		1		//Set Vine
-011,010		0			0			0			0			1		1		//Set Vine
-//opt 1 , luck 0 , exce 2
-007,010		0			0			0			0			1		2		//Set Vine
-008,010		0			0			0			0			1		2		//Set Vine
-009,010		0			0			0			0			1		2		//Set Vine
-010,010		0			0			0			0			1		2		//Set Vine
-011,010		0			0			0			0			1		2		//Set Vine
-//opt 1 , luck 1 , exce 1
-007,010		0			0			0			1			1		1		//Set Vine
-008,010		0			0			0			1			1		1		//Set Vine
-009,010		0			0			0			1			1		1		//Set Vine
-010,010		0			0			0			1			1		1		//Set Vine
-011,010		0			0			0			1			1		1		//Set Vine
-//opt 1 , luck 1 , exce 2
-007,010		0			0			0			1			1		2		//Set Vine
-008,010		0			0			0			1			1		2		//Set Vine
-009,010		0			0			0			1			1		2		//Set Vine
-010,010		0			0			0			1			1		2		//Set Vine
-011,010		0			0			0			1			1		2		//Set Vine
-//opt 2 , luck 0 , exce 1
-007,010		0			0			0			0			2		1		//Set Vine
-008,010		0			0			0			0			2		1		//Set Vine
-009,010		0			0			0			0			2		1		//Set Vine
-010,010		0			0			0			0			2		1		//Set Vine
-011,010		0			0			0			0			2		1		//Set Vine
-//opt 2 , luck 0 , exce 2
-007,010		0			0			0			0			2		2		//Set Vine
-008,010		0			0			0			0			2		2		//Set Vine
-009,010		0			0			0			0			2		2		//Set Vine
-010,010		0			0			0			0			2		2		//Set Vine
-011,010		0			0			0			0			2		2		//Set Vine
-//opt 2 , luck 1 , exce 1
-007,010		0			0			0			1			2		1		//Set Vine
-008,010		0			0			0			1			2		1		//Set Vine
-009,010		0			0			0			1			2		1		//Set Vine
-010,010		0			0			0			1			2		1		//Set Vine
-011,010		0			0			0			1			2		1		//Set Vine
-//opt 2 , luck 1 , exce 2
-007,010		0			0			0			1			2		2		//Set Vine
-008,010		0			0			0			1			2		2		//Set Vine
-009,010		0			0			0			1			2		2		//Set Vine
-010,010		0			0			0			1			2		2		//Set Vine
-011,010		0			0			0			1			2		2		//Set Vine
-
-//-----------------------------------------------------------------------------------------
-
-//opt 0 , luck 0 , exce 1
-007,000		0			0			0			0			0		1		//Set Bronce
-008,000		0			0			0			0			0		1		//Set Bronce
-009,000		0			0			0			0			0		1		//Set Bronce
-010,000		0			0			0			0			0		1		//Set Bronce
-011,000		0			0			0			0			0		1		//Set Bronce
-//opt 0 , luck 0 , exce 1
-007,000		0			0			0			0			0		1		//Set Bronce
-008,000		0			0			0			0			0		1		//Set Bronce
-009,000		0			0			0			0			0		1		//Set Bronce
-010,000		0			0			0			0			0		1		//Set Bronce
-011,000		0			0			0			0			0		1		//Set Bronce
-//opt 0 , luck 1 , exce 1
-007,000		0			0			0			1			0		1		//Set Bronce
-008,000		0			0			0			1			0		1		//Set Bronce
-009,000		0			0			0			1			0		1		//Set Bronce
-010,000		0			0			0			1			0		1		//Set Bronce
-011,000		0			0			0			1			0		1		//Set Bronce
-//opt 0 , luck 1 , exce 2
 007,000		0			0			0			1			0		2		//Set Bronce
 008,000		0			0			0			1			0		2		//Set Bronce
 009,000		0			0			0			1			0		2		//Set Bronce
 010,000		0			0			0			1			0		2		//Set Bronce
 011,000		0			0			0			1			0		2		//Set Bronce
-//opt 1 , luck 0 , exce 1
-007,000		0			0			0			0			1		1		//Set Bronce
-008,000		0			0			0			0			1		1		//Set Bronce
-009,000		0			0			0			0			1		1		//Set Bronce
-010,000		0			0			0			0			1		1		//Set Bronce
-011,000		0			0			0			0			1		1		//Set Bronce
-//opt 1 , luck 0 , exce 2
-007,000		0			0			0			0			1		2		//Set Bronce
-008,000		0			0			0			0			1		2		//Set Bronce
-009,000		0			0			0			0			1		2		//Set Bronce
-010,000		0			0			0			0			1		2		//Set Bronce
-011,000		0			0			0			0			1		2		//Set Bronce
-//opt 1 , luck 1 , exce 1
-007,000		0			0			0			1			1		1		//Set Bronce
-008,000		0			0			0			1			1		1		//Set Bronce
-009,000		0			0			0			1			1		1		//Set Bronce
-010,000		0			0			0			1			1		1		//Set Bronce
-011,000		0			0			0			1			1		1		//Set Bronce
-//opt 1 , luck 1 , exce 2
-007,000		0			0			0			1			1		2		//Set Bronce
-008,000		0			0			0			1			1		2		//Set Bronce
-009,000		0			0			0			1			1		2		//Set Bronce
-010,000		0			0			0			1			1		2		//Set Bronce
-011,000		0			0			0			1			1		2		//Set Bronce
-//opt 2 , luck 0 , exce 1
-007,000		0			0			0			0			2		1		//Set Bronce
-008,000		0			0			0			0			2		1		//Set Bronce
-009,000		0			0			0			0			2		1		//Set Bronce
-010,000		0			0			0			0			2		1		//Set Bronce
-011,000		0			0			0			0			2		1		//Set Bronce
-//opt 2 , luck 0 , exce 2
-007,000		0			0			0			0			2		2		//Set Bronce
-008,000		0			0			0			0			2		2		//Set Bronce
-009,000		0			0			0			0			2		2		//Set Bronce
-010,000		0			0			0			0			2		2		//Set Bronce
-011,000		0			0			0			0			2		2		//Set Bronce
-//opt 2 , luck 1 , exce 1
-007,000		0			0			0			1			2		1		//Set Bronce
-008,000		0			0			0			1			2		1		//Set Bronce
-009,000		0			0			0			1			2		1		//Set Bronce
-010,000		0			0			0			1			2		1		//Set Bronce
-011,000		0			0			0			1			2		1		//Set Bronce
-//opt 2 , luck 1 , exce 2
-007,000		0			0			0			1			2		2		//Set Bronce
-008,000		0			0			0			1			2		2		//Set Bronce
-009,000		0			0			0			1			2		2		//Set Bronce
-010,000		0			0			0			1			2		2		//Set Bronce
-011,000		0			0			0			1			2		2		//Set Bronce
-
+//-----------------------------------------------------------------------------------------
+007,002		0			0			0			1			0		2		//Set Pad
+008,002		0			0			0			1			0		2		//Set Pad
+009,002		0			0			0			1			0		2		//Set Pad
+010,002		0			0			0			1			0		2		//Set Pad
+011,002		0			0			0			1			0		2		//Set Pad
+//-----------------------------------------------------------------------------------------
+007,010		0			0			0			1			0		2		//Set Vine
+008,010		0			0			0			1			0		2		//Set Vine
+009,010		0			0			0			1			0		2		//Set Vine
+010,010		0			0			0			1			0		2		//Set Vine
+011,010		0			0			0			1			0		2		//Set Vine
 //=====================================
 //	SWORDS
-//=====================================
-
-//opt: 0, luck: 0, exce: 1 					
-000,000		0			0			1			0			0		1		//Kris
-000,001		0			0			1			0			0		1		//Short Sword
-000,002		0			0			1			0			0		1		//Rapier
-
-//opt: 0, luck: 0, exce: 2			
-000,000		0			0			1			0			0		2		//Kris
-000,001		0			0			1			0			0		2		//Short Sword
-000,002		0			0			1			0			0		2		//Rapier
-
-//opt: 0, luck: 1, exce: 1 	
+//=====================================				
 000,000		0			0			1			1			0		1		//Kris
 000,001		0			0			1			1			0		1		//Short Sword
 000,002		0			0			1			1			0		1		//Rapier
-
-// opt: 0, luck: 1, exce: 2					
-000,000		0			0			1			1			0		2		//Kris
-000,001		0			0			1			1			0		2		//Short Sword
-000,002		0			0			1			1			0		2		//Rapier
-
-//opt: 1, luck: 0, exce: 1			
-000,000		0			0			1			0			1		1		//Kris
-000,001		0			0			1			0			1		1		//Short Sword
-000,002		0			0			1			0			1		1		//Rapier
-
-//opt: 1, luck: 0, exce: 2
-000,000		0			0			1			0			1		2		//Kris
-000,001		0			0			1			0			1		2		//Short Sword
-000,002		0			0			1			0			1		2		//Rapier
-
-//opt: 1, luck: 1, exce: 1
-000,000		0			0			1			1			1		1		//Kris
-000,001		0			0			1			1			1		1		//Short Sword
-000,002		0			0			1			1			1		1		//Rapier
-
-// opt: 1, luck: 1, exce: 2 
-000,000		0			0			1			1			1		2		//Kris
-000,001		0			0			1			1			1		2		//Short Sword
-000,002		0			0			1			1			1		2		//Rapier
-
-// opt: 2, luck: 0, exce: 1
-000,000		0			0			1			0			2		1		//Kris
-000,001		0			0			1			0			2		1		//Short Sword
-000,002		0			0			1			0			2		1		//Rapier
-
-// opt: 2, luck: 0, exce: 2
-000,000		0			0			1			0			2		2		//Kris
-000,001		0			0			1			0			2		2		//Short Sword
-000,002		0			0			1			0			2		2		//Rapier
-
-// opt: 2, luck: 1, exce: 1
-000,000		0			0			1			1			2		1		//Kris
-000,001		0			0			1			1			2		1		//Short Sword
-000,002		0			0			1			1			2		1		//Rapier
-
-//opt: 2, luck: 1, exce: 2
-000,000		0			0			1			1			2		2		//Kris
-000,001		0			0			1			1			2		2		//Short Sword
-000,002		0			0			1			1			2		2		//Rapier
-
+000,004		0			0			1			1			0		1		//Sword of Assassin
+000,005		0			0			1			1			0		1		//Blade
+000,006		0			0			1			1			0		1		//Gladius
+000,007		0			0			1			1			0		1		//Falchion
+000,008		0			0			1			1			0		1		//Serpent Sword
+000,009		0			0			1			1			0		1		//Salamander Sword
+000,003		0			0			1			1			0		1		//Katana
 //=====================================
 //	AXES
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-001,000		0			0			1			0			0		1		//Small Axe
-001,001		0			0			1			0			0		1		//Hand Axe
-001,002		0			0			1			0			0		1		//Double Axe
-
-//opt: 0, luck: 0, exce: 2			
-001,000		0			0			1			0			0		2		//Small Axe
-001,001		0			0			1			0			0		2		//Hand Axe
-001,002		0			0			1			0			0		2		//Double Axe
-
-//opt: 0, luck: 1, exce: 1 	
+//=====================================				
 001,000		0			0			1			1			0		1		//Small Axe
 001,001		0			0			1			1			0		1		//Hand Axe
 001,002		0			0			1			1			0		1		//Double Axe
-
-// opt: 0, luck: 1, exce: 2					
-001,000		0			0			1			1			0		2		//Small Axe
-001,001		0			0			1			1			0		2		//Hand Axe
-001,002		0			0			1			1			0		2		//Double Axe
-
-//opt: 1, luck: 0, exce: 1			
-001,000		0			0			1			0			1		1		//Small Axe
-001,001		0			0			1			0			1		1		//Hand Axe
-001,002		0			0			1			0			1		1		//Double Axe
-
-//opt: 1, luck: 0, exce: 2
-001,000		0			0			1			0			1		2		//Small Axe
-001,001		0			0			1			0			1		2		//Hand Axe
-001,002		0			0			1			0			1		2		//Double Axe
-
-//opt: 1, luck: 1, exce: 1
-001,000		0			0			1			1			1		1		//Small Axe
-001,001		0			0			1			1			1		1		//Hand Axe
-001,002		0			0			1			1			1		1		//Double Axe
-
-// opt: 1, luck: 1, exce: 2 
-001,000		0			0			1			1			1		2		//Small Axe
-001,001		0			0			1			1			1		2		//Hand Axe
-001,002		0			0			1			1			1		2		//Double Axe
-
-// opt: 2, luck: 0, exce: 1
-001,000		0			0			1			0			2		1		//Small Axe
-001,001		0			0			1			0			2		1		//Hand Axe
-001,002		0			0			1			0			2		1		//Double Axe
-
-// opt: 2, luck: 0, exce: 2
-001,000		0			0			1			0			2		2		//Small Axe
-001,001		0			0			1			0			2		2		//Hand Axe
-001,002		0			0			1			0			2		2		//Double Axe
-
-// opt: 2, luck: 1, exce: 1
-001,000		0			0			1			1			2		1		//Small Axe
-001,001		0			0			1			1			2		1		//Hand Axe
-001,002		0			0			1			1			2		1		//Double Axe
-
-//opt: 2, luck: 1, exce: 2
-001,000		0			0			1			1			2		2		//Small Axe
-001,001		0			0			1			1			2		2		//Hand Axe
-001,002		0			0			1			1			2		2		//Double Axe
-
+001,003     0           0           1           1           0       1       //Tomahawk
+001,004     0           0           1           1           0       1       //Elven Axe
+001,005     0           0           1           1           0       1       //Battle Axe
+001,006		0			0			1			1			0		1		//Nikea Axe
 //=====================================
-//	MACES & SCEPTERS
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-002,000		0			0			1			0			0		1		//Mace
-002,001		0			0			1			0			0		1		//Morning Star
-002,002		0			0			1			0			0		1		//Flail
-
-//opt: 0, luck: 0, exce: 2			
-002,000		0			0			1			0			0		2		//Mace
-002,001		0			0			1			0			0		2		//Morning Star
-002,002		0			0			1			0			0		2		//Flail
-
-//opt: 0, luck: 1, exce: 1 	
-002,000		0			0			1			1			0		1		//Mace
-002,001		0			0			1			1			0		1		//Morning Star
-002,002		0			0			1			1			0		1		//Flail
-
-// opt: 0, luck: 1, exce: 2					
-002,000		0			0			1			1			0		2		//Mace
-002,001		0			0			1			1			0		2		//Morning Star
-002,002		0			0			1			1			0		2		//Flail
-
-//opt: 1, luck: 0, exce: 1			
-002,000		0			0			1			0			1		1		//Mace
-002,001		0			0			1			0			1		1		//Morning Star
-002,002		0			0			1			0			1		1		//Flail
-
-//opt: 1, luck: 0, exce: 2
-002,000		0			0			1			0			1		2		//Mace
-002,001		0			0			1			0			1		2		//Morning Star
-002,002		0			0			1			0			1		2		//Flail
-
-//opt: 1, luck: 1, exce: 1
-002,000		0			0			1			1			1		1		//Mace
-002,001		0			0			1			1			1		1		//Morning Star
-002,002		0			0			1			1			1		1		//Flail
-
-// opt: 1, luck: 1, exce: 2 
-002,000		0			0			1			1			1		2		//Mace
-002,001		0			0			1			1			1		2		//Morning Star
-002,002		0			0			1			1			1		2		//Flail
-
-// opt: 2, luck: 0, exce: 1
-002,000		0			0			1			0			2		1		//Mace
-002,001		0			0			1			0			2		1		//Morning Star
-002,002		0			0			1			0			2		1		//Flail
-
-// opt: 2, luck: 0, exce: 2
-002,000		0			0			1			0			2		2		//Mace
-002,001		0			0			1			0			2		2		//Morning Star
-002,002		0			0			1			0			2		2		//Flail
-
-// opt: 2, luck: 1, exce: 1
-002,000		0			0			1			1			2		1		//Mace
-002,001		0			0			1			1			2		1		//Morning Star
-002,002		0			0			1			1			2		1		//Flail
-
-//opt: 2, luck: 1, exce: 2
-002,000		0			0			1			1			2		2		//Mace
-002,001		0			0			1			1			2		2		//Morning Star
-002,002		0			0			1			1			2		2		//Flail
-
+//	SPEARS
+//=====================================		
+003,001		0			0			1			1			0		1		//Spear	
+003,002		0			0			1			1			0		1		//Dragon Lance	
+003,000		0			0			1			1			0		1		//Light Spear
+003,003		0			0			1			1			0		1		//Giant Trident
+003,005		0			0			1			1			0		1		//Double Poleaxe
+003,006		0			0			1			1			0		1		//Halberd
+003,007		0			0			1			1			0		1		//Berdysh
 //=====================================
 //	BOWS & CROSSBOWS
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-004,000		0			0			1			0			0		1		//Short Bow
-004,001		0			0			1			0			0		1		//Bow
-004,002		0			0			1			0			0		1		//Elven Bow
-
-//opt: 0, luck: 0, exce: 2			
-004,000		0			0			1			0			0		2		//Short Bow
-004,001		0			0			1			0			0		2		//Bow
-004,002		0			0			1			0			0		2		//Elven Bow
-
-//opt: 0, luck: 1, exce: 1 	
+//=====================================					
 004,000		0			0			1			1			0		1		//Short Bow
 004,001		0			0			1			1			0		1		//Bow
 004,002		0			0			1			1			0		1		//Elven Bow
-
-// opt: 0, luck: 1, exce: 2					
-004,000		0			0			1			1			0		2		//Short Bow
-004,001		0			0			1			1			0		2		//Bow
-004,002		0			0			1			1			0		2		//Elven Bow
-
-//opt: 1, luck: 0, exce: 1			
-004,000		0			0			1			0			1		1		//Short Bow
-004,001		0			0			1			0			1		1		//Bow
-004,002		0			0			1			0			1		1		//Elven Bow
-
-//opt: 1, luck: 0, exce: 2
-004,000		0			0			1			0			1		2		//Short Bow
-004,001		0			0			1			0			1		2		//Bow
-004,002		0			0			1			0			1		2		//Elven Bow
-
-//opt: 1, luck: 1, exce: 1
-004,000		0			0			1			1			1		1		//Short Bow
-004,001		0			0			1			1			1		1		//Bow
-004,002		0			0			1			1			1		1		//Elven Bow
-
-// opt: 1, luck: 1, exce: 2 
-004,000		0			0			1			1			1		2		//Short Bow
-004,001		0			0			1			1			1		2		//Bow
-004,002		0			0			1			1			1		2		//Elven Bow
-
-// opt: 2, luck: 0, exce: 1
-004,000		0			0			1			0			2		1		//Short Bow
-004,001		0			0			1			0			2		1		//Bow
-004,002		0			0			1			0			2		1		//Elven Bow
-
-// opt: 2, luck: 0, exce: 2
-004,000		0			0			1			0			2		2		//Short Bow
-004,001		0			0			1			0			2		2		//Bow
-004,002		0			0			1			0			2		2		//Elven Bow
-
-// opt: 2, luck: 1, exce: 1
-004,000		0			0			1			1			2		1		//Short Bow
-004,001		0			0			1			1			2		1		//Bow
-004,002		0			0			1			1			2		1		//Elven Bow
-
-//opt: 2, luck: 1, exce: 2
-004,000		0			0			1			1			2		2		//Short Bow
-004,001		0			0			1			1			2		2		//Bow
-004,002		0			0			1			1			2		2		//Elven Bow
-
+004,008		0			0			1			1			0		1		//Crossbow
+004,010		0			0			1			1			0		1		//Arquebus
+004,011		0			0			1			1			0		1		//Light Crossbow
+004,003		0			0			1			1			0		1		//Battle Bow
 //=====================================
 //	STAFFS
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-005,000		0			0			1			0			0		1		//Skull Staff
-005,001		0			0			1			0			0		1		//Angelic Staff
-005,002		0			0			1			0			0		1		//Serpent Staff
-
-//opt: 0, luck: 0, exce: 2			
-005,000		0			0			1			0			0		2		//Skull Staff
-005,001		0			0			1			0			0		2		//Angelic Staff
-005,002		0			0			1			0			0		2		//Serpent Staff
-
-//opt: 0, luck: 1, exce: 1 	
+//=====================================					
 005,000		0			0			1			1			0		1		//Skull Staff
 005,001		0			0			1			1			0		1		//Angelic Staff
 005,002		0			0			1			1			0		1		//Serpent Staff
-
-// opt: 0, luck: 1, exce: 2					
-005,000		0			0			1			1			0		2		//Skull Staff
-005,001		0			0			1			1			0		2		//Angelic Staff
-005,002		0			0			1			1			0		2		//Serpent Staff
-
-//opt: 1, luck: 0, exce: 1			
-005,000		0			0			1			0			1		1		//Skull Staff
-005,001		0			0			1			0			1		1		//Angelic Staff
-005,002		0			0			1			0			1		1		//Serpent Staff
-
-//opt: 1, luck: 0, exce: 2
-005,000		0			0			1			0			1		2		//Skull Staff
-005,001		0			0			1			0			1		2		//Angelic Staff
-005,002		0			0			1			0			1		2		//Serpent Staff
-
-//opt: 1, luck: 1, exce: 1
-005,000		0			0			1			1			1		1		//Skull Staff
-005,001		0			0			1			1			1		1		//Angelic Staff
-005,002		0			0			1			1			1		1		//Serpent Staff
-
-// opt: 1, luck: 1, exce: 2 
-005,000		0			0			1			1			1		2		//Skull Staff
-005,001		0			0			1			1			1		2		//Angelic Staff
-005,002		0			0			1			1			1		2		//Serpent Staff
-
-// opt: 2, luck: 0, exce: 1
-005,000		0			0			1			0			2		1		//Skull Staff
-005,001		0			0			1			0			2		1		//Angelic Staff
-005,002		0			0			1			0			2		1		//Serpent Staff
-
-// opt: 2, luck: 0, exce: 2
-005,000		0			0			1			0			2		2		//Skull Staff
-005,001		0			0			1			0			2		2		//Angelic Staff
-005,002		0			0			1			0			2		2		//Serpent Staff
-
-// opt: 2, luck: 1, exce: 1
-005,000		0			0			1			1			2		1		//Skull Staff
-005,001		0			0			1			1			2		1		//Angelic Staff
-005,002		0			0			1			1			2		1		//Serpent Staff
-
-//opt: 2, luck: 1, exce: 2
-005,000		0			0			1			1			2		2		//Skull Staff
-005,001		0			0			1			1			2		2		//Angelic Staff
-005,002		0			0			1			1			2		2		//Serpent Staff
-
 //=====================================
 //	SHIELDS
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-006,000		0			0			1			0			0		1		//Small Shield
-006,001		0			0			1			0			0		1		//Horn Shield
-006,002		0			0			1			0			0		1		//Kite Shield
-
-//opt: 0, luck: 0, exce: 2			
-006,000		0			0			1			0			0		2		//Small Shield
-006,001		0			0			1			0			0		2		//Horn Shield
-006,002		0			0			1			0			0		2		//Kite Shield
-
-//opt: 0, luck: 1, exce: 1 	
+//=====================================					
 006,000		0			0			1			1			0		1		//Small Shield
 006,001		0			0			1			1			0		1		//Horn Shield
 006,002		0			0			1			1			0		1		//Kite Shield
-
-// opt: 0, luck: 1, exce: 2					
-006,000		0			0			1			1			0		2		//Small Shield
-006,001		0			0			1			1			0		2		//Horn Shield
-006,002		0			0			1			1			0		2		//Kite Shield
-
-//opt: 1, luck: 0, exce: 1			
-006,000		0			0			1			0			1		1		//Small Shield
-006,001		0			0			1			0			1		1		//Horn Shield
-006,002		0			0			1			0			1		1		//Kite Shield
-
-//opt: 1, luck: 0, exce: 2
-006,000		0			0			1			0			1		2		//Small Shield
-006,001		0			0			1			0			1		2		//Horn Shield
-006,002		0			0			1			0			1		2		//Kite Shield
-
-//opt: 1, luck: 1, exce: 1
-006,000		0			0			1			1			1		1		//Small Shield
-006,001		0			0			1			1			1		1		//Horn Shield
-006,002		0			0			1			1			1		1		//Kite Shield
-
-// opt: 1, luck: 1, exce: 2 
-006,000		0			0			1			1			1		2		//Small Shield
-006,001		0			0			1			1			1		2		//Horn Shield
-006,002		0			0			1			1			1		2		//Kite Shield
-
-// opt: 2, luck: 0, exce: 1
-006,000		0			0			1			0			2		1		//Small Shield
-006,001		0			0			1			0			2		1		//Horn Shield
-006,002		0			0			1			0			2		1		//Kite Shield
-
-// opt: 2, luck: 0, exce: 2
-006,000		0			0			1			0			2		2		//Small Shield
-006,001		0			0			1			0			2		2		//Horn Shield
-006,002		0			0			1			0			2		2		//Kite Shield
-
-// opt: 2, luck: 1, exce: 1
-006,000		0			0			1			1			2		1		//Small Shield
-006,001		0			0			1			1			2		1		//Horn Shield
-006,002		0			0			1			1			2		1		//Kite Shield
-
-//opt: 2, luck: 1, exce: 2
-006,000		0			0			1			1			2		2		//Small Shield
-006,001		0			0			1			1			2		2		//Horn Shield
-006,002		0			0			1			1			2		2		//Kite Shield
+006,006		0			0			1			1			0		1		//Skull Shield
+006,004		0			0			1			1			0		1		//Buckler
+006,010		0			0			1			1			0		1		//Large Round Shield
 //=====================================
-//	AXES
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-001,003		0			0			1			0			0		1		//Tomahawk
-001,004		0			0			1			0			0		1		//Elven Axe
-001,005		0			0			1			0			0		1		//Battle Axe
-
-//opt: 0, luck: 0, exce: 2			
-001,003		0			0			1			0			0		2		//Tomahawk
-001,004		0			0			1			0			0		2		//Elven Axe
-001,005		0			0			1			0			0		2		//Battle Axe
-
-//opt: 0, luck: 1, exce: 1 	
-001,003		0			0			1			1			0		1		//Tomahawk
-001,004		0			0			1			1			0		1		//Elven Axe
-001,005		0			0			1			1			0		1		//Battle Axe
-
-// opt: 0, luck: 1, exce: 2					
-001,003		0			0			1			1			0		2		//Tomahawk
-001,004		0			0			1			1			0		2		//Elven Axe
-001,005		0			0			1			1			0		2		//Battle Axe
-
-//opt: 1, luck: 0, exce: 1			
-001,003		0			0			1			0			1		1		//Tomahawk
-001,004		0			0			1			0			1		1		//Elven Axe
-001,005		0			0			1			0			1		1		//Battle Axe
-
-//opt: 1, luck: 0, exce: 2
-001,003		0			0			1			0			1		2		//Tomahawk
-001,004		0			0			1			0			1		2		//Elven Axe
-001,005		0			0			1			0			1		2		//Battle Axe
-
-//opt: 1, luck: 1, exce: 1
-001,003		0			0			1			1			1		1		//Tomahawk
-001,004		0			0			1			1			1		1		//Elven Axe
-001,005		0			0			1			1			1		1		//Battle Axe
-
-// opt: 1, luck: 1, exce: 2 
-001,003		0			0			1			1			1		2		//Tomahawk
-001,004		0			0			1			1			1		2		//Elven Axe
-001,005		0			0			1			1			1		2		//Battle Axe
-
-// opt: 2, luck: 0, exce: 1
-001,003		0			0			1			0			2		1		//Tomahawk
-001,004		0			0			1			0			2		1		//Elven Axe
-001,005		0			0			1			0			2		1		//Battle Axe
-
-// opt: 2, luck: 0, exce: 2
-001,003		0			0			1			0			2		2		//Tomahawk
-001,004		0			0			1			0			2		2		//Elven Axe
-001,005		0			0			1			0			2		2		//Battle Axe
-
-// opt: 2, luck: 1, exce: 1
-001,003		0			0			1			1			2		1		//Tomahawk
-001,004		0			0			1			1			2		1		//Elven Axe
-001,005		0			0			1			1			2		1		//Battle Axe
-
-//opt: 2, luck: 1, exce: 2
-001,003		0			0			1			1			2		2		//Tomahawk
-001,004		0			0			1			1			2		2		//Elven Axe
-001,005		0			0			1			1			2		2		//Battle Axe
-//=====================================
-//	Great HammerS & SCEPTERS
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-002,003		0			0			1			0			0		1		//Great Hammer
-002,004		0			0			1			0			0		1		//Crystal Morning Star
-
-//opt: 0, luck: 0, exce: 2			
-002,003		0			0			1			0			0		2		//Great Hammer
-002,004		0			0			1			0			0		2		//Crystal Morning Star
-
-//opt: 0, luck: 1, exce: 1 	
-002,003		0			0			1			1			0		1		//Great Hammer
-002,004		0			0			1			1			0		1		//Crystal Morning Star
-
-// opt: 0, luck: 1, exce: 2					
-002,003		0			0			1			1			0		2		//Great Hammer
-002,004		0			0			1			1			0		2		//Crystal Morning Star
-
-//opt: 1, luck: 0, exce: 1			
-002,003		0			0			1			0			1		1		//Great Hammer
-002,004		0			0			1			0			1		1		//Crystal Morning Star
-
-//opt: 1, luck: 0, exce: 2
-002,003		0			0			1			0			1		2		//Great Hammer
-002,004		0			0			1			0			1		2		//Crystal Morning Star
-
-//opt: 1, luck: 1, exce: 1
-002,003		0			0			1			1			1		1		//Great Hammer
-002,004		0			0			1			1			1		1		//Crystal Morning Star
-
-// opt: 1, luck: 1, exce: 2 
-002,003		0			0			1			1			1		2		//Great Hammer
-002,004		0			0			1			1			1		2		//Crystal Morning Star
-
-// opt: 2, luck: 0, exce: 1
-002,003		0			0			1			0			2		1		//Great Hammer
-002,004		0			0			1			0			2		1		//Crystal Morning Star
-
-// opt: 2, luck: 0, exce: 2
-002,003		0			0			1			0			2		2		//Great Hammer
-002,004		0			0			1			0			2		2		//Crystal Morning Star
-
-// opt: 2, luck: 1, exce: 1
-002,003		0			0			1			1			2		1		//Great Hammer
-002,004		0			0			1			1			2		1		//Crystal Morning Star
-
-//opt: 2, luck: 1, exce: 2
-002,003		0			0			1			1			2		2		//Great Hammer
-002,004		0			0			1			1			2		2		//Crystal Morning Star
-
-//=====================================
-//	SPEARS
-//=====================================
-//opt: 0, luck: 0, exce: 1 					
-003,000		0			0			1			0			0		1		//Light Spear
-003,001		0			0			1			0			0		1		//Spear
-003,002		0			0			1			0			0		1		//Dragon Lance
-
-
-//opt: 0, luck: 0, exce: 2			
-003,000		0			0			1			0			0		2		//Light Spear
-003,001		0			0			1			0			0		2		//Spear
-003,002		0			0			1			0			0		2		//Dragon Lance
-
-
-//opt: 0, luck: 1, exce: 1 	
-003,000		0			0			1			1			0		1		//Light Spear
-003,001		0			0			1			1			0		1		//Spear
-003,002		0			0			1			1			0		1		//Dragon Lance
-
-
-// opt: 0, luck: 1, exce: 2					
-003,000		0			0			1			1			0		2		//Light Spear
-003,001		0			0			1			1			0		2		//Spear
-003,002		0			0			1			1			0		2		//Dragon Lance
-
-
-//opt: 1, luck: 0, exce: 1			
-003,000		0			0			1			0			1		1		//Light Spear
-003,001		0			0			1			0			1		1		//Spear
-003,002		0			0			1			0			1		1		//Dragon Lance
-
-
-//opt: 1, luck: 0, exce: 2
-003,000		0			0			1			0			1		2		//Light Spear
-003,001		0			0			1			0			1		2		//Spear
-003,002		0			0			1			0			1		2		//Dragon Lance
-
-//opt: 1, luck: 1, exce: 1
-003,000		0			0			1			1			1		1		//Light Spear
-003,001		0			0			1			1			1		1		//Spear
-003,002		0			0			1			1			1		1		//Dragon Lance
-
-// opt: 1, luck: 1, exce: 2 
-003,000		0			0			1			1			1		2		//Light Spear
-003,001		0			0			1			1			1		2		//Spear
-003,002		0			0			1			1			1		2		//Dragon Lance
-
-// opt: 2, luck: 0, exce: 1
-003,000		0			0			1			0			2		1		//Light Spear
-003,001		0			0			1			0			2		1		//Spear
-003,002		0			0			1			0			2		1		//Dragon Lance
-
-// opt: 2, luck: 0, exce: 2
-003,000		0			0			1			0			2		2		//Light Spear
-003,001		0			0			1			0			2		2		//Spear
-003,002		0			0			1			0			2		2		//Dragon Lance
-
-// opt: 2, luck: 1, exce: 1
-003,000		0			0			1			1			2		1		//Light Spear
-003,001		0			0			1			1			2		1		//Spear
-003,002		0			0			1			1			2		1		//Dragon Lance
-
-//opt: 2, luck: 1, exce: 2
-003,000		0			0			1			1			2		2		//Light Spear
-003,001		0			0			1			1			2		2		//Spear
-003,002		0			0			1			1			2		2		//Dragon Lance
+//	MACES & SCEPTERS
+//=====================================				
+002,000		0			0			1			0			0		1		//Mace
+002,001		0			0			1			0			0		1		//Morning Star
+002,002		0			0			1			0			0		1		//Flail
 end
