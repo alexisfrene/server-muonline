@@ -1,0 +1,605 @@
+20:25:04 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+20:25:04 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+20:25:09 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+20:25:57 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:25:57 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:25:57 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:25:57 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:25:57 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:25:57 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:26:03 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:26:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1mg')
+20:26:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1mg')
+20:26:03 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1mg' WHERE Id='test1'
+20:26:03 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1mg'
+20:26:22 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+20:26:22 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+20:26:23 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+20:26:23 [ExecPreparedUpdateQuery] 0 rows updated
+20:26:23 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+20:26:23 [ExecPreparedUpdateQuery] 0 rows updated
+20:26:23 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+20:26:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:26:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:26:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:26:39 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:26:44 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:27:00 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=303, Class=48, LevelUpPoint=333, Experience=413278600, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1983557045, Life=12949, MaxLife=10360, Mana=12891, MaxMana=10314, BP=4550, MaxBP=4500, MapNumber=3, MapPosX=176, MapPosY=95, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+20:27:00 [ExecPreparedUpdateQuery] 1 rows updated
+20:33:36 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+20:33:36 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+20:33:38 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+20:33:55 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:33:55 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:33:55 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:33:55 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:33:55 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:33:55 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:39:13 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+20:39:13 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+20:39:15 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+20:39:29 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:39:29 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:39:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:39:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:39:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:39:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:43:36 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:43:36 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:43:36 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:43:36 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:43:36 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:43:36 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:44:22 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:44:22 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:44:22 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:44:22 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:44:22 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:44:22 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:44:24 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:44:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+20:44:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+20:44:24 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+20:44:24 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+20:45:41 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=692337622, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=0, MapPosX=132, MapPosY=132, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+20:45:41 [ExecPreparedUpdateQuery] 1 rows updated
+20:46:39 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+20:46:39 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+20:46:41 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+20:46:47 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:46:47 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:46:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:46:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:46:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:46:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:46:51 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:46:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+20:46:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+20:46:51 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+20:46:51 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+20:46:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:46:59 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=692337622, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=0, MapPosX=132, MapPosY=132, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+20:46:59 [ExecPreparedUpdateQuery] 1 rows updated
+20:48:29 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:48:29 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:48:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:48:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:48:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:48:29 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:48:30 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:48:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+20:48:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+20:48:30 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+20:48:30 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+20:48:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:48:41 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=692337622, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=0, MapPosX=132, MapPosY=134, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+20:48:41 [ExecPreparedUpdateQuery] 1 rows updated
+20:49:40 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:49:40 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:49:40 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:49:40 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:49:40 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:49:40 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:49:42 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:49:42 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+20:49:42 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+20:49:42 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+20:49:42 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+20:49:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:49:57 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:51:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:51:19 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+20:52:33 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+20:52:33 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+20:52:41 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1bk'
+20:52:41 [ExecPreparedUpdateQuery] 1 rows updated
+20:52:41 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+20:52:41 [ExecPreparedUpdateQuery] 1 rows updated
+20:52:41 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+20:54:05 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=390873822, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=0, MapPosX=134, MapPosY=142, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+20:54:05 [ExecPreparedUpdateQuery] 1 rows updated
+20:55:49 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+20:55:49 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+20:55:51 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+20:56:07 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+20:56:07 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+20:56:07 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+20:56:07 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:56:07 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+20:56:07 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+20:56:08 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+20:56:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+20:56:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+20:56:08 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+20:56:08 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+20:56:32 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=386013222, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=0, MapPosX=133, MapPosY=134, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+20:56:32 [ExecPreparedUpdateQuery] 1 rows updated
+21:02:03 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+21:02:03 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+21:02:05 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+21:02:14 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+21:02:14 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+21:02:14 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+21:02:14 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:02:14 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+21:02:14 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+21:02:16 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:02:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+21:02:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+21:02:16 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+21:02:16 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:02:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:03:02 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=386013222, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=0, MapPosX=148, MapPosY=139, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+21:03:02 [ExecPreparedUpdateQuery] 1 rows updated
+21:05:52 [ExecResultQuery] Query with results. Query: SELECT * FROM Guild
+21:05:52 [ExecResultQuery] Query with results. Query: SELECT * FROM GuildMember
+21:05:54 [ExecResultQuery] Query with results. Query: SELECT ItemCount FROM GameServerInfo WHERE Number=0
+21:06:08 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+21:06:08 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+21:06:08 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+21:06:08 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:06:08 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+21:06:08 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+21:06:10 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:06:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+21:06:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+21:06:10 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+21:06:10 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:06:43 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=386012222, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=3, MapPosX=180, MapPosY=100, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+21:06:43 [ExecPreparedUpdateQuery] 1 rows updated
+21:08:04 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+21:08:04 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+21:08:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+21:08:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:08:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+21:08:04 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+21:08:05 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:08:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1bk')
+21:08:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1bk')
+21:08:05 [ExecUpdateQuery] 0 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1bk' WHERE Id='test1'
+21:08:05 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1bk'
+21:08:27 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:08:27 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:08:29 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1bk'
+21:08:29 [ExecPreparedUpdateQuery] 1 rows updated
+21:08:29 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:08:29 [ExecPreparedUpdateQuery] 0 rows updated
+21:08:29 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:08:30 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:08:30 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:08:36 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1bk'
+21:08:36 [ExecPreparedUpdateQuery] 0 rows updated
+21:08:36 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:08:36 [ExecPreparedUpdateQuery] 0 rows updated
+21:08:36 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:08:41 [ExecResultQuery] Query with results. Query: SELECT Name FROM OptionData WHERE Name='test1bk'
+21:08:41 [PrepareQuery] Query prepared: UPDATE OptionData SET SkillKey=?, GameOption=6, Qkey=255, Wkey=3, Ekey=3, ChatWindow=15 WHERE Name='test1bk'
+21:08:41 [ExecPreparedUpdateQuery] 0 rows updated
+21:08:47 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=24, Class=17, LevelUpPoint=115, Experience=33856, Strength=528, Dexterity=520, Vitality=25, Energy=110, Inventory=?, MagicList=?, Money=386012222, Life=156, MaxLife=156, Mana=131, MaxMana=131, BP=300, MaxBP=300, MapNumber=3, MapPosX=175, MapPosY=90, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1bk'
+21:08:47 [ExecPreparedUpdateQuery] 1 rows updated
+21:08:47 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+21:08:47 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+21:08:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+21:08:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:08:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+21:08:47 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+21:08:54 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+21:08:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1fe')
+21:08:54 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1fe')
+21:08:54 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1fe' WHERE Id='test1'
+21:08:54 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1fe'
+21:09:01 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:09:01 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:09:03 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1fe'
+21:09:03 [ExecPreparedUpdateQuery] 0 rows updated
+21:09:03 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:09:03 [ExecPreparedUpdateQuery] 0 rows updated
+21:09:03 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:09:06 [ExecResultQuery] Query with results. Query: SELECT Name FROM OptionData WHERE Name='test1fe'
+21:09:06 [PrepareQuery] Query prepared: UPDATE OptionData SET SkillKey=?, GameOption=5, Qkey=255, Wkey=255, Ekey=255, ChatWindow=15 WHERE Name='test1fe'
+21:09:06 [ExecPreparedUpdateQuery] 0 rows updated
+21:09:12 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=400, Class=33, LevelUpPoint=20, Experience=3822148080, Strength=5000, Dexterity=32767, Vitality=5000, Energy=32767, Inventory=?, MagicList=?, Money=1890015800, Life=13463, MaxLife=10439, Mana=63791, MaxMana=49756, BP=16156, MaxBP=16106, MapNumber=3, MapPosX=173, MapPosY=96, MapDir=4, PkCount=1, PkLevel=4, PkTime=487, Quest=?, EffectList=?, FruitAddPoint=0, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1fe'
+21:09:12 [ExecPreparedUpdateQuery] 1 rows updated
+21:09:12 [ExecResultQuery] Query with results. Query: SELECT Id FROM AccountCharacter WHERE Id='test1'
+21:09:12 [ExecResultQuery] Query with results. Query: SELECT * FROM AccountCharacter WHERE Id='test1'
+21:09:12 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1sm'
+21:09:12 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1bk'
+21:09:12 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1fe'
+21:09:12 [ExecResultQuery] Query with results. Query: SELECT cLevel, Class, Inventory, CtlCode FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+21:09:14 [ExecResultQuery] Query with results. Query: SELECT * FROM `Character` WHERE AccountID='test1' AND Name='test1mg'
+21:09:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetResetInfo('test1', 'test1mg')
+21:09:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetGrandResetInfo('test1', 'test1mg')
+21:09:14 [ExecUpdateQuery] 1 rows updated. Query: UPDATE AccountCharacter SET GameIDC='test1mg' WHERE Id='test1'
+21:09:14 [ExecResultQuery] Query with results. Query: SELECT * FROM OptionData WHERE Name='test1mg'
+21:09:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:09:28 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:09:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:09:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:22 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:46 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:10:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:04 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:06 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:19 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:11:37 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:13 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:26 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:31 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:36 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:46 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:12:53 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:11 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:13 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:20 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:13:36 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:13:36 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:13:45 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:13:45 [ExecPreparedUpdateQuery] 1 rows updated
+21:13:45 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:13:45 [ExecPreparedUpdateQuery] 1 rows updated
+21:13:45 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:14:12 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:15 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:16 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:28 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:14:28 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:14:35 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:14:35 [ExecPreparedUpdateQuery] 1 rows updated
+21:14:35 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:14:35 [ExecPreparedUpdateQuery] 1 rows updated
+21:14:35 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:14:37 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:41 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:44 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:46 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:56 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:14:58 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:01 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:02 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:22 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:31 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:36 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:15:36 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:15:46 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:15:46 [ExecPreparedUpdateQuery] 1 rows updated
+21:15:46 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:15:46 [ExecPreparedUpdateQuery] 1 rows updated
+21:15:46 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:15:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:15:57 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:01 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:02 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:02 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:06 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:09 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:11 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:16:25 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:16:25 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:16:51 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:16:51 [ExecPreparedUpdateQuery] 1 rows updated
+21:16:51 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:16:51 [ExecPreparedUpdateQuery] 1 rows updated
+21:16:51 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:17:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:20 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:22 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:26 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:38 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:39 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:41 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:42 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:44 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:46 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:17:56 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:00 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:01 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=305, Class=48, LevelUpPoint=347, Experience=58559906, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1972967645, Life=11709, MaxLife=10362, Mana=11657, MaxMana=10316, BP=4550, MaxBP=4500, MapNumber=0, MapPosX=134, MapPosY=141, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:18:01 [ExecPreparedUpdateQuery] 1 rows updated
+21:18:02 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:06 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:10 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:12 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:14 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:20 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:22 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:26 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:28 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:31 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:18:44 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:18:44 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:19:55 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:19:56 [ExecPreparedUpdateQuery] 1 rows updated
+21:19:56 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:19:56 [ExecPreparedUpdateQuery] 1 rows updated
+21:19:56 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:20:38 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=306, Class=48, LevelUpPoint=354, Experience=59157200, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1972964645, Life=11710, MaxLife=10363, Mana=11658, MaxMana=10317, BP=4550, MaxBP=4500, MapNumber=6, MapPosX=64, MapPosY=116, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:20:38 [ExecPreparedUpdateQuery] 1 rows updated
+21:21:15 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:18 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:20 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:31 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:37 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:39 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:42 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:43 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:45 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:49 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:58 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:21:59 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:01 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:05 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:07 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:29 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:22:29 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:22:31 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:22:31 [ExecPreparedUpdateQuery] 1 rows updated
+21:22:31 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:22:31 [ExecPreparedUpdateQuery] 0 rows updated
+21:22:31 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:22:40 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:22:59 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:08 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:12 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:30 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:42 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:52 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:23:57 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:02 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:11 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:17 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:24 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:24:57 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:25:28 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:25:37 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:26:03 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:26:21 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=307, Class=48, LevelUpPoint=361, Experience=59770980, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1956811345, Life=11711, MaxLife=10364, Mana=12071, MaxMana=10318, BP=4550, MaxBP=4500, MapNumber=1, MapPosX=89, MapPosY=218, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:26:21 [ExecPreparedUpdateQuery] 1 rows updated
+21:27:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:27:29 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:27:31 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:27:51 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=310, Class=48, LevelUpPoint=382, Experience=61644456, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1956802845, Life=11714, MaxLife=10367, Mana=12074, MaxMana=10321, BP=4550, MaxBP=4500, MapNumber=8, MapPosX=104, MapPosY=142, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:27:51 [ExecPreparedUpdateQuery] 1 rows updated
+21:27:51 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:27:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:27:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:27:57 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:28:02 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=327, Class=48, LevelUpPoint=501, Experience=73221320, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1956802845, Life=11734, MaxLife=10384, Mana=12095, MaxMana=10338, BP=4550, MaxBP=4500, MapNumber=8, MapPosX=102, MapPosY=145, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:28:02 [ExecPreparedUpdateQuery] 1 rows updated
+21:28:53 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=328, Class=48, LevelUpPoint=508, Experience=73955808, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1956802845, Life=11735, MaxLife=10385, Mana=12096, MaxMana=10339, BP=4550, MaxBP=4500, MapNumber=8, MapPosX=101, MapPosY=144, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:28:53 [ExecPreparedUpdateQuery] 1 rows updated
+21:29:21 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:23 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:25 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:27 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:33 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:34 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:35 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:29:48 [ExecResultQuery] Query with results. Query: CALL WZ_GetItemSerial()
+21:30:10 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:30:10 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:30:23 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:30:23 [ExecPreparedUpdateQuery] 1 rows updated
+21:30:23 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:30:23 [ExecPreparedUpdateQuery] 0 rows updated
+21:30:23 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:31:11 [ExecResultQuery] Query with results. Query: SELECT AccountID FROM warehouse WHERE AccountID='test1'
+21:31:11 [ExecResultQuery] Query with results. Query: SELECT Items, Money, pw FROM warehouse WHERE AccountID='test1'
+21:31:15 [PrepareQuery] Query prepared: UPDATE `Character` SET Inventory=? WHERE AccountID='test1' AND Name='test1mg'
+21:31:15 [ExecPreparedUpdateQuery] 1 rows updated
+21:31:15 [PrepareQuery] Query prepared: UPDATE warehouse SET Items=?, Money=0 WHERE AccountID='test1'
+21:31:15 [ExecPreparedUpdateQuery] 0 rows updated
+21:31:15 [ExecUpdateQuery] 0 rows updated. Query: UPDATE warehouse SET pw=0 WHERE AccountID='test1'
+21:31:17 [ExecResultQuery] Query with results. Query: SELECT Name FROM OptionData WHERE Name='test1mg'
+21:31:17 [PrepareQuery] Query prepared: UPDATE OptionData SET SkillKey=?, GameOption=5, Qkey=255, Wkey=255, Ekey=255, ChatWindow=31 WHERE Name='test1mg'
+21:31:17 [ExecPreparedUpdateQuery] 1 rows updated
+21:31:22 [PrepareQuery] Query prepared: UPDATE `Character` SET cLevel=350, Class=48, LevelUpPoint=662, Experience=91760056, Strength=5000, Dexterity=5000, Vitality=5000, Energy=5002, Inventory=?, MagicList=?, Money=1956799545, Life=11760, MaxLife=10407, Mana=12122, MaxMana=10361, BP=4550, MaxBP=4500, MapNumber=3, MapPosX=173, MapPosY=96, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, Quest=?, EffectList=?, FruitAddPoint=2, FruitSubPoint=0 WHERE AccountID='test1' AND Name='test1mg'
+21:31:22 [ExecPreparedUpdateQuery] 1 rows updated

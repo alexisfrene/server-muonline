@@ -1,3 +1,0 @@
-23:58:43 [General][test1][test1bk] - (Message: /move Devias)
-23:58:47 [General][test1][test1bk] - (Message: /move Devias2)
-23:59:17 [General][test1][test1bk] - (Message: /make 8 0 0 0 )

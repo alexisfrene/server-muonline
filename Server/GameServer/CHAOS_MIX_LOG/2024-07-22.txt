@@ -1,4 +1,0 @@
-18:41:48 [GoldenArcher] [test1][test1mg] LuckyNumber Fail (Wrong Number)
-18:42:03 [GoldenArcher] [test1][test1mg] LuckyNumber Fail (Wrong Number)
-18:42:26 [GoldenArcher] [test1][test1mg] LuckyNumber Fail (Wrong Number)
-18:42:44 [GoldenArcher] [test1][test1mg] LuckyNumber Fail (Wrong Number)

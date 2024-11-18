@@ -1,9 +1,0 @@
-23:57:13 [ExecResultQuery] Query with results. Query: SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='test1'
-23:57:13 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocAccount('test1')
-23:57:13 [ExecUpdateQuery] 0 rows updated. Query: CALL WZ_DesblocCharacters('test1')
-23:57:13 [ExecResultQuery] Query with results. Query: SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='test1'
-23:57:13 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
-23:57:13 [ExecUpdateQuery] 1 rows updated. Query: CALL WZ_CONNECT_MEMB('test1', 'SV1', '192.168.1.65')
-23:57:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
-23:58:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')
-23:59:55 [ExecResultQuery] Query with results. Query: CALL WZ_GetAccountLevel('test1')

@@ -1,2 +1,0 @@
-15:33:02 [PlusItemLevelMix][Success][test1][test1mg] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
-15:33:16 [PlusItemLevelMix][Success][test1][test1mg] - (Type: 1, ChaosSuccessRate: 80, ChaosMoney: 4000000)

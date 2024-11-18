@@ -1,1 +1,0 @@
-07:06:49 [ExchangeTradeItem][test2][test2bk] - (Account: test1, Name: test1bk, Index: 0293, Level: 11, Serial: 00000000, Option1: 0, Option2: 1, Option3: 1, ExceOption: 000)

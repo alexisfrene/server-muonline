@@ -1,6 +1,0 @@
-17:44:55 [PlusItemLevelMix][Success][test1][test1bk] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
-17:45:10 [PlusItemLevelMix][Success][test1][test1bk] - (Type: 1, ChaosSuccessRate: 80, ChaosMoney: 4000000)
-17:45:24 [PlusItemLevelMix][Failure][test1][test1bk] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
-17:55:47 [PlusItemLevelMix][Failure][test1][test1bk] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
-17:55:58 [PlusItemLevelMix][Failure][test1][test1bk] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
-17:56:12 [PlusItemLevelMix][Success][test1][test1bk] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
